@@ -81,5 +81,5 @@ export function resolveCharacterImageUrl(character: Pick<Character, "imageKey" |
     return explicitUrl;
   }
 
-  return `/characters/${character.imageKey}.svg`;
+  return `${import.meta.env.BASE_URL}characters/${character.imageKey}.svg`;
 }

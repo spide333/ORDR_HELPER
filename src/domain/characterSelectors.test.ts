@@ -128,7 +128,7 @@ describe("resolveCharacterImageUrl", () => {
     );
 
     expect(resolveCharacterImageUrl({ ...baseCharacter, imageUrl: "", imageKey: "zoro" })).toBe(
-      "/characters/zoro.svg",
+      `${import.meta.env.BASE_URL}characters/zoro.svg`,
     );
   });
 });
