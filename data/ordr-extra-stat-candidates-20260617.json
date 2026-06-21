@@ -1,0 +1,4139 @@
+[
+  {
+    "id": "ord_38",
+    "sourceId": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "sourceNameKo": "나미 크리마 텍트",
+    "sheetRow": 2,
+    "이감": 0,
+    "발동이감": 5,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "5: ◎여진 : 해당 범위 3초간 이동속도 5% 감소를 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_45",
+    "sourceId": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "sourceNameKo": "바질 호킨스 초신성",
+    "sheetRow": 3,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_62",
+    "sourceId": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "sourceNameKo": "스모커 해군 준장",
+    "sheetRow": 4,
+    "이감": 5,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "5: ◎기본효과 : 800 범위 적 이동 속도 5% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_42",
+    "sourceId": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "sourceNameKo": "유스타스 키드 초신성",
+    "sheetRow": 5,
+    "이감": 5,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "5: ◎기본효과 : 800범위 적 이동 속도 5% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_50",
+    "sourceId": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "sourceNameKo": "크로커 다일 전 칠무해",
+    "sheetRow": 6,
+    "이감": 5,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "5: ◎기본효과 : 850 범위 적 이동 속도 5% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_35",
+    "sourceId": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "sourceNameKo": "토니토니 쵸파 두뇌 강화",
+    "sheetRow": 7,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_274",
+    "sourceId": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "sourceNameKo": "X-드레이크 알로사우로스",
+    "sheetRow": 8,
+    "이감": 10,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "10: ◎기본효과 : 825 범위 적 이동속도 10% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_82",
+    "sourceId": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "sourceNameKo": "바질 호킨스 스트로맨",
+    "sheetRow": 9,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_88",
+    "sourceId": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "sourceNameKo": "브룩 해골 음악가",
+    "sheetRow": 10,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_94",
+    "sourceId": "ord_94",
+    "nameKo": "사보 혁명군",
+    "sourceNameKo": "사보 혁명군",
+    "sheetRow": 11,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_87",
+    "sourceId": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "sourceNameKo": "슈가 도플패밀리 최고 간부",
+    "sheetRow": 12,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0.6,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "0.6: ◎기본효과 : 주변 800범위 내 아군 초당 마나 재생 0.6 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_102",
+    "sourceId": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "sourceNameKo": "유스타스 키드 '캡틴'키드",
+    "sheetRow": 13,
+    "이감": 15,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "15: ◎기본효과 : 800범위 적 이동속도 15% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_77",
+    "sourceId": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sourceNameKo": "쿠잔 해군대장 아오키지",
+    "sheetRow": 14,
+    "이감": 10,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "10: ◎기본효과 : 800범위 적 이동속도 10% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_68",
+    "sourceId": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sourceNameKo": "크로커 다일 Mr.0 Sir",
+    "sheetRow": 15,
+    "이감": 15,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "15: ◎기본효과 : 600범위 적 이동속도 15% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_90",
+    "sourceId": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "sourceNameKo": "토니토니 쵸파 혼 포인트",
+    "sheetRow": 16,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_86",
+    "sourceId": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sourceNameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sheetRow": 17,
+    "이감": 20,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "20: ◎기본효과 : 600범위 적 이동속도 20% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_103",
+    "sourceId": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sourceNameKo": "겟코 모리아",
+    "sheetRow": 18,
+    "이감": 30,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "30: ◎기본효과 : 850 범위 주변 적 이동속도 30% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_133",
+    "sourceId": "ord_133",
+    "nameKo": "골.D.에이스",
+    "sourceNameKo": "골.D.에이스",
+    "sheetRow": 19,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_130",
+    "sourceId": "ord_130",
+    "nameKo": "나미",
+    "sourceNameKo": "나미",
+    "sheetRow": 20,
+    "이감": 0,
+    "발동이감": 42,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "42: ◎여진 : 해당 범위 3초간 이동속도 42% 감소를 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_275",
+    "sourceId": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceNameKo": "네코마무시",
+    "sheetRow": 21,
+    "이감": 0,
+    "발동이감": 30,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "30: ◎추가효과 : 800 범위 이동속도 30% 감소"
+      ],
+      "boss": [
+        "◎발동대상 : 보스 공격 시 분노 폭발 사용"
+      ],
+      "furious": [
+        "▶ 광폭화 유닛에겐 전체체력 7.5% 추가 고정데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_116",
+    "sourceId": "ord_116",
+    "nameKo": "라분",
+    "sourceNameKo": "라분",
+    "sheetRow": 22,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 단일 적에게 30만 x 배수 (라인x1 / 보스x2 / 스토리x3) 추가 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_119",
+    "sourceId": "ord_119",
+    "nameKo": "로브 루치",
+    "sourceNameKo": "로브 루치",
+    "sheetRow": 23,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_118",
+    "sourceId": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "sourceNameKo": "롤로노아 조로",
+    "sheetRow": 24,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎추가효과 : 보스 공격 시 30% 확률로 50만 물리데미지 및 1초 스턴(저항무시)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_137",
+    "sourceId": "ord_137",
+    "nameKo": "마르코",
+    "sourceNameKo": "마르코",
+    "sheetRow": 25,
+    "이감": 30,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "30: ◎기본효과 : 875범위 적 이동속도 30% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_129",
+    "sourceId": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sourceNameKo": "마샬 · D · 티치",
+    "sheetRow": 26,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "▶ 보스 / 스토리는 30만 추가 마법데미지 를 주고 끌려오지 않음"
+      ],
+      "furious": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "▶ 광폭화 상태의 적에겐 피해량 증가 대신 400만 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_104",
+    "sourceId": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sourceNameKo": "몽키 · D · 루피",
+    "sheetRow": 27,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 단일 적에게 추가로 40만의 고정 데미지 (보스 1.25배 / 광폭화 7.5배)",
+        "▶ 보스, 광폭화에게는 전체 체력 0.75%의 추가 고정데미지",
+        "◎추가효과 : 보스, 광폭화에게는 조건을 무시하고 매 타격시마다 발생합니다."
+      ],
+      "furious": [
+        "▶ 단일 적에게 추가로 40만의 고정 데미지 (보스 1.25배 / 광폭화 7.5배)",
+        "▶ 보스, 광폭화에게는 전체 체력 0.75%의 추가 고정데미지",
+        "◎추가효과 : 보스, 광폭화에게는 조건을 무시하고 매 타격시마다 발생합니다."
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_107",
+    "sourceId": "ord_107",
+    "nameKo": "몽키.D.드래곤",
+    "sourceNameKo": "몽키.D.드래곤",
+    "sheetRow": 28,
+    "이감": 0,
+    "발동이감": 10,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "10: ◎추가효과 : 800범위 적 방어력 10, 이동속도 10% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_117",
+    "sourceId": "ord_117",
+    "nameKo": "바르토로메오",
+    "sourceNameKo": "바르토로메오",
+    "sheetRow": 29,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 라인x1 / 보스x2 / 스토리x3"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_128",
+    "sourceId": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "sourceNameKo": "바솔로뮤 쿠마",
+    "sheetRow": 30,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_108",
+    "sourceId": "ord_108",
+    "nameKo": "보아 핸콕",
+    "sourceNameKo": "보아 핸콕",
+    "sheetRow": 31,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 스토리에는 15만의 마법 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_123",
+    "sourceId": "ord_123",
+    "nameKo": "블랙마리아",
+    "sourceNameKo": "블랙마리아",
+    "sheetRow": 32,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_113",
+    "sourceId": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sourceNameKo": "빈스모크 레이쥬",
+    "sheetRow": 33,
+    "이감": 35,
+    "발동이감": 15,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "35: ◎기본효과 : 800범위 적군 이동속도 35% 감소"
+      ],
+      "baldongSlow": [
+        "15: ◎추가효과 : 공격한 유닛에게 6초간 초당 20만 마법데미지 및 이동속도 15%감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_120",
+    "sourceId": "ord_120",
+    "nameKo": "상디",
+    "sourceNameKo": "상디",
+    "sheetRow": 34,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_358",
+    "sourceId": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "sourceNameKo": "샬롯 브륄레",
+    "sheetRow": 35,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_255",
+    "sourceId": "ord_255",
+    "nameKo": "샬롯 크래커",
+    "sourceNameKo": "샬롯 크래커",
+    "sheetRow": 36,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_111",
+    "sourceId": "ord_111",
+    "nameKo": "샹크스",
+    "sourceNameKo": "샹크스",
+    "sheetRow": 37,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_110",
+    "sourceId": "ord_110",
+    "nameKo": "센고쿠",
+    "sourceNameKo": "센고쿠",
+    "sheetRow": 38,
+    "이감": 20,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0.25,
+    "체젠": 0.25,
+    "evidence": {
+      "slow": [
+        "20: ◎기본효과 : 800범위 적 이동속도 20% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "0.25: ◎격노 : 아군 공격력 40% + 체력 및 마나회복 초당 0.25 증가",
+        "0.25: ◎격노 : 아군 공격력 40% + 체력 및 마나회복 초당 0.25 증가"
+      ],
+      "hpRegen": [
+        "0.25: ◎격노 : 아군 공격력 40% + 체력 및 마나회복 초당 0.25 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_126",
+    "sourceId": "ord_126",
+    "nameKo": "슈가",
+    "sourceNameKo": "슈가",
+    "sheetRow": 39,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 1.25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "1.25: ◎기본효과 : 800범위 아군의 마나 초당 1.25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_106",
+    "sourceId": "ord_106",
+    "nameKo": "스모커",
+    "sourceNameKo": "스모커",
+    "sheetRow": 40,
+    "이감": 50,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "50: ◎기본효과 : 800범위 적 이동속도 50% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_268",
+    "sourceId": "ord_268",
+    "nameKo": "시노부",
+    "sourceNameKo": "시노부",
+    "sheetRow": 41,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 전체 체력 1.25%의 추가 마법 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_131",
+    "sourceId": "ord_131",
+    "nameKo": "시저 크라운",
+    "sourceNameKo": "시저 크라운",
+    "sheetRow": 42,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_109",
+    "sourceId": "ord_109",
+    "nameKo": "시키",
+    "sourceNameKo": "시키",
+    "sheetRow": 43,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_125",
+    "sourceId": "ord_125",
+    "nameKo": "실버즈 레일리",
+    "sourceNameKo": "실버즈 레일리",
+    "sheetRow": 44,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_267",
+    "sourceId": "ord_267",
+    "nameKo": "아마츠키 토키",
+    "sourceNameKo": "아마츠키 토키",
+    "sheetRow": 45,
+    "이감": 0,
+    "발동이감": 25,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "25: ◎추가효과 : 800범위 적 유닛 이동속도 25% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_112",
+    "sourceId": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sourceNameKo": "에드워드 뉴게이트",
+    "sheetRow": 46,
+    "이감": 0,
+    "발동이감": 25,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "25: ◎현기증 : 해당 범위 3초간 이동속도 25% 감소",
+        "10: ◎여진 : 해당 범위 2초간 이동속도 10% 감소를 유지"
+      ],
+      "boss": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "◎추가효과 : 보스, 스토리 대상 방어력 30 추가 감소"
+      ],
+      "furious": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_136",
+    "sourceId": "ord_136",
+    "nameKo": "울티",
+    "sourceNameKo": "울티",
+    "sheetRow": 47,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스에게 2배 / 스토리에게 3배의 데미지",
+        "◎추가효과 : 스토리, 보스에게 기본 공격 시 33% 확률로 10배 크리티컬"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_140",
+    "sourceId": "ord_140",
+    "nameKo": "장군좀비",
+    "sourceNameKo": "장군좀비",
+    "sheetRow": 48,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_132",
+    "sourceId": "ord_132",
+    "nameKo": "제파",
+    "sourceNameKo": "제파",
+    "sheetRow": 49,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 현재체력 2% 추가 고정 데미지",
+        "◎추가효과 : 보스, 광폭화 공격 시 425범위 전체 체력 0.3% 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 유닛 : 전체체력 12% 추가 고정 데미지",
+        "◎추가효과 : 보스, 광폭화 공격 시 425범위 전체 체력 0.3% 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_105",
+    "sourceId": "ord_105",
+    "nameKo": "징베",
+    "sourceNameKo": "징베",
+    "sheetRow": 50,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 2.5,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "2: ◎기본효과 : 자신의 마나 초당 2 증가",
+        "2.5: ◎추가효과 : 700범위 아군의 마나 초당 2.5 증가 (자신포함)"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_135",
+    "sourceId": "ord_135",
+    "nameKo": "쵸파",
+    "sourceNameKo": "쵸파",
+    "sheetRow": 51,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_115",
+    "sourceId": "ord_115",
+    "nameKo": "카르가라",
+    "sourceNameKo": "카르가라",
+    "sheetRow": 52,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 12초간 방어력 40 추가 감소"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_121",
+    "sourceId": "ord_121",
+    "nameKo": "코비",
+    "sourceNameKo": "코비",
+    "sheetRow": 53,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 1,
+    "체젠": 1,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 / 스토리에겐 12만 5,000의 추가 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [
+        "1: ◎추가효과 : 아군유닛 공격력 20% 증가 + 체력 및 마나회복 1 증가",
+        "1: ◎추가효과 : 아군유닛 공격력 20% 증가 + 체력 및 마나회복 1 증가"
+      ],
+      "hpRegen": [
+        "1: ◎추가효과 : 아군유닛 공격력 20% 증가 + 체력 및 마나회복 1 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_290",
+    "sourceId": "ord_290",
+    "nameKo": "킹",
+    "sourceNameKo": "킹",
+    "sheetRow": 54,
+    "이감": 10,
+    "발동이감": 45,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "10: ◎기본효과 : 825 범위 적 이동속도 10% 감소"
+      ],
+      "baldongSlow": [
+        "45: ◎추가효과 : 공격 시 단일 적 3초간 이동속도 45% 감소 + 초당 25만의 마법데미지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_134",
+    "sourceId": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sourceNameKo": "트라팔가 로우",
+    "sheetRow": 55,
+    "이감": 0,
+    "발동이감": 99,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "99: ◎추가효과 : 단일 적 2.5초간 이동속도 99% 감소 (최초 경직시간 1.25초 이후 서서히 이동속도 증가)"
+      ],
+      "boss": [
+        "▶ 보스 50% / 스토리 33%로 체력비례 데미지 감소",
+        "▶ 보스 50% / 스토리 33%로 체력비례 데미지 감소"
+      ],
+      "furious": [
+        "▶ 광폭화 상태의 적은 현재 체력 15% 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_122",
+    "sourceId": "ord_122",
+    "nameKo": "후지토라 잇쇼우",
+    "sourceNameKo": "후지토라 잇쇼우",
+    "sheetRow": 56,
+    "이감": 24,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "24: ◎기본효과 : 850범위 적 이동속도 24% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_349",
+    "sourceId": "ord_349",
+    "nameKo": "히바리",
+    "sourceNameKo": "히바리",
+    "sheetRow": 57,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화 : 전체 체력 7.5% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화 : 전체 체력 7.5% 추가 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_146",
+    "sourceId": "ord_146",
+    "nameKo": "방주맥심",
+    "sourceNameKo": "방주맥심",
+    "sheetRow": 58,
+    "이감": 0,
+    "발동이감": 30,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "30: ◎추가효과 : 해당 범위 3초간 이동속도 30% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_164",
+    "sourceId": "ord_164",
+    "nameKo": "류마",
+    "sourceNameKo": "류마",
+    "sheetRow": 59,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 스토리에는 15만 추가 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_148",
+    "sourceId": "ord_148",
+    "nameKo": "베르고",
+    "sourceNameKo": "베르고",
+    "sheetRow": 60,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_139",
+    "sourceId": "ord_139",
+    "nameKo": "레드포스호",
+    "sourceNameKo": "레드포스호",
+    "sheetRow": 61,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 전체체력 1.75% 추가 마법데미지",
+        "◎추가효과 : 보스, 광폭화, 스토리 공격 시 30% 확률로 5배 크리티컬 + 단일 적 0.7초 스턴"
+      ],
+      "furious": [
+        "▶ 광폭화 유닛 전체체력 7.5% 추가 마법데미지",
+        "◎추가효과 : 보스, 광폭화, 스토리 공격 시 30% 확률로 5배 크리티컬 + 단일 적 0.7초 스턴"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_155",
+    "sourceId": "ord_155",
+    "nameKo": "레베카",
+    "sourceNameKo": "레베카",
+    "sheetRow": 62,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_302",
+    "sourceId": "ord_302",
+    "nameKo": "료쿠규",
+    "sourceNameKo": "료쿠규",
+    "sheetRow": 63,
+    "이감": 0,
+    "발동이감": 20,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "15: ◎기본효과 : 기본 공격 시 해당 단일 적 5초간 이동속도 15% 감소시키고 초당 22만 5,000 마법데미지",
+        "20: ◎여진 : 스킬 발동 시 500범위 3초간 이동속도 20% 감소를 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_147",
+    "sourceId": "ord_147",
+    "nameKo": "모비딕호",
+    "sourceNameKo": "모비딕호",
+    "sheetRow": 64,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 1.25,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 925 범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": [
+        "1.25: ◎기본효과 : 주변 800범위 아군 초당 체력 1.25 회복"
+      ]
+    }
+  },
+  {
+    "id": "ord_158",
+    "sourceId": "ord_158",
+    "nameKo": "반더데켄",
+    "sourceNameKo": "반더데켄",
+    "sheetRow": 65,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_152",
+    "sourceId": "ord_152",
+    "nameKo": "발라티에",
+    "sourceNameKo": "발라티에",
+    "sheetRow": 66,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_163",
+    "sourceId": "ord_163",
+    "nameKo": "봉쿠레",
+    "sourceNameKo": "봉쿠레",
+    "sheetRow": 67,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_154",
+    "sourceId": "ord_154",
+    "nameKo": "시류",
+    "sourceNameKo": "시류",
+    "sheetRow": 68,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_160",
+    "sourceId": "ord_160",
+    "nameKo": "사보",
+    "sourceNameKo": "사보",
+    "sheetRow": 69,
+    "이감": 0,
+    "발동이감": 25,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "25: ◎추가효과 : 800범위 적 이동속도 25% 감소"
+      ],
+      "boss": [
+        "▶ 보스, 스토리는 30만 추가 마법 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_145",
+    "sourceId": "ord_145",
+    "nameKo": "써니호",
+    "sourceNameKo": "써니호",
+    "sheetRow": 70,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎기본효과 : 보스, 광폭화 타겟팅 시 첫 회에 한하여 마나 소모 없이 즉시 어흥포 Max 시전"
+      ],
+      "furious": [
+        "◎기본효과 : 보스, 광폭화 타겟팅 시 첫 회에 한하여 마나 소모 없이 즉시 어흥포 Max 시전",
+        "◎데미지 : 광폭화 유닛일 경우 전체체력 45%의 추가 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_329",
+    "sourceId": "ord_329",
+    "nameKo": "스튜시",
+    "sourceNameKo": "스튜시",
+    "sheetRow": 71,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 스토리는 20만의 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_161",
+    "sourceId": "ord_161",
+    "nameKo": "아카이누",
+    "sourceNameKo": "아카이누",
+    "sheetRow": 72,
+    "이감": 0,
+    "발동이감": 10,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "10: ◎여진 : 해당 범위 2초간 이동속도 10% 감소를 유지"
+      ],
+      "boss": [
+        "◎발동조건 : 보스 타격 시 체력이 50일 경우 발동 (자연회복 + 2)",
+        "▶ 보스에게는 스킬 피해량의 350% 추가 마법데미지"
+      ],
+      "furious": [
+        "◎추가효과 : 600범위 적들의 마법 방어력 10% 감소 (광폭화 대상 발동 시 적용 X)",
+        "▶ 광폭화 유닛에게는 1회에 한하여 체력 소모 없이 즉시 명구 발동",
+        "▶ 광폭화 유닛에게는 전체체력 18%의 추가 고정데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_149",
+    "sourceId": "ord_149",
+    "nameKo": "이완코브",
+    "sourceNameKo": "이완코브",
+    "sheetRow": 73,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 1,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": [
+        "1: ◎발동효과 : 대상 아군유닛 공격력 45%증가 + 체력회복률 초당 1 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_156",
+    "sourceId": "ord_156",
+    "nameKo": "검호",
+    "sourceNameKo": "검호",
+    "sheetRow": 74,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_253",
+    "sourceId": "ord_253",
+    "nameKo": "캐럿",
+    "sourceNameKo": "캐럿",
+    "sheetRow": 75,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_165",
+    "sourceId": "ord_165",
+    "nameKo": "아오키지",
+    "sourceNameKo": "아오키지",
+    "sheetRow": 76,
+    "이감": 35,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "35: ◎기본효과 : 800범위 유닛 이동속도 35% 감소 오라"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_150",
+    "sourceId": "ord_150",
+    "nameKo": "키쿠",
+    "sourceNameKo": "키쿠",
+    "sheetRow": 77,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 전체체력 9% 마법데미지"
+      ],
+      "furious": [
+        "▶ 일반, 광폭화 : 전체체력 27% 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_166",
+    "sourceId": "ord_166",
+    "nameKo": "킬러",
+    "sourceNameKo": "킬러",
+    "sheetRow": 78,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎추가효과 : 보스 공격시 40% 확률로 현재체력의 0.9% 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 유닛에게는 전체체력 5.75%의 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_151",
+    "sourceId": "ord_151",
+    "nameKo": "피셔타이거",
+    "sourceNameKo": "피셔타이거",
+    "sheetRow": 79,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎추가효과 : 보스 / 광폭화 유닛에게 발동 시 따라붙음",
+        "▶ 보스 / 광폭화 유닛 현재체력 2.5%의 추가 고정 데미지 (피해량 감소 무시)"
+      ],
+      "furious": [
+        "◎추가효과 : 보스 / 광폭화 유닛에게 발동 시 따라붙음",
+        "▶ 보스 / 광폭화 유닛 현재체력 2.5%의 추가 고정 데미지 (피해량 감소 무시)"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_366",
+    "sourceId": "ord_366",
+    "nameKo": "바제스",
+    "sourceNameKo": "바제스",
+    "sheetRow": 80,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 스토리, 보스, 광폭화일 경우 단일 적 85만 마법 데미지",
+        "▶ 스토리, 보스, 광폭화일 경우 단일 적 22만 마법 데미지"
+      ],
+      "furious": [
+        "▶ 스토리, 보스, 광폭화일 경우 단일 적 85만 마법 데미지",
+        "▶ 스토리, 보스, 광폭화일 경우 단일 적 22만 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_353_1",
+    "sourceId": "ord_353",
+    "nameKo": "블랙마리아(스턴)",
+    "sourceNameKo": "블랙마리아(스턴)",
+    "sheetRow": 81,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 900범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [
+        "▶ 라인몹, 광폭화에게는 잃은 체력 5% 추가 물리 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_353_2",
+    "sourceId": "ord_353",
+    "nameKo": "블랙마리아(이감)",
+    "sourceNameKo": "블랙마리아(이감)",
+    "sheetRow": 82,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 900범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [
+        "▶ 라인몹, 광폭화에게는 잃은 체력 5% 추가 물리 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_353_3",
+    "sourceId": "ord_353",
+    "nameKo": "블랙마리아(딜)",
+    "sourceNameKo": "블랙마리아(딜)",
+    "sheetRow": 83,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 900범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [
+        "▶ 라인몹, 광폭화에게는 잃은 체력 5% 추가 물리 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_367",
+    "sourceId": "ord_367",
+    "nameKo": "에이스",
+    "sourceNameKo": "에이스",
+    "sheetRow": 84,
+    "이감": 20,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "20: ◎기본효과 : 900범위 적 이동속도 20% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_153",
+    "sourceId": "ord_153",
+    "nameKo": "코알라",
+    "sourceNameKo": "코알라",
+    "sheetRow": 85,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 3.25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화에게는 전체체력 2.5% 추가 고정데미지"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화에게는 전체체력 2.5% 추가 고정데미지"
+      ],
+      "manaRegen": [
+        "2: ◎기본효과 : 자신의 마나 초당 2 회복",
+        "3.25: ▶ 700범위 아군의 마나 초당 3.25 증가 (자신 포함)"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_348",
+    "sourceId": "ord_348",
+    "nameKo": "퀸",
+    "sourceNameKo": "퀸",
+    "sheetRow": 86,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 1,
+    "체젠": 1,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 광폭화, 보스에게는 1회에 한하여 즉시 발동"
+      ],
+      "furious": [
+        "▶ 광폭화, 보스에게는 1회에 한하여 즉시 발동"
+      ],
+      "manaRegen": [
+        "1: ◎기본효과 : 700범위 아군 체력 및 마나회복 1 증가",
+        "1: ◎기본효과 : 700범위 아군 체력 및 마나회복 1 증가"
+      ],
+      "hpRegen": [
+        "1: ◎기본효과 : 700범위 아군 체력 및 마나회복 1 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_141",
+    "sourceId": "ord_141",
+    "nameKo": "페로나",
+    "sourceNameKo": "페로나",
+    "sheetRow": 87,
+    "이감": 45,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "45: ◎기본효과 : 915범위 적 이동속도 45% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 스토리, 보스에게는 120만의 마법 데미지 및 마법방어력 7% 감소"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_170",
+    "sourceId": "ord_170",
+    "nameKo": "돈키호테 도플라밍고",
+    "sourceNameKo": "돈키호테 도플라밍고",
+    "sheetRow": 88,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_266",
+    "sourceId": "ord_266",
+    "nameKo": "베이비 5",
+    "sourceNameKo": "베이비 5",
+    "sheetRow": 89,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 현재 체력 1.5% 추가 마법데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 전체 체력 10% 추가 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_173",
+    "sourceId": "ord_173",
+    "nameKo": "비비",
+    "sourceNameKo": "비비",
+    "sheetRow": 90,
+    "이감": 0,
+    "발동이감": 20,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "20: ◎추가효과 : 750 범위 적 이동속도 20% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_347",
+    "sourceId": "ord_347",
+    "nameKo": "카쿠",
+    "sourceNameKo": "카쿠",
+    "sheetRow": 91,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_254",
+    "sourceId": "ord_254",
+    "nameKo": "캐럿 스론",
+    "sourceNameKo": "캐럿 스론",
+    "sheetRow": 92,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_193",
+    "sourceId": "ord_193",
+    "nameKo": "레베카",
+    "sourceNameKo": "레베카",
+    "sheetRow": 93,
+    "이감": 0,
+    "발동이감": 50,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "50: ◎추가효과 : 해당 범위 이동속도 50% 감소"
+      ],
+      "boss": [
+        "▶ 보스/광폭화에게는 발동확률이 20%로 증가"
+      ],
+      "furious": [
+        "▶ 보스/광폭화에게는 발동확률이 20%로 증가"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_326",
+    "sourceId": "ord_326",
+    "nameKo": "마르코",
+    "sourceNameKo": "마르코",
+    "sheetRow": 94,
+    "이감": 60,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 4,
+    "evidence": {
+      "slow": [
+        "45: ◎기본효과 : 875범위 적 이동속도 45% 감소",
+        "60: ◎기본효과 : 875범위 적 이동속도 60% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 / 스토리에겐 20만 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": [
+        "3: ◎기본효과 : 아군의 체력을 초당 +3 회복",
+        "3: ◎기본효과 : 아군의 체력을 초당 +3 회복",
+        "4: ◎기본효과 : 아군의 체력을 초당 + 4 회복",
+        "4: ◎기본효과 : 아군의 체력을 초당 + 4 회복"
+      ]
+    }
+  },
+  {
+    "id": "ord_251",
+    "sourceId": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sourceNameKo": "샬롯 카타쿠리",
+    "sheetRow": 95,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 2.85,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎기본효과 : 보스, 광폭화, 스토리 공격시마다 6.25배 크리티컬 + 0.1초 스턴",
+        "▶ 보스, 광폭화 유닛에게는 100% 확률로 발동",
+        "◎기본효과 : 보스, 광폭화, 스토리 공격시마다 8배 크리티컬 + 0.1초 스턴"
+      ],
+      "furious": [
+        "◎기본효과 : 보스, 광폭화, 스토리 공격시마다 6.25배 크리티컬 + 0.1초 스턴",
+        "▶ 보스, 광폭화 유닛에게는 100% 확률로 발동",
+        "◎기본효과 : 보스, 광폭화, 스토리 공격시마다 8배 크리티컬 + 0.1초 스턴"
+      ],
+      "manaRegen": [],
+      "hpRegen": [
+        "2.85: ◎추가효과 : 아군 체력 초당 2.85 회복",
+        "2.85: ◎추가효과 : 아군 체력 초당 2.85 회복"
+      ]
+    }
+  },
+  {
+    "id": "ord_269",
+    "sourceId": "ord_269",
+    "nameKo": "시노부",
+    "sourceNameKo": "시노부",
+    "sheetRow": 96,
+    "이감": 30,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "30: ◎기본효과 : 850범위 적 이동속도 30% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스에게는 전체 체력 2%의 추가 마법 데미지",
+        "▶ 보스, 광폭화 유닛은 1회 한정 조건 무시"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화 유닛은 1회 한정 조건 무시"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_142",
+    "sourceId": "ord_142",
+    "nameKo": "아인",
+    "sourceNameKo": "아인",
+    "sheetRow": 97,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스에게는 발동 X / 보스로는 변경되지 않음"
+      ],
+      "furious": [
+        "▶ 단일 적에게 30만의 추가 마법데미지 (광폭화에게는 10배)",
+        "▶ 단일적에게 30만의 추가 마법데미지 (광폭화에게는 10배)"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_331",
+    "sourceId": "ord_331",
+    "nameKo": "알비다",
+    "sourceNameKo": "알비다",
+    "sheetRow": 98,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎추가효과 : 공격시 단일 적 100% 확률 3초 스턴 (보스 1.5초)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_215",
+    "sourceId": "ord_215",
+    "nameKo": "에넬",
+    "sourceNameKo": "에넬",
+    "sheetRow": 99,
+    "이감": 0,
+    "발동이감": 35,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 1.5,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "35: ◎현기증 : 해당 범위 4초간 이동속도 35% 감소",
+        "35: ◎현기증 : 해당 범위 4초간 이동속도 35% 감소",
+        "35: ◎현기증 : 해당 범위 4초간 이동속도 35% 감소",
+        "35: ◎현기증 : 해당 범위 4초간 이동속도 35% 감소"
+      ],
+      "boss": [
+        "▶ 단일 적에게 추가로 850만의 마법데미지 (보스 / 광폭화 / 스토리에게는 2배 + 전체체력의 10%의 데미지)",
+        "▶ 보스 / 광폭화 / 스토리에게는 100% 확률로 발동 (같은 스킬 중복 불가능 / 핸콕 영원함의 패기와 중복 불가능)"
+      ],
+      "furious": [
+        "▶ 단일 적에게 추가로 850만의 마법데미지 (보스 / 광폭화 / 스토리에게는 2배 + 전체체력의 10%의 데미지)",
+        "▶ 보스 / 광폭화 / 스토리에게는 100% 확률로 발동 (같은 스킬 중복 불가능 / 핸콕 영원함의 패기와 중복 불가능)"
+      ],
+      "manaRegen": [
+        "1.5: ◎기본효과 : 주위 마나회복 초당 + 1.5"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_187",
+    "sourceId": "ord_187",
+    "nameKo": "크로커다일",
+    "sourceNameKo": "크로커다일",
+    "sheetRow": 100,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 850범위 적 방어력 25 감소 / 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_291",
+    "sourceId": "ord_291",
+    "nameKo": "킹",
+    "sourceNameKo": "킹",
+    "sheetRow": 101,
+    "이감": 0,
+    "발동이감": 45,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "45: ◎추가효과 : 공격시 단일 적 3초간 이동속도 45% 감소 + 초당 30만의 마법데미지"
+      ],
+      "boss": [
+        "▶ 단일 적에게 1000만의 고정데미지 (보스에게는 10만의 고정데미지 )"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_214",
+    "sourceId": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "sourceNameKo": "패트릭 레드필드",
+    "sheetRow": 102,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 대상이 보스라면 발동확률 100%로 증가하고, 두 배의 데미지를 줍니다.",
+        "▶ 스토리 및 보스 : 14만 2,500의 마법 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_192",
+    "sourceId": "ord_192",
+    "nameKo": "나미",
+    "sourceNameKo": "나미",
+    "sheetRow": 103,
+    "이감": 0,
+    "발동이감": 45,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "45: ◎여진 : 해당 범위 3초간 45%의 이동 속도 감소를 유지",
+        "45: ▶ 800 범위 5초간 45% 이동속도 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_197",
+    "sourceId": "ord_197",
+    "nameKo": "니코 로빈",
+    "sourceNameKo": "니코 로빈",
+    "sheetRow": 104,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_369",
+    "sourceId": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceNameKo": "닥터 베가펑크 (베어)",
+    "sheetRow": 105,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 825범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 단일 적 전체체력 2% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 단일 적 전체체력 4.4% 추가 마법 데미지"
+      ],
+      "manaRegen": [
+        "25: ◎추가효과 : 3초간 자신의 '새틀라이트'들의 마나 초당 25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_370",
+    "sourceId": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceNameKo": "닥터 베가펑크 (샤크)",
+    "sheetRow": 106,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 825범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 단일 적 전체체력 2% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 단일 적 전체체력 4.4% 추가 마법 데미지"
+      ],
+      "manaRegen": [
+        "25: ◎추가효과 : 3초간 자신의 '새틀라이트'들의 마나 초당 25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_368",
+    "sourceId": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceNameKo": "닥터 베가펑크 (스네이크)",
+    "sheetRow": 107,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 825범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 단일 적 전체체력 2% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 단일 적 전체체력 4.4% 추가 마법 데미지"
+      ],
+      "manaRegen": [
+        "25: ◎추가효과 : 3초간 자신의 '새틀라이트'들의 마나 초당 25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_371",
+    "sourceId": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceNameKo": "닥터 베가펑크 (호크)",
+    "sheetRow": 108,
+    "이감": 40,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "40: ◎기본효과 : 825범위 적 이동속도 40% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 단일 적 전체체력 2% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 단일 적 전체체력 4.4% 추가 마법 데미지"
+      ],
+      "manaRegen": [
+        "25: ◎추가효과 : 3초간 자신의 '새틀라이트'들의 마나 초당 25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_209",
+    "sourceId": "ord_209",
+    "nameKo": "대령 타시기",
+    "sourceNameKo": "대령 타시기",
+    "sheetRow": 109,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화에게는 전체체력 3% 마법 데미지"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화에게는 전체체력 3% 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_208",
+    "sourceId": "ord_208",
+    "nameKo": "도플라밍고",
+    "sourceNameKo": "도플라밍고",
+    "sheetRow": 110,
+    "이감": 0,
+    "발동이감": 250,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "250: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소",
+        "75: ◎여진 : 해당 범위 2초간 이동속도 75% 감소를 유지",
+        "250: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소",
+        "75: ◎여진 : 해당 범위 2초간 이동속도 75% 감소를 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_250",
+    "sourceId": "ord_250",
+    "nameKo": "로브 루치",
+    "sourceNameKo": "로브 루치",
+    "sheetRow": 111,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스/스토리는 현재체력 비례 대신 50만의 추가 마법데미지",
+        "▶ 보스/스토리는 현재체력 비례 대신 50만의 추가 마법데미지"
+      ],
+      "furious": [
+        "▶ 신세계 광폭화 유닛에게 단일 피해량 페널티 영향을 무시"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_191",
+    "sourceId": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "sourceNameKo": "롤로노아 조로",
+    "sheetRow": 112,
+    "이감": 0,
+    "발동이감": 30,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "30: ◎추가효과 : 815범위 이동속도 30% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_321",
+    "sourceId": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "sourceNameKo": "롤로노아 조로 (강화)",
+    "sheetRow": 113,
+    "이감": 0,
+    "발동이감": 35,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "35: ◎추가효과 : 815범위 이동속도 35% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_323",
+    "sourceId": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "sourceNameKo": "롤로노아 조로 (염왕)",
+    "sheetRow": 114,
+    "이감": 0,
+    "발동이감": 42,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "42: ◎추가효과 : 815범위 이동속도 42% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_273",
+    "sourceId": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sourceNameKo": "루피 - 기어포스",
+    "sheetRow": 115,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스에게 추가 전체체력 0.85% 마법데미지 (광폭화 적에게는 두배 데미지를 줍니다)"
+      ],
+      "furious": [
+        "▶ 보스에게 추가 전체체력 0.85% 마법데미지 (광폭화 적에게는 두배 데미지를 줍니다)"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_204",
+    "sourceId": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sourceNameKo": "마샬 · D · 티치",
+    "sheetRow": 116,
+    "이감": 0,
+    "발동이감": 75,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "70: ◎추가효과 : 3초간 이동속도 70% 감소",
+        "10: ◎여진 : 스킬 발동 후 해당 범위 2초간 10%의 이동 속도 감소",
+        "75: ◎추가효과 : 3초간 이동속도 75% 감소",
+        "10: ◎여진 : 스킬 발동 후 해당 범위 2초간 10%의 이동 속도 감소"
+      ],
+      "boss": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동"
+      ],
+      "furious": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "▶ 광폭화 상태의 적에게는 모든 이로운 버프를 제거하고 400만 마법 데미지",
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "▶ 광폭화 상태의 적에게는 모든 이로운 버프를 제거하고 600만 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_189",
+    "sourceId": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sourceNameKo": "몽키 · D · 루피",
+    "sheetRow": 117,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 광폭화 및 보스에게 발동확률과 데미지 70% 증가 (10.6% 확률 및 106만 2,500의 물리데미지)"
+      ],
+      "furious": [
+        "▶ 광폭화 및 보스에게 발동확률과 데미지 70% 증가 (10.6% 확률 및 106만 2,500의 물리데미지)"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_270",
+    "sourceId": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sourceNameKo": "바질 호킨스",
+    "sheetRow": 118,
+    "이감": 7,
+    "발동이감": 7,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "7: ◎기본효과 : 800범위 적 이동속도 7% 감소"
+      ],
+      "baldongSlow": [
+        "7: ◎추가효과 : 단일 적 7초간 이동속도 7% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_199",
+    "sourceId": "ord_199",
+    "nameKo": "브룩",
+    "sourceNameKo": "브룩",
+    "sheetRow": 119,
+    "이감": 12,
+    "발동이감": 15,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "5: ▶ 맵 전체 적군 유닛 이동속도 5% 감소",
+        "12: ◎기본효과 : 800 범위 적 이동속도 12% 감소"
+      ],
+      "baldongSlow": [
+        "15: ◎추가효과 : 750범위 적군 이동속도 15% 감소"
+      ],
+      "boss": [
+        "◎추가효과 : 매 공격 시마다 단일 적에게 전체 체력의 6%의 폭발형 데미지 (보스, 스토리에는 7만 5,000의 마법데미지 )"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_216",
+    "sourceId": "ord_216",
+    "nameKo": "사보",
+    "sourceNameKo": "사보",
+    "sheetRow": 120,
+    "이감": 0,
+    "발동이감": 35,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "30: ◎여진 : 해당 범위 이동 속도 30% 감소를 지속 시간 동안 유지",
+        "35: ◎추가효과 : 850범위 적 이동속도 35% 감소",
+        "30: ◎현기증 : 해당 범위 2초간 이동속도 30% 감소"
+      ],
+      "boss": [
+        "▶ 단일 적에게 50만 + (자신의 버프 수 x 5만)의 마법데미지 및 전체체력 4%의 물리데미지 (보스 1%)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_190",
+    "sourceId": "ord_190",
+    "nameKo": "상디",
+    "sourceNameKo": "상디",
+    "sheetRow": 121,
+    "이감": 0,
+    "발동이감": 55,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 1.25,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "50: ◎현기증 : 해당 범위 3.5초 이동속도 50% 감소",
+        "55: ◎현기증 : 해당 범위 3.5초 이동속도 55% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "1.25: ▶ 초당 마나회복 속도 1.25 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_205",
+    "sourceId": "ord_205",
+    "nameKo": "샹크스",
+    "sourceNameKo": "샹크스",
+    "sheetRow": 122,
+    "이감": 0,
+    "발동이감": 99,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 1.35,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "99: ◎추가효과 : 시전 후 3초간 해당 범위 이동속도 99% 감소"
+      ],
+      "boss": [
+        "◎사용조건 : 보스/스토리에만 사용 가능",
+        "▶ 보스 : 현재체력 10% 추가 고정 데미지",
+        "▶ 이 스킬은 한 개체수한테 1회만 발동합니다. (보스/광폭화에게는 조건무시 모두 발동) (해당 스킬은 중복적용 불가능)"
+      ],
+      "furious": [
+        "▶ 이 스킬은 한 개체수한테 1회만 발동합니다. (보스/광폭화에게는 조건무시 모두 발동) (해당 스킬은 중복적용 불가능)"
+      ],
+      "manaRegen": [
+        "1.35: ▶ 또는 마나 35 채울시마다 발동 (초당 자연회복 + 1.35)"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_200",
+    "sourceId": "ord_200",
+    "nameKo": "시라호시",
+    "sourceNameKo": "시라호시",
+    "sheetRow": 123,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_303",
+    "sourceId": "ord_303",
+    "nameKo": "로큐규",
+    "sourceNameKo": "로큐규",
+    "sheetRow": 124,
+    "이감": 0,
+    "발동이감": 25,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "25: ◎현기증 : 해당 범위 3초간 이동 속도 25% 감소",
+        "25: ◎현기증 : 해당 범위 3초간 이동 속도 25% 감소",
+        "25: ◎여진 : 스킬 발동 시 해당범위 3초간 이동속도 25% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_201",
+    "sourceId": "ord_201",
+    "nameKo": "아카이누",
+    "sourceNameKo": "아카이누",
+    "sheetRow": 125,
+    "이감": 0,
+    "발동이감": 12,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "12: ◎추가효과 : 해당 범위 2초간 이동속도 12% 감소"
+      ],
+      "boss": [
+        "◎발동조건 : 보스, 광폭화 타격 시 3.5초마다 발동"
+      ],
+      "furious": [
+        "◎발동조건 : 보스, 광폭화 타격 시 3.5초마다 발동",
+        "▶ 광폭화 유닛에게는 전체체력 18% 추가 고정 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_299",
+    "sourceId": "ord_299",
+    "nameKo": "야마토",
+    "sourceNameKo": "야마토",
+    "sheetRow": 126,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_195",
+    "sourceId": "ord_195",
+    "nameKo": "우솝",
+    "sourceNameKo": "우솝",
+    "sheetRow": 127,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 단일 적에게는 60만의 추가 마법데미지 (보스 125% / 스토리 150%)",
+        "▶ 보스 공격시 전체체력 2.5%의 관통물리데미지",
+        "◎추가효과 : 보스 공격시 100% 확률로 1초 스턴",
+        "▶ 보스 : 스킬피해량의 100% + 전체체력 4.25% 추가 고정 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 스킬피해량의 200% + 전체체력 14.25% 추가 고정 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_195_1",
+    "sourceId": "ord_195",
+    "nameKo": "우솝 식물",
+    "sourceNameKo": "우솝",
+    "sheetRow": 128,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 단일 적에게는 60만의 추가 마법데미지 (보스 125% / 스토리 150%)",
+        "▶ 보스 공격시 전체체력 2.5%의 관통물리데미지",
+        "◎추가효과 : 보스 공격시 100% 확률로 1초 스턴",
+        "▶ 보스 : 스킬피해량의 100% + 전체체력 4.25% 추가 고정 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 스킬피해량의 200% + 전체체력 14.25% 추가 고정 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_330",
+    "sourceId": "ord_330",
+    "nameKo": "주얼리 보니",
+    "sourceNameKo": "주얼리 보니",
+    "sheetRow": 129,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 45,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "45: ◎추가효과 : 마나회복 45"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_272",
+    "sourceId": "ord_272",
+    "nameKo": "징베",
+    "sourceNameKo": "징베",
+    "sheetRow": 130,
+    "이감": 0,
+    "발동이감": 50,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 3,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "50: ◎현기증 : 해당 범위 3초간 이동 속도 50% 감소",
+        "50: ◎현기증 : 해당 범위 3초간 이동 속도 50% 감소"
+      ],
+      "boss": [
+        "▶ 아머브레이크 75 이상인 적에게 전체체력 3.5% 추가 고정 데미지 (스토리, 보스, 광폭화에게는 25% 적용)"
+      ],
+      "furious": [
+        "▶ 아머브레이크 75 이상인 적에게 전체체력 3.5% 추가 고정 데미지 (스토리, 보스, 광폭화에게는 25% 적용)"
+      ],
+      "manaRegen": [
+        "3: ◎기본효과 : 마나 회복속도 3 증가 및 공격속도 20% 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_196",
+    "sourceId": "ord_196",
+    "nameKo": "쵸파",
+    "sourceNameKo": "쵸파",
+    "sheetRow": 131,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_350",
+    "sourceId": "ord_350",
+    "nameKo": "코비",
+    "sourceNameKo": "코비",
+    "sheetRow": 132,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_202",
+    "sourceId": "ord_202",
+    "nameKo": "아오키지",
+    "sourceNameKo": "아오키지",
+    "sheetRow": 133,
+    "이감": 0,
+    "발동이감": 20,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0.33,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "20: ◎추가효과 : 기본 공격 시 대상의 이동 속도 20% 감소"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "0.33: ◎추가효과 : 자신의 초당 마나회복 0.33 추가",
+        "0.33: ◎기본효과3 : 자신의 마나회복 초당 0.33 증가"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_292",
+    "sourceId": "ord_292",
+    "nameKo": "키드",
+    "sourceNameKo": "키드",
+    "sheetRow": 134,
+    "이감": 35,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "35: ◎기본효과 : 이동속도 35% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_203",
+    "sourceId": "ord_203",
+    "nameKo": "키자루",
+    "sourceNameKo": "키자루",
+    "sheetRow": 135,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화에게 전체 체력 0.375%의 추가 고정 데미지"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화에게 전체 체력 0.375%의 추가 고정 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_206",
+    "sourceId": "ord_206",
+    "nameKo": "트라팔가 로우",
+    "sourceNameKo": "트라팔가 로우",
+    "sheetRow": 136,
+    "이감": 0,
+    "발동이감": 99,
+    "보스": 0,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "45: ◎여진 : 해당 범위 5초간 이동속도 45% 감소",
+        "45: ◎여진 : 해당 범위 5초간 이동속도 45% 감소",
+        "99: ◎현기증 : 단일 적 3초간 이동속도 99% 감소 (최초 경직시간 1.25초 이후 서서히 이동속도 증가)",
+        "40: ◎현기증 : 해당 범위 3초간 이동속도 40% 감소",
+        "99: ◎추가효과 : 단일 적 5초간 이동속도 99% 감소 (최초 경직시간 2.5초 이후 서서히 이동속도 증가)"
+      ],
+      "boss": [],
+      "furious": [
+        "▶ 광폭화 상태의 적에게는 방어력 증가 효과를 삭제하고 현재 체력 33%의 추가 고정 데미지",
+        "▶ 광폭화 상태의 적에게는 방어력 증가 효과를 삭제하고 현재 체력 50%의 추가 고정 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_198",
+    "sourceId": "ord_198",
+    "nameKo": "프랑키",
+    "sourceNameKo": "프랑키",
+    "sheetRow": 137,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 5,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "5: ◎기본효과 : 자신을 제외한 주변 유닛 초당 5의 마나 회복"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_207",
+    "sourceId": "ord_207",
+    "nameKo": "후지토라",
+    "sourceNameKo": "후지토라",
+    "sheetRow": 138,
+    "이감": 55,
+    "발동이감": 99,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "55: ◎기본효과 : 적 이동속도 55% 감소"
+      ],
+      "baldongSlow": [
+        "99: ◎여진 : 해당 범위 4초간 이동속도 99% 감소를 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_177",
+    "sourceId": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sourceNameKo": "골 · D · 로져",
+    "sheetRow": 139,
+    "이감": 0,
+    "발동이감": 200,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "99: ◎추가효과 : 시전 후 3초간 해당 범위 이동속도 99% 감소",
+        "50: ◎추가효과 : 850범위 적 방어력 60감소 및 이동 속도 50% 감소",
+        "200: ◎추가효과 : 해당 범위 3.25초간 이동속도 200% 감소",
+        "99: ◎추가효과 : 단일 적 1초간 이동속도 99% 감소 (최초 경직시간 0.5초 이후 서서히 이동속도 증가)"
+      ],
+      "boss": [
+        "◎사용조건 : 보스/스토리에만 사용 가능",
+        "▶ 보스 : 현재체력 50% 추가 고정 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_175",
+    "sourceId": "ord_175",
+    "nameKo": "금사자 시키",
+    "sourceNameKo": "금사자 시키",
+    "sheetRow": 140,
+    "이감": 0,
+    "발동이감": 35,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "35: ◎여진 : 해당 범위 이동속도 35% 감소를 5초간 유지"
+      ],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_356",
+    "sourceId": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceNameKo": "더글라스 불릿",
+    "sheetRow": 141,
+    "이감": 20,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "20: ◎기본효과 : 주변 800범위 이동속도 20% 감소 추가"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "◎페널티 : 보스/스토리 데미지 없음",
+        "◎기본효과 : 보스/스토리 데미지 추가"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_182",
+    "sourceId": "ord_182",
+    "nameKo": "몽키 · D · 거프",
+    "sourceNameKo": "몽키 · D · 거프",
+    "sheetRow": 142,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎데미지 : 단일 적 현재체력 5%의 물리데미지 (보스/스토리 현재체력 0.5%)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_183",
+    "sourceId": "ord_183",
+    "nameKo": "몽키 · D · 드래곤",
+    "sourceNameKo": "몽키 · D · 드래곤",
+    "sheetRow": 143,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 스토리 및 보스 전체체력 2% 마법 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_211",
+    "sourceId": "ord_211",
+    "nameKo": "빅 맘",
+    "sourceNameKo": "빅 맘",
+    "sheetRow": 144,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_179",
+    "sourceId": "ord_179",
+    "nameKo": "센고쿠",
+    "sourceNameKo": "센고쿠",
+    "sheetRow": 145,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_179",
+    "sourceId": "ord_179",
+    "nameKo": "센고쿠(특성강화)",
+    "sourceNameKo": "센고쿠(특성강화)",
+    "sheetRow": 146,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_178",
+    "sourceId": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sourceNameKo": "스코퍼 가반",
+    "sheetRow": 147,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 전체체력 10% 고정데미지",
+        "▶ 보스 : 전체체력 15% 고정데미지",
+        "▶ 스토리 및 보스에게는 발동확률 13%로 감소",
+        "▶ 광폭화/보스에게는 방어력 70 감소"
+      ],
+      "furious": [
+        "▶ 광폭화/보스에게는 방어력 70 감소"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_176",
+    "sourceId": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sourceNameKo": "실버즈 레일리",
+    "sheetRow": 148,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "◎추가효과 : 해당 범위 3초 스턴 (보스 1초) 및 5의 아머브레이크 (최대 75 까지 감소)"
+      ],
+      "furious": [
+        "▶ 대상이 광폭화 유닛일 경우 전체체력 18%의 추가 물리데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_180",
+    "sourceId": "ord_180",
+    "nameKo": "흰수염",
+    "sourceNameKo": "흰수염",
+    "sheetRow": 149,
+    "이감": 0,
+    "발동이감": 45,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "45: ◎현기증 : 해당 범위 3.5초간 이동속도 45% 감소",
+        "10: ◎여진 : 해당 범위 2초간 이동속도 10% 감소를 유지"
+      ],
+      "boss": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동"
+      ],
+      "furious": [
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동",
+        "◎속공 : 보스, 광폭화 유닛은 1회 한정 조건 무시 발동"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_181",
+    "sourceId": "ord_181",
+    "nameKo": "제트",
+    "sourceNameKo": "제트",
+    "sheetRow": 150,
+    "이감": 35,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "35: ◎기본효과 : 900범위 적 이동속도 35% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 타겟 대상이 보스라면 100%의 추가 마법데미지"
+      ],
+      "furious": [
+        "▶ 대상이 광폭화 상태라면 공격시마다 전체체력 2.5%의 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_257",
+    "sourceId": "ord_257",
+    "nameKo": "카이도",
+    "sourceNameKo": "카이도",
+    "sheetRow": 151,
+    "이감": 60,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0.5,
+    "evidence": {
+      "slow": [
+        "60: ◎기본효과 : 1,025범위 적 이동속도 60% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": [
+        "0.5: ▶ 자동으로 변신 시 11초간 자신의 공격력 35% 증가와 초당 +0.5 체력회복 버프 및 라그나라크 or 브레스 즉시 발동"
+      ]
+    }
+  },
+  {
+    "id": "ord_359",
+    "sourceId": "ord_359",
+    "nameKo": "길드 테조로",
+    "sourceNameKo": "길드 테조로",
+    "sheetRow": 152,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 광폭화, 보스 : 전체체력 20% 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화, 보스 : 전체체력 20% 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_218",
+    "sourceId": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sourceNameKo": "네펠타리 비비",
+    "sheetRow": 153,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 / 스토리에겐 40만의 데미지",
+        "▶ 보스 : 50만의 마법데미지",
+        "▶ 보스 / 스토리 100만의 마법데미지",
+        "▶ 보스 : 10만 x 알라바스타 레벨 마법데미지",
+        "▶ 보스 : 10만 x 알라바스타 레벨 마법데미지"
+      ],
+      "furious": [
+        "◎기본효과 : 공격시 10% 확률로 5배 크리티컬 및 광폭화 페널티 무시"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_305",
+    "sourceId": "ord_305",
+    "nameKo": "니카",
+    "sourceNameKo": "니카",
+    "sheetRow": 154,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_346",
+    "sourceId": "ord_346",
+    "nameKo": "류마",
+    "sourceNameKo": "류마",
+    "sheetRow": 155,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 스토리에게는 잃은 체력 3% 추가 폭발형 데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_219",
+    "sourceId": "ord_219",
+    "nameKo": "버기",
+    "sourceNameKo": "버기",
+    "sheetRow": 156,
+    "이감": 25,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "25: ◎기본효과 : 800범위 적 방어력 30 감소, 이동속도 25% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_222",
+    "sourceId": "ord_222",
+    "nameKo": "보아 핸콕",
+    "sourceNameKo": "보아 핸콕",
+    "sheetRow": 157,
+    "이감": 0,
+    "발동이감": 60,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "60: ◎현기증 : 600범위 2.5초 이동 속도 60% 감소"
+      ],
+      "boss": [
+        "▶ 타격 시마다 단일 적 전체체력 16%의 마법데미지(스토리 / 보스 30만 마법데미지)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_222",
+    "sourceId": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)",
+    "sourceNameKo": "보아 핸콕(특성강화)",
+    "sheetRow": 158,
+    "이감": 0,
+    "발동이감": 60,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "60: ◎현기증 : 600범위 2.5초 이동 속도 60% 감소"
+      ],
+      "boss": [
+        "▶ 타격 시마다 단일 적 전체체력 16%의 마법데미지(스토리 / 보스 30만 마법데미지)"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_308",
+    "sourceId": "ord_308",
+    "nameKo": "우타",
+    "sourceNameKo": "우타",
+    "sheetRow": 159,
+    "이감": 45,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "45: ◎기본효과 : 우타월드 범위안에서는 적군의 이동속도 45% 감소 및 아군의 공격력이 30% 증가"
+      ],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 / 스토리는 100만 추가 마법데미지"
+      ],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_221",
+    "sourceId": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sourceNameKo": "쥬라클 미호크",
+    "sheetRow": 160,
+    "이감": 45,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 2,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "45: ◎기본효과2 : 900범위 적 이동속도 45% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [
+        "2: ◎기본효과 : 초당 자신의 마나 +2 회복"
+      ],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_220",
+    "sourceId": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sourceNameKo": "카벤딧슈",
+    "sheetRow": 161,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스 : 전체체력 10% 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 전체체력 25% 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_276",
+    "sourceId": "ord_276",
+    "nameKo": "코즈키 오뎅",
+    "sourceNameKo": "코즈키 오뎅",
+    "sheetRow": 162,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [
+        "▶ 광폭화 : 전체 체력 4% 추가 마법데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_217",
+    "sourceId": "ord_217",
+    "nameKo": "포트거스.D.에이스",
+    "sourceNameKo": "포트거스.D.에이스",
+    "sheetRow": 163,
+    "이감": 45,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [
+        "45: ◎기본효과 : 900범위 적 이동속도 45% 감소",
+        "45: ◎기본효과 : 900범위 적 이동속도 45% 감소"
+      ],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_363",
+    "sourceId": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceNameKo": "S - 베어",
+    "sheetRow": 164,
+    "이감": 0,
+    "발동이감": 40,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [
+        "40: ◎여진 : 해당 범위 4초간 이동속도 40% 감소"
+      ],
+      "boss": [
+        "▶ 보스 : 단일 적 전체체력 5% 추가 마법 데미지"
+      ],
+      "furious": [
+        "▶ 광폭화 : 단일 적 전체체력 30% 추가 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_364",
+    "sourceId": "ord_364",
+    "nameKo": "S - 샤크",
+    "sourceNameKo": "S - 샤크",
+    "sheetRow": 165,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 1.75,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": [
+        "1.75: ◎투지 : 공격력 55% + 체력회복 초당 1.75 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_365",
+    "sourceId": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sourceNameKo": "S - 스네이크",
+    "sheetRow": 166,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화, 스토리에게는 30만(x1~2) 마법 데미지",
+        "▶ 보스, 광폭화, 스토리에게는 40만(x1~2) 마법 데미지"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화, 스토리에게는 30만(x1~2) 마법 데미지",
+        "▶ 보스, 광폭화, 스토리에게는 40만(x1~2) 마법 데미지"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_362",
+    "sourceId": "ord_362",
+    "nameKo": "S - 호크",
+    "sourceNameKo": "S - 호크",
+    "sheetRow": 167,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 1,
+    "광폭화": 1,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [
+        "▶ 보스, 광폭화 공격 시 발동 확률 10% 증가",
+        "▶ 보스, 광폭화에게 전체체력 5% 추가 마법 데미지",
+        "▶ 보스, 광폭화 공격 시 발동 확률 10% 증가"
+      ],
+      "furious": [
+        "▶ 보스, 광폭화 공격 시 발동 확률 10% 증가",
+        "▶ 보스, 광폭화에게 전체체력 5% 추가 마법 데미지",
+        "▶ 보스, 광폭화 공격 시 발동 확률 10% 증가"
+      ],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_226",
+    "sourceId": "ord_226",
+    "nameKo": "모건",
+    "sourceNameKo": "모건",
+    "sheetRow": 168,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_228",
+    "sourceId": "ord_228",
+    "nameKo": "블고리",
+    "sourceNameKo": "블고리",
+    "sheetRow": 169,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_224",
+    "sourceId": "ord_224",
+    "nameKo": "페루",
+    "sourceNameKo": "페루",
+    "sheetRow": 170,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  },
+  {
+    "id": "ord_360",
+    "sourceId": "ord_360",
+    "nameKo": "폭시",
+    "sourceNameKo": "폭시",
+    "sheetRow": 171,
+    "이감": 0,
+    "발동이감": 0,
+    "보스": 0,
+    "광폭화": 0,
+    "마젠": 0,
+    "체젠": 0,
+    "evidence": {
+      "slow": [],
+      "baldongSlow": [],
+      "boss": [],
+      "furious": [],
+      "manaRegen": [],
+      "hpRegen": []
+    }
+  }
+]

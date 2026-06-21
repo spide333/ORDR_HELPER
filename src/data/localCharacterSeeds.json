@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "grade": "special",
+    "damageType": "common",
+    "sortName": "나미 크리마 텍트",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "grade": "special",
+    "damageType": "physical",
+    "sortName": "바질 호킨스 초신성",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "grade": "special",
+    "damageType": "common",
+    "sortName": "스모커 해군 준장",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "grade": "special",
+    "damageType": "common",
+    "sortName": "유스타스 키드 초신성",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "grade": "special",
+    "damageType": "common",
+    "sortName": "크로커 다일 전 칠무해",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "grade": "special",
+    "damageType": "physical",
+    "sortName": "토니토니 쵸파 두뇌 강화",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "grade": "rare",
+    "damageType": "physical",
+    "sortName": "X-드레이크 알로사우로스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "grade": "rare",
+    "damageType": "physical",
+    "sortName": "바질 호킨스 스트로맨",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "브룩 해골 음악가",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_94",
+    "nameKo": "사보 혁명군",
+    "grade": "rare",
+    "damageType": "physical",
+    "sortName": "사보 혁명군",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "슈가 도플패밀리 최고 간부",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "유스타스 키드 '캡틴'키드",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "쿠잔 해군대장 아오키지",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "크로커 다일 Mr.0 Sir",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "토니토니 쵸파 혼 포인트",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "grade": "rare",
+    "damageType": "common",
+    "sortName": "페로나 홀로홀로열매 - 네거티브",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "겟코 모리아",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_133",
+    "nameKo": "골.D.에이스",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "골.D.에이스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_130",
+    "nameKo": "나미",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "나미",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "네코마무시",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "라분",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_119",
+    "nameKo": "로브 루치",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "로브 루치",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "롤로노아 조로",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "마르코",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "티치",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "티치",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "나이트메어",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "나이트메어",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "드래곤",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "드래곤",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "바르토로메오",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "바솔로뮤 쿠마",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "보아 핸콕",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_123",
+    "nameKo": "블랙마리아",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "블랙마리아",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "레이쥬",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "레이쥬",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_120",
+    "nameKo": "상디",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "상디",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "샬롯 브륄레",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_255",
+    "nameKo": "크래커",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "크래커",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "샹크스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "센고쿠",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_126",
+    "nameKo": "슈가",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "슈가",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "스모커",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "시노부",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_131",
+    "nameKo": "시저 크라운",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "시저 크라운",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_109",
+    "nameKo": "시키",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "시키",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_125",
+    "nameKo": "레일리",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "레일리",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "토키",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "토키",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "흰수염",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "흰수염",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "울티",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_140",
+    "nameKo": "장군좀비",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "장군좀비",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "제파",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_105",
+    "nameKo": "징베",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "징베",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_135",
+    "nameKo": "쵸파",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "쵸파",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "카르가라",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "코비",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "킹",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "로우",
+    "grade": "legendary",
+    "damageType": "magical",
+    "sortName": "로우",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라",
+    "grade": "legendary",
+    "damageType": "common",
+    "sortName": "후지토라",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "grade": "legendary",
+    "damageType": "physical",
+    "sortName": "히바리",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_146",
+    "nameKo": "방주맥심",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "방주맥심",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "류마",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_148",
+    "nameKo": "베르고",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "베르고",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "레드포스호",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_155",
+    "nameKo": "레베카",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "레베카",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "료쿠규",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "grade": "hidden",
+    "damageType": "common",
+    "sortName": "모비딕호",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_158",
+    "nameKo": "반더데켄",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "반더데켄",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_152",
+    "nameKo": "발라티에",
+    "grade": "hidden",
+    "damageType": "common",
+    "sortName": "발라티에",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "봉쿠레",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_154",
+    "nameKo": "시류",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "시류",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "사보",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "써니호",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "스튜시",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "아카이누",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "grade": "hidden",
+    "damageType": "common",
+    "sortName": "이완코브",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_156",
+    "nameKo": "검호",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "검호",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_253",
+    "nameKo": "캐럿",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "캐럿",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "아오키지",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "grade": "hidden",
+    "damageType": "magical",
+    "sortName": "키쿠",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "grade": "hidden",
+    "damageType": "physical",
+    "sortName": "킬러",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "grade": "hidden",
+    "damageType": "common",
+    "sortName": "피셔타이거",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "grade": "distortion",
+    "damageType": "magical",
+    "sortName": "바제스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "grade": "distortion",
+    "damageType": "physical",
+    "sortName": "블랙마리아(스턴)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "grade": "distortion",
+    "damageType": "physical",
+    "sortName": "블랙마리아(이감)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "grade": "distortion",
+    "damageType": "physical",
+    "sortName": "블랙마리아(딜)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "grade": "distortion",
+    "damageType": "common",
+    "sortName": "에이스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "grade": "distortion",
+    "damageType": "magical",
+    "sortName": "코알라",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "grade": "distortion",
+    "damageType": "physical",
+    "sortName": "퀸",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "grade": "distortion",
+    "damageType": "magical",
+    "sortName": "페로나",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_170",
+    "nameKo": "도플라밍고",
+    "grade": "changed",
+    "damageType": "magical",
+    "sortName": "도플라밍고",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "grade": "changed",
+    "damageType": "magical",
+    "sortName": "베이비 5",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "grade": "changed",
+    "damageType": "physical",
+    "sortName": "비비",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_347",
+    "nameKo": "카쿠",
+    "grade": "changed",
+    "damageType": "magical",
+    "sortName": "카쿠",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_254",
+    "nameKo": "캐럿 스론",
+    "grade": "changed",
+    "damageType": "magical",
+    "sortName": "캐럿 스론",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "레베카",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "grade": "limited",
+    "damageType": "common",
+    "sortName": "마르코",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_326_up",
+    "nameKo": "마르코(특강)",
+    "grade": "limited",
+    "damageType": "common",
+    "sortName": "마르코(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "카타쿠리",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "카타쿠리",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "grade": "limited",
+    "damageType": "magical",
+    "sortName": "시노부",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "grade": "limited",
+    "damageType": "magical",
+    "sortName": "아인",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "알비다",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "grade": "limited",
+    "damageType": "magical",
+    "sortName": "에넬",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "크로커다일",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_187_up",
+    "nameKo": "크로커다일(특강)",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "크로커다일(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "킹",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_291_up",
+    "nameKo": "킹(특강)",
+    "grade": "limited",
+    "damageType": "physical",
+    "sortName": "킹(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "grade": "limited",
+    "damageType": "magical",
+    "sortName": "패트릭 레드필드",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_192",
+    "nameKo": "나미",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "나미",
+    "legendaryValue": 2.2222
+  },
+  {
+    "id": "ord_197",
+    "nameKo": "로빈",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "로빈",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "닥터 베가펑크",
+    "legendaryValue": 0.3333
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "대령 타시기",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_208",
+    "nameKo": "도플라밍고",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "도플라밍고",
+    "legendaryValue": 0.3333
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "로브 루치",
+    "legendaryValue": 1.1111
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "롤로노아 조로",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "롤로노아 조로 (강화)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "롤로노아 조로 (염왕)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "루피 - 기어포스",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_273_up",
+    "nameKo": "루피 - 기어포스(특강)",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "루피 - 기어포스(특강)",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "티치",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "티치",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "루피",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "루피",
+    "legendaryValue": 2.3333
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "바질 호킨스",
+    "legendaryValue": 2.6666
+  },
+  {
+    "id": "ord_270_up",
+    "nameKo": "바질 호킨스(특강)",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "바질 호킨스(특강)",
+    "legendaryValue": 2.6666
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "브룩",
+    "legendaryValue": 1.4444
+  },
+  {
+    "id": "ord_199_up",
+    "nameKo": "브룩(특강)",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "브룩(특강)",
+    "legendaryValue": 1.4444
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "사보",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_190",
+    "nameKo": "상디",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "상디",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_190_up",
+    "nameKo": "상디(특강)",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "상디(특강)",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "샹크스",
+    "legendaryValue": 1.4444
+  },
+  {
+    "id": "ord_205_up",
+    "nameKo": "샹크스(특강)",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "샹크스(특강)",
+    "legendaryValue": 1.4444
+  },
+  {
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "시라호시",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_303",
+    "nameKo": "로큐규",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "로큐규",
+    "legendaryValue": 1.1111
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "아카이누",
+    "legendaryValue": 1.1111
+  },
+  {
+    "id": "ord_299",
+    "nameKo": "야마토",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "야마토",
+    "legendaryValue": 2.5555
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "우솝",
+    "legendaryValue": 2.3333
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물(스턴)",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "우솝 식물",
+    "legendaryValue": 2.3333
+  },
+  {
+    "id": "ord_330",
+    "nameKo": "보니",
+    "grade": "transcend",
+    "damageType": "common",
+    "sortName": "보니",
+    "legendaryValue": 1.2222
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "징베",
+    "legendaryValue": 2.1111
+  },
+  {
+    "id": "ord_196",
+    "nameKo": "쵸파",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "쵸파",
+    "legendaryValue": 2
+  },
+  {
+    "id": "ord_350",
+    "nameKo": "코비",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "코비",
+    "legendaryValue": 2.4444
+  },
+  {
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "아오키지",
+    "legendaryValue": 1.1111
+  },
+  {
+    "id": "ord_202_up",
+    "nameKo": "아오키지(특강)",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "아오키지(특강)",
+    "legendaryValue": 1.1111
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "키드",
+    "legendaryValue": 1.5555
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "키자루",
+    "legendaryValue": 2.5555
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "로우",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "로우",
+    "legendaryValue": 2
+  },
+  {
+    "id": "ord_198",
+    "nameKo": "프랑키",
+    "grade": "transcend",
+    "damageType": "magical",
+    "sortName": "프랑키",
+    "legendaryValue": 1.4444
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "grade": "transcend",
+    "damageType": "physical",
+    "sortName": "후지토라",
+    "legendaryValue": 1.3333
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "로져",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "로져",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_177_up",
+    "nameKo": "로져(특강)",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "로져(특강)",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_175",
+    "nameKo": "시키",
+    "grade": "immortal",
+    "damageType": "common",
+    "sortName": "시키",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "더글라스 불릿",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "거프",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "거프",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "드래곤",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "드래곤",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_183_up",
+    "nameKo": "드래곤(특강)",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "드래곤(특강)",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_211",
+    "nameKo": "빅 맘",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "빅 맘",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_211_up",
+    "nameKo": "빅 맘(특강)",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "빅 맘(특강)",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "센고쿠",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_179_up",
+    "nameKo": "센고쿠(특강)",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "센고쿠(특강)",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "스코퍼 가반",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "레일리",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "레일리",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "흰수염",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "grade": "immortal",
+    "damageType": "magical",
+    "sortName": "제트",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "grade": "immortal",
+    "damageType": "physical",
+    "sortName": "카이도",
+    "legendaryValue": 3
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "길드 테조로",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_359_up",
+    "nameKo": "길드 테조로(특강)",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "길드 테조로(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "비비",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "비비",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_305",
+    "nameKo": "니카",
+    "grade": "eternal",
+    "damageType": "physical",
+    "sortName": "니카",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "류마",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "grade": "eternal",
+    "damageType": "physical",
+    "sortName": "버기",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "핸콕",
+    "grade": "eternal",
+    "damageType": "common",
+    "sortName": "핸콕",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_222_up",
+    "nameKo": "핸콕(특강)",
+    "grade": "eternal",
+    "damageType": "common",
+    "sortName": "핸콕(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "우타",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "쥬라클 미호크",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "grade": "eternal",
+    "damageType": "physical",
+    "sortName": "카벤딧슈",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_220_up",
+    "nameKo": "카벤딧슈(특강)",
+    "grade": "eternal",
+    "damageType": "physical",
+    "sortName": "카벤딧슈(특강)",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "오뎅",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "오뎅",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "에이스",
+    "grade": "eternal",
+    "damageType": "magical",
+    "sortName": "에이스",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "grade": "seraphim",
+    "damageType": "magical",
+    "sortName": "S - 베어",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_364",
+    "nameKo": "S - 샤크",
+    "grade": "seraphim",
+    "damageType": "physical",
+    "sortName": "S - 샤크",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "grade": "seraphim",
+    "damageType": "magical",
+    "sortName": "S - 스네이크",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "grade": "seraphim",
+    "damageType": "physical",
+    "sortName": "S - 호크",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_226",
+    "nameKo": "모건",
+    "grade": "specialUnit",
+    "damageType": "common",
+    "sortName": "모건",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_228",
+    "nameKo": "블고리",
+    "grade": "specialUnit",
+    "damageType": "physical",
+    "sortName": "블고리",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_224",
+    "nameKo": "페루",
+    "grade": "specialUnit",
+    "damageType": "common",
+    "sortName": "페루",
+    "legendaryValue": 0
+  },
+  {
+    "id": "ord_360",
+    "nameKo": "폭시",
+    "grade": "specialUnit",
+    "damageType": "common",
+    "sortName": "폭시",
+    "legendaryValue": 0
+  }
+]

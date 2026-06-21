@@ -1,0 +1,142 @@
+.card {
+  position: relative;
+  display: grid;
+  grid-template-rows: minmax(64px, 1fr) auto;
+  gap: 8px;
+  min-width: 0;
+  min-height: 126px;
+  padding: 8px;
+  border: 1px solid #d8dee8;
+  border-radius: 8px;
+  color: #161b24;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgb(22 27 36 / 8%);
+  cursor: pointer;
+}
+
+.card:focus-visible {
+  outline: 2px solid #f0a22e;
+  outline-offset: 2px;
+}
+
+.card[aria-pressed="true"] {
+  border-color: #c57b1d;
+  box-shadow: 0 0 0 2px rgb(240 162 46 / 28%);
+}
+
+.thumbnailWrap {
+  position: relative;
+  display: grid;
+  min-height: 64px;
+  overflow: hidden;
+  place-items: center;
+  border-radius: 7px;
+  background: #eef1f5;
+}
+
+.fallback {
+  position: absolute;
+  color: #6b7280;
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+.thumbnail {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.body {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+  text-align: left;
+}
+
+.name,
+.grade {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.name {
+  color: #151923;
+  font-size: 0.88rem;
+  font-weight: 800;
+}
+
+.grade {
+  color: #646d7d;
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.check {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 2;
+  display: grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  border-radius: 999px;
+  color: #ffffff;
+  background: #232a35;
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+.special {
+  border-top-color: #7aa5c7;
+}
+
+.rare {
+  border-top-color: #3e8cbe;
+}
+
+.legendary {
+  border-top-color: #d3a11d;
+}
+
+.hidden {
+  border-top-color: #6c7a89;
+}
+
+.changed {
+  border-top-color: #2f9277;
+}
+
+.transcend {
+  border-top-color: #4b8a68;
+}
+
+.immortal {
+  border-top-color: #b85c38;
+}
+
+.limited {
+  border-top-color: #8b6f47;
+}
+
+.eternal {
+  border-top-color: #7c5bb5;
+}
+
+.distortion {
+  border-top-color: #b5455b;
+}
+
+.specialUnit {
+  border-top-color: #536d8f;
+}
+
+.seraphim {
+  border-top-color: #c15f92;
+}

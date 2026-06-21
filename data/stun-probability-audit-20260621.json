@@ -1,0 +1,303 @@
+[
+  {
+    "row": 2,
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 3,
+    "id": "ord_116",
+    "nameKo": "라분",
+    "stunProb1": 27,
+    "stunProb2": ""
+  },
+  {
+    "row": 4,
+    "id": "ord_107",
+    "nameKo": "드래곤",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 5,
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 6,
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 7,
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 8,
+    "id": "ord_109",
+    "nameKo": "시키",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 9,
+    "id": "ord_122",
+    "nameKo": "후지토라",
+    "stunProb1": 14,
+    "stunProb2": ""
+  },
+  {
+    "row": 10,
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "stunProb1": 12,
+    "stunProb2": ""
+  },
+  {
+    "row": 11,
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 12,
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "stunProb1": 12,
+    "stunProb2": ""
+  },
+  {
+    "row": 13,
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 14,
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 15,
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "stunProb1": 15,
+    "stunProb2": ""
+  },
+  {
+    "row": 16,
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "stunProb1": 5,
+    "stunProb2": ""
+  },
+  {
+    "row": 17,
+    "id": "ord_187_up",
+    "nameKo": "크로커다일(특강)",
+    "stunProb1": 5,
+    "stunProb2": ""
+  },
+  {
+    "row": 18,
+    "id": "ord_197",
+    "nameKo": "로빈",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 19,
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 20,
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "stunProb1": 3,
+    "stunProb2": ""
+  },
+  {
+    "row": 21,
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "stunProb1": 3,
+    "stunProb2": ""
+  },
+  {
+    "row": 22,
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "stunProb1": 3,
+    "stunProb2": ""
+  },
+  {
+    "row": 23,
+    "id": "ord_189",
+    "nameKo": "루피",
+    "stunProb1": 2.5,
+    "stunProb2": 12.5
+  },
+  {
+    "row": 24,
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 25,
+    "id": "ord_205_up",
+    "nameKo": "샹크스(특강)",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 26,
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "stunProb1": 12,
+    "stunProb2": ""
+  },
+  {
+    "row": 27,
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물(스턴)",
+    "stunProb1": 20,
+    "stunProb2": ""
+  },
+  {
+    "row": 28,
+    "id": "ord_330",
+    "nameKo": "보니",
+    "stunProb1": 12,
+    "stunProb2": ""
+  },
+  {
+    "row": 29,
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 30,
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "stunProb1": 8.25,
+    "stunProb2": ""
+  },
+  {
+    "row": 31,
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "stunProb1": 4.5,
+    "stunProb2": 15
+  },
+  {
+    "row": 32,
+    "id": "ord_175",
+    "nameKo": "시키",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 33,
+    "id": "ord_182",
+    "nameKo": "거프",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 34,
+    "id": "ord_183",
+    "nameKo": "드래곤",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 35,
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 36,
+    "id": "ord_179_up",
+    "nameKo": "센고쿠(특강)",
+    "stunProb1": 8,
+    "stunProb2": 10
+  },
+  {
+    "row": 37,
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "stunProb1": 4.5,
+    "stunProb2": ""
+  },
+  {
+    "row": 38,
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "stunProb1": 12,
+    "stunProb2": ""
+  },
+  {
+    "row": 39,
+    "id": "ord_305",
+    "nameKo": "니카",
+    "stunProb1": 10,
+    "stunProb2": 20
+  },
+  {
+    "row": 40,
+    "id": "ord_222",
+    "nameKo": "핸콕",
+    "stunProb1": 7.5,
+    "stunProb2": ""
+  },
+  {
+    "row": 41,
+    "id": "ord_222_up",
+    "nameKo": "핸콕(특강)",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 42,
+    "id": "ord_308",
+    "nameKo": "우타",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 43,
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "stunProb1": 10,
+    "stunProb2": ""
+  },
+  {
+    "row": 44,
+    "id": "ord_220_up",
+    "nameKo": "카벤딧슈(특강)",
+    "stunProb1": 10,
+    "stunProb2": ""
+  }
+]

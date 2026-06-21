@@ -1,0 +1,4817 @@
+[
+  {
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "sourceId": "ord_38",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 2
+  },
+  {
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "sourceId": "ord_38",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 2
+  },
+  {
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "sourceId": "ord_45",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 3
+  },
+  {
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "sourceId": "ord_45",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 3
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "sourceId": "ord_62",
+    "header": "이감",
+    "from": "0",
+    "to": "5",
+    "sheetRow": 4
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "sourceId": "ord_62",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 4
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "sourceId": "ord_62",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 4
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "sourceId": "ord_42",
+    "header": "이감",
+    "from": "0",
+    "to": "5",
+    "sheetRow": 5
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "sourceId": "ord_42",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 5
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "sourceId": "ord_42",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 5
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "sourceId": "ord_50",
+    "header": "이감",
+    "from": "0",
+    "to": "5",
+    "sheetRow": 6
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "sourceId": "ord_50",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 6
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "sourceId": "ord_50",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 6
+  },
+  {
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "sourceId": "ord_35",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 7
+  },
+  {
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "sourceId": "ord_35",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 7
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "sourceId": "ord_274",
+    "header": "이감",
+    "from": "0",
+    "to": "10",
+    "sheetRow": 8
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "sourceId": "ord_274",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 8
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "sourceId": "ord_274",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 8
+  },
+  {
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "sourceId": "ord_82",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 9
+  },
+  {
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "sourceId": "ord_82",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 9
+  },
+  {
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "sourceId": "ord_88",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 10
+  },
+  {
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "sourceId": "ord_88",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 10
+  },
+  {
+    "id": "ord_94",
+    "nameKo": "사보 혁명군",
+    "sourceId": "ord_94",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 11
+  },
+  {
+    "id": "ord_94",
+    "nameKo": "사보 혁명군",
+    "sourceId": "ord_94",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 11
+  },
+  {
+    "id": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "sourceId": "ord_87",
+    "header": "마젠",
+    "from": "",
+    "to": "0.6",
+    "sheetRow": 12
+  },
+  {
+    "id": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "sourceId": "ord_87",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 12
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "sourceId": "ord_102",
+    "header": "이감",
+    "from": "0",
+    "to": "15",
+    "sheetRow": 13
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "sourceId": "ord_102",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 13
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "sourceId": "ord_102",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 13
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sourceId": "ord_77",
+    "header": "이감",
+    "from": "0",
+    "to": "10",
+    "sheetRow": 14
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sourceId": "ord_77",
+    "header": "발동이감",
+    "from": "10",
+    "to": "0",
+    "sheetRow": 14
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sourceId": "ord_77",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 14
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sourceId": "ord_77",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 14
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sourceId": "ord_68",
+    "header": "이감",
+    "from": "0",
+    "to": "15",
+    "sheetRow": 15
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sourceId": "ord_68",
+    "header": "발동이감",
+    "from": "15",
+    "to": "0",
+    "sheetRow": 15
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sourceId": "ord_68",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 15
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sourceId": "ord_68",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 15
+  },
+  {
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "sourceId": "ord_90",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 16
+  },
+  {
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "sourceId": "ord_90",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 16
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sourceId": "ord_86",
+    "header": "이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 17
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sourceId": "ord_86",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 17
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sourceId": "ord_86",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 17
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sourceId": "ord_103",
+    "header": "이감",
+    "from": "0",
+    "to": "30",
+    "sheetRow": 18
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sourceId": "ord_103",
+    "header": "발동이감",
+    "from": "30",
+    "to": "0",
+    "sheetRow": 18
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sourceId": "ord_103",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 18
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sourceId": "ord_103",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 18
+  },
+  {
+    "id": "ord_133",
+    "nameKo": "골.D.에이스",
+    "sourceId": "ord_133",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 19
+  },
+  {
+    "id": "ord_133",
+    "nameKo": "골.D.에이스",
+    "sourceId": "ord_133",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 19
+  },
+  {
+    "id": "ord_130",
+    "nameKo": "나미",
+    "sourceId": "ord_130",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 20
+  },
+  {
+    "id": "ord_130",
+    "nameKo": "나미",
+    "sourceId": "ord_130",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 20
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceId": "ord_275",
+    "header": "발동이감",
+    "from": "0",
+    "to": "30",
+    "sheetRow": 21
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceId": "ord_275",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 21
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceId": "ord_275",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 21
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceId": "ord_275",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 21
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sourceId": "ord_275",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 21
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "sourceId": "ord_116",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 22
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "sourceId": "ord_116",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 22
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "sourceId": "ord_116",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 22
+  },
+  {
+    "id": "ord_119",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_119",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 23
+  },
+  {
+    "id": "ord_119",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_119",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 23
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_118",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 24
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_118",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 24
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_118",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 24
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "sourceId": "ord_137",
+    "header": "이감",
+    "from": "0",
+    "to": "30",
+    "sheetRow": 25
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "sourceId": "ord_137",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 25
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "sourceId": "ord_137",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 25
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_129",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 26
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_129",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 26
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_129",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 26
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_129",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 26
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_104",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 27
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_104",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 27
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_104",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 27
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_104",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 27
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "몽키.D.드래곤",
+    "sourceId": "ord_107",
+    "header": "발동이감",
+    "from": "0",
+    "to": "10",
+    "sheetRow": 28
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "몽키.D.드래곤",
+    "sourceId": "ord_107",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 28
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "몽키.D.드래곤",
+    "sourceId": "ord_107",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 28
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "sourceId": "ord_117",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 29
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "sourceId": "ord_117",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 29
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "sourceId": "ord_117",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 29
+  },
+  {
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "sourceId": "ord_128",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 30
+  },
+  {
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "sourceId": "ord_128",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 30
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_108",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 31
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_108",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 31
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_108",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 31
+  },
+  {
+    "id": "ord_123",
+    "nameKo": "블랙마리아",
+    "sourceId": "ord_123",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 32
+  },
+  {
+    "id": "ord_123",
+    "nameKo": "블랙마리아",
+    "sourceId": "ord_123",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 32
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sourceId": "ord_113",
+    "header": "이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 33
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sourceId": "ord_113",
+    "header": "발동이감",
+    "from": "0",
+    "to": "15",
+    "sheetRow": 33
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sourceId": "ord_113",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 33
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sourceId": "ord_113",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 33
+  },
+  {
+    "id": "ord_120",
+    "nameKo": "상디",
+    "sourceId": "ord_120",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 34
+  },
+  {
+    "id": "ord_120",
+    "nameKo": "상디",
+    "sourceId": "ord_120",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 34
+  },
+  {
+    "id": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "sourceId": "ord_358",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 35
+  },
+  {
+    "id": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "sourceId": "ord_358",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 35
+  },
+  {
+    "id": "ord_255",
+    "nameKo": "샬롯 크래커",
+    "sourceId": "ord_255",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 36
+  },
+  {
+    "id": "ord_255",
+    "nameKo": "샬롯 크래커",
+    "sourceId": "ord_255",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 36
+  },
+  {
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "sourceId": "ord_111",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 37
+  },
+  {
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "sourceId": "ord_111",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 37
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "sourceId": "ord_110",
+    "header": "이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 38
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "sourceId": "ord_110",
+    "header": "마젠",
+    "from": "",
+    "to": "0.25",
+    "sheetRow": 38
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "sourceId": "ord_110",
+    "header": "체젠",
+    "from": "",
+    "to": "0.25",
+    "sheetRow": 38
+  },
+  {
+    "id": "ord_126",
+    "nameKo": "슈가",
+    "sourceId": "ord_126",
+    "header": "마젠",
+    "from": "",
+    "to": "1.25",
+    "sheetRow": 39
+  },
+  {
+    "id": "ord_126",
+    "nameKo": "슈가",
+    "sourceId": "ord_126",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 39
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "sourceId": "ord_106",
+    "header": "이감",
+    "from": "0",
+    "to": "50",
+    "sheetRow": 40
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "sourceId": "ord_106",
+    "header": "발동이감",
+    "from": "50",
+    "to": "0",
+    "sheetRow": 40
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "sourceId": "ord_106",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 40
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "sourceId": "ord_106",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 40
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "sourceId": "ord_268",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 41
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "sourceId": "ord_268",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 41
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "sourceId": "ord_268",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 41
+  },
+  {
+    "id": "ord_131",
+    "nameKo": "시저 크라운",
+    "sourceId": "ord_131",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 42
+  },
+  {
+    "id": "ord_131",
+    "nameKo": "시저 크라운",
+    "sourceId": "ord_131",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 42
+  },
+  {
+    "id": "ord_109",
+    "nameKo": "시키",
+    "sourceId": "ord_109",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 43
+  },
+  {
+    "id": "ord_109",
+    "nameKo": "시키",
+    "sourceId": "ord_109",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 43
+  },
+  {
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_125",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 44
+  },
+  {
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_125",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 44
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "아마츠키 토키",
+    "sourceId": "ord_267",
+    "header": "발동이감",
+    "from": "0",
+    "to": "25",
+    "sheetRow": 45
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "아마츠키 토키",
+    "sourceId": "ord_267",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 45
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "아마츠키 토키",
+    "sourceId": "ord_267",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 45
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sourceId": "ord_112",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 46
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sourceId": "ord_112",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 46
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sourceId": "ord_112",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 46
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sourceId": "ord_112",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 46
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "sourceId": "ord_136",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 47
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "sourceId": "ord_136",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 47
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "sourceId": "ord_136",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 47
+  },
+  {
+    "id": "ord_140",
+    "nameKo": "장군좀비",
+    "sourceId": "ord_140",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 48
+  },
+  {
+    "id": "ord_140",
+    "nameKo": "장군좀비",
+    "sourceId": "ord_140",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 48
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "sourceId": "ord_132",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 49
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "sourceId": "ord_132",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 49
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "sourceId": "ord_132",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 49
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "sourceId": "ord_132",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 49
+  },
+  {
+    "id": "ord_105",
+    "nameKo": "징베",
+    "sourceId": "ord_105",
+    "header": "마젠",
+    "from": "",
+    "to": "2.5",
+    "sheetRow": 50
+  },
+  {
+    "id": "ord_105",
+    "nameKo": "징베",
+    "sourceId": "ord_105",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 50
+  },
+  {
+    "id": "ord_135",
+    "nameKo": "쵸파",
+    "sourceId": "ord_135",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 51
+  },
+  {
+    "id": "ord_135",
+    "nameKo": "쵸파",
+    "sourceId": "ord_135",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 51
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "sourceId": "ord_115",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 52
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "sourceId": "ord_115",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 52
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "sourceId": "ord_115",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 52
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "sourceId": "ord_121",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 53
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "sourceId": "ord_121",
+    "header": "마젠",
+    "from": "",
+    "to": "1",
+    "sheetRow": 53
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "sourceId": "ord_121",
+    "header": "체젠",
+    "from": "",
+    "to": "1",
+    "sheetRow": 53
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "sourceId": "ord_290",
+    "header": "이감",
+    "from": "0",
+    "to": "10",
+    "sheetRow": 54
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "sourceId": "ord_290",
+    "header": "발동이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 54
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "sourceId": "ord_290",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 54
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "sourceId": "ord_290",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 54
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_134",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 55
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_134",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 55
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_134",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 55
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_134",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 55
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라 잇쇼우",
+    "sourceId": "ord_122",
+    "header": "이감",
+    "from": "0",
+    "to": "24",
+    "sheetRow": 56
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라 잇쇼우",
+    "sourceId": "ord_122",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 56
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라 잇쇼우",
+    "sourceId": "ord_122",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 56
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "sourceId": "ord_349",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 57
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "sourceId": "ord_349",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 57
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "sourceId": "ord_349",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 57
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "sourceId": "ord_349",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 57
+  },
+  {
+    "id": "ord_146",
+    "nameKo": "방주맥심",
+    "sourceId": "ord_146",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 58
+  },
+  {
+    "id": "ord_146",
+    "nameKo": "방주맥심",
+    "sourceId": "ord_146",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 58
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "sourceId": "ord_164",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 59
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "sourceId": "ord_164",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 59
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "sourceId": "ord_164",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 59
+  },
+  {
+    "id": "ord_148",
+    "nameKo": "베르고",
+    "sourceId": "ord_148",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 60
+  },
+  {
+    "id": "ord_148",
+    "nameKo": "베르고",
+    "sourceId": "ord_148",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 60
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "sourceId": "ord_139",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 61
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "sourceId": "ord_139",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 61
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "sourceId": "ord_139",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 61
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "sourceId": "ord_139",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 61
+  },
+  {
+    "id": "ord_155",
+    "nameKo": "레베카",
+    "sourceId": "ord_155",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 62
+  },
+  {
+    "id": "ord_155",
+    "nameKo": "레베카",
+    "sourceId": "ord_155",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 62
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "sourceId": "ord_302",
+    "header": "발동이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 63
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "sourceId": "ord_302",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 63
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "sourceId": "ord_302",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 63
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "sourceId": "ord_147",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 64
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "sourceId": "ord_147",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 64
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "sourceId": "ord_147",
+    "header": "체젠",
+    "from": "",
+    "to": "1.25",
+    "sheetRow": 64
+  },
+  {
+    "id": "ord_158",
+    "nameKo": "반더데켄",
+    "sourceId": "ord_158",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 65
+  },
+  {
+    "id": "ord_158",
+    "nameKo": "반더데켄",
+    "sourceId": "ord_158",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 65
+  },
+  {
+    "id": "ord_152",
+    "nameKo": "발라티에",
+    "sourceId": "ord_152",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 66
+  },
+  {
+    "id": "ord_152",
+    "nameKo": "발라티에",
+    "sourceId": "ord_152",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 66
+  },
+  {
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "sourceId": "ord_163",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 67
+  },
+  {
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "sourceId": "ord_163",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 67
+  },
+  {
+    "id": "ord_154",
+    "nameKo": "시류",
+    "sourceId": "ord_154",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 68
+  },
+  {
+    "id": "ord_154",
+    "nameKo": "시류",
+    "sourceId": "ord_154",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 68
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "sourceId": "ord_160",
+    "header": "발동이감",
+    "from": "0",
+    "to": "25",
+    "sheetRow": 69
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "sourceId": "ord_160",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 69
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "sourceId": "ord_160",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 69
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "sourceId": "ord_160",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 69
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "sourceId": "ord_145",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 70
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "sourceId": "ord_145",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 70
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "sourceId": "ord_145",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 70
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "sourceId": "ord_145",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 70
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "sourceId": "ord_329",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 71
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "sourceId": "ord_329",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 71
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "sourceId": "ord_329",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 71
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sourceId": "ord_161",
+    "header": "발동이감",
+    "from": "0",
+    "to": "10",
+    "sheetRow": 72
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sourceId": "ord_161",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 72
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sourceId": "ord_161",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 72
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sourceId": "ord_161",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 72
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sourceId": "ord_161",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 72
+  },
+  {
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "sourceId": "ord_149",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 73
+  },
+  {
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "sourceId": "ord_149",
+    "header": "체젠",
+    "from": "",
+    "to": "1",
+    "sheetRow": 73
+  },
+  {
+    "id": "ord_156",
+    "nameKo": "검호",
+    "sourceId": "ord_156",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 74
+  },
+  {
+    "id": "ord_156",
+    "nameKo": "검호",
+    "sourceId": "ord_156",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 74
+  },
+  {
+    "id": "ord_253",
+    "nameKo": "캐럿",
+    "sourceId": "ord_253",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 75
+  },
+  {
+    "id": "ord_253",
+    "nameKo": "캐럿",
+    "sourceId": "ord_253",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 75
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "sourceId": "ord_165",
+    "header": "이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 76
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "sourceId": "ord_165",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 76
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "sourceId": "ord_165",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 76
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "sourceId": "ord_150",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 77
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "sourceId": "ord_150",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 77
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "sourceId": "ord_150",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 77
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "sourceId": "ord_150",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 77
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "sourceId": "ord_166",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 78
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "sourceId": "ord_166",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 78
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "sourceId": "ord_166",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 78
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "sourceId": "ord_166",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 78
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "sourceId": "ord_151",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 79
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "sourceId": "ord_151",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 79
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "sourceId": "ord_151",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 79
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "sourceId": "ord_151",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 79
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "sourceId": "ord_366",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 80
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "sourceId": "ord_366",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 80
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "sourceId": "ord_366",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 80
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "sourceId": "ord_366",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 80
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "sourceId": "ord_353",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 81
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "sourceId": "ord_353",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 81
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "sourceId": "ord_353",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 81
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "sourceId": "ord_353",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 81
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "sourceId": "ord_353",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 82
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "sourceId": "ord_353",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 82
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "sourceId": "ord_353",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 82
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "sourceId": "ord_353",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 82
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "sourceId": "ord_353",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 83
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "sourceId": "ord_353",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 83
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "sourceId": "ord_353",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 83
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "sourceId": "ord_353",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 83
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "sourceId": "ord_367",
+    "header": "이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 84
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "sourceId": "ord_367",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 84
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "sourceId": "ord_367",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 84
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "sourceId": "ord_153",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 85
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "sourceId": "ord_153",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 85
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "sourceId": "ord_153",
+    "header": "마젠",
+    "from": "",
+    "to": "3.25",
+    "sheetRow": 85
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "sourceId": "ord_153",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 85
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "sourceId": "ord_348",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 86
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "sourceId": "ord_348",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 86
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "sourceId": "ord_348",
+    "header": "마젠",
+    "from": "",
+    "to": "1",
+    "sheetRow": 86
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "sourceId": "ord_348",
+    "header": "체젠",
+    "from": "",
+    "to": "1",
+    "sheetRow": 86
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "sourceId": "ord_141",
+    "header": "이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 87
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "sourceId": "ord_141",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 87
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "sourceId": "ord_141",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 87
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "sourceId": "ord_141",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 87
+  },
+  {
+    "id": "ord_170",
+    "nameKo": "돈키호테 도플라밍고",
+    "sourceId": "ord_170",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 88
+  },
+  {
+    "id": "ord_170",
+    "nameKo": "돈키호테 도플라밍고",
+    "sourceId": "ord_170",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 88
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "sourceId": "ord_266",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 89
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "sourceId": "ord_266",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 89
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "sourceId": "ord_266",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 89
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "sourceId": "ord_266",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 89
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "sourceId": "ord_173",
+    "header": "발동이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 90
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "sourceId": "ord_173",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 90
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "sourceId": "ord_173",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 90
+  },
+  {
+    "id": "ord_347",
+    "nameKo": "카쿠",
+    "sourceId": "ord_347",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 91
+  },
+  {
+    "id": "ord_347",
+    "nameKo": "카쿠",
+    "sourceId": "ord_347",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 91
+  },
+  {
+    "id": "ord_254",
+    "nameKo": "캐럿 스론",
+    "sourceId": "ord_254",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 92
+  },
+  {
+    "id": "ord_254",
+    "nameKo": "캐럿 스론",
+    "sourceId": "ord_254",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 92
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "sourceId": "ord_193",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 93
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "sourceId": "ord_193",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 93
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "sourceId": "ord_193",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 93
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "sourceId": "ord_193",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 93
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "sourceId": "ord_326",
+    "header": "이감",
+    "from": "0",
+    "to": "60",
+    "sheetRow": 94
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "sourceId": "ord_326",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 94
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "sourceId": "ord_326",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 94
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "sourceId": "ord_326",
+    "header": "체젠",
+    "from": "",
+    "to": "4",
+    "sheetRow": 94
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sourceId": "ord_251",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 95
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sourceId": "ord_251",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 95
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sourceId": "ord_251",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 95
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sourceId": "ord_251",
+    "header": "체젠",
+    "from": "",
+    "to": "2.85",
+    "sheetRow": 95
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sourceId": "ord_269",
+    "header": "이감",
+    "from": "0",
+    "to": "30",
+    "sheetRow": 96
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sourceId": "ord_269",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 96
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sourceId": "ord_269",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 96
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sourceId": "ord_269",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 96
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sourceId": "ord_269",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 96
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "sourceId": "ord_142",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 97
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "sourceId": "ord_142",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 97
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "sourceId": "ord_142",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 97
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "sourceId": "ord_142",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 97
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "sourceId": "ord_331",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 98
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "sourceId": "ord_331",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 98
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "sourceId": "ord_331",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 98
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sourceId": "ord_215",
+    "header": "발동이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 99
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sourceId": "ord_215",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 99
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sourceId": "ord_215",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 99
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sourceId": "ord_215",
+    "header": "마젠",
+    "from": "",
+    "to": "1.5",
+    "sheetRow": 99
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sourceId": "ord_215",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 99
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "sourceId": "ord_187",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 100
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "sourceId": "ord_187",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 100
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "sourceId": "ord_187",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 100
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "sourceId": "ord_291",
+    "header": "발동이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 101
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "sourceId": "ord_291",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 101
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "sourceId": "ord_291",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 101
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "sourceId": "ord_291",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 101
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "sourceId": "ord_214",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 102
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "sourceId": "ord_214",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 102
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "sourceId": "ord_214",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 102
+  },
+  {
+    "id": "ord_192",
+    "nameKo": "나미",
+    "sourceId": "ord_192",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 103
+  },
+  {
+    "id": "ord_192",
+    "nameKo": "나미",
+    "sourceId": "ord_192",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 103
+  },
+  {
+    "id": "ord_197",
+    "nameKo": "니코 로빈",
+    "sourceId": "ord_197",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 104
+  },
+  {
+    "id": "ord_197",
+    "nameKo": "니코 로빈",
+    "sourceId": "ord_197",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 104
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceId": "ord_369",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 105
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceId": "ord_369",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 105
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceId": "ord_369",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 105
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceId": "ord_369",
+    "header": "마젠",
+    "from": "",
+    "to": "25",
+    "sheetRow": 105
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sourceId": "ord_369",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 105
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceId": "ord_370",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 106
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceId": "ord_370",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 106
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceId": "ord_370",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 106
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceId": "ord_370",
+    "header": "마젠",
+    "from": "",
+    "to": "25",
+    "sheetRow": 106
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sourceId": "ord_370",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 106
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceId": "ord_368",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 107
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceId": "ord_368",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 107
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceId": "ord_368",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 107
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceId": "ord_368",
+    "header": "마젠",
+    "from": "",
+    "to": "25",
+    "sheetRow": 107
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sourceId": "ord_368",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 107
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceId": "ord_371",
+    "header": "이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 108
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceId": "ord_371",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 108
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceId": "ord_371",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 108
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceId": "ord_371",
+    "header": "마젠",
+    "from": "",
+    "to": "25",
+    "sheetRow": 108
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sourceId": "ord_371",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 108
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "sourceId": "ord_209",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 109
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "sourceId": "ord_209",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 109
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "sourceId": "ord_209",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 109
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "sourceId": "ord_209",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 109
+  },
+  {
+    "id": "ord_208",
+    "nameKo": "도플라밍고",
+    "sourceId": "ord_208",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 110
+  },
+  {
+    "id": "ord_208",
+    "nameKo": "도플라밍고",
+    "sourceId": "ord_208",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 110
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_250",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 111
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_250",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 111
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_250",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 111
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "sourceId": "ord_250",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 111
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_191",
+    "header": "발동이감",
+    "from": "0",
+    "to": "30",
+    "sheetRow": 112
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_191",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 112
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "sourceId": "ord_191",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 112
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "sourceId": "ord_321",
+    "header": "발동이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 113
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "sourceId": "ord_321",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 113
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "sourceId": "ord_321",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 113
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "sourceId": "ord_323",
+    "header": "발동이감",
+    "from": "0",
+    "to": "42",
+    "sheetRow": 114
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "sourceId": "ord_323",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 114
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "sourceId": "ord_323",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 114
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sourceId": "ord_273",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 115
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sourceId": "ord_273",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 115
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sourceId": "ord_273",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 115
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sourceId": "ord_273",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 115
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_204",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 116
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_204",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 116
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_204",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 116
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sourceId": "ord_204",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 116
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_189",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 117
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_189",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 117
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_189",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 117
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sourceId": "ord_189",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 117
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sourceId": "ord_270",
+    "header": "이감",
+    "from": "0",
+    "to": "7",
+    "sheetRow": 118
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sourceId": "ord_270",
+    "header": "발동이감",
+    "from": "0",
+    "to": "7",
+    "sheetRow": 118
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sourceId": "ord_270",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 118
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sourceId": "ord_270",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 118
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "sourceId": "ord_199",
+    "header": "이감",
+    "from": "0",
+    "to": "12",
+    "sheetRow": 119
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "sourceId": "ord_199",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 119
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "sourceId": "ord_199",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 119
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "sourceId": "ord_199",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 119
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "sourceId": "ord_216",
+    "header": "발동이감",
+    "from": "30",
+    "to": "35",
+    "sheetRow": 120
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "sourceId": "ord_216",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 120
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "sourceId": "ord_216",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 120
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "sourceId": "ord_216",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 120
+  },
+  {
+    "id": "ord_190",
+    "nameKo": "상디",
+    "sourceId": "ord_190",
+    "header": "마젠",
+    "from": "",
+    "to": "1.25",
+    "sheetRow": 121
+  },
+  {
+    "id": "ord_190",
+    "nameKo": "상디",
+    "sourceId": "ord_190",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 121
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sourceId": "ord_205",
+    "header": "발동이감",
+    "from": "0",
+    "to": "99",
+    "sheetRow": 122
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sourceId": "ord_205",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 122
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sourceId": "ord_205",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 122
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sourceId": "ord_205",
+    "header": "마젠",
+    "from": "",
+    "to": "1.35",
+    "sheetRow": 122
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sourceId": "ord_205",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 122
+  },
+  {
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "sourceId": "ord_200",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 123
+  },
+  {
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "sourceId": "ord_200",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 123
+  },
+  {
+    "id": "ord_303",
+    "nameKo": "로큐규",
+    "sourceId": "ord_303",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 124
+  },
+  {
+    "id": "ord_303",
+    "nameKo": "로큐규",
+    "sourceId": "ord_303",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 124
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sourceId": "ord_201",
+    "header": "발동이감",
+    "from": "0",
+    "to": "12",
+    "sheetRow": 125
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sourceId": "ord_201",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 125
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sourceId": "ord_201",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 125
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sourceId": "ord_201",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 125
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sourceId": "ord_201",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 125
+  },
+  {
+    "id": "ord_299",
+    "nameKo": "야마토",
+    "sourceId": "ord_299",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 126
+  },
+  {
+    "id": "ord_299",
+    "nameKo": "야마토",
+    "sourceId": "ord_299",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 126
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "sourceId": "ord_195",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 127
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "sourceId": "ord_195",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 127
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "sourceId": "ord_195",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 127
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "sourceId": "ord_195",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 127
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "이감",
+    "from": "",
+    "to": "0",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "발동이감",
+    "from": "",
+    "to": "0",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "보스",
+    "from": "",
+    "to": "1",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "광폭화",
+    "from": "",
+    "to": "1",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물",
+    "sourceId": "ord_195",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 128
+  },
+  {
+    "id": "ord_330",
+    "nameKo": "주얼리 보니",
+    "sourceId": "ord_330",
+    "header": "마젠",
+    "from": "",
+    "to": "45",
+    "sheetRow": 129
+  },
+  {
+    "id": "ord_330",
+    "nameKo": "주얼리 보니",
+    "sourceId": "ord_330",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 129
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "sourceId": "ord_272",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 130
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "sourceId": "ord_272",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 130
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "sourceId": "ord_272",
+    "header": "마젠",
+    "from": "",
+    "to": "3",
+    "sheetRow": 130
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "sourceId": "ord_272",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 130
+  },
+  {
+    "id": "ord_196",
+    "nameKo": "쵸파",
+    "sourceId": "ord_196",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 131
+  },
+  {
+    "id": "ord_196",
+    "nameKo": "쵸파",
+    "sourceId": "ord_196",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 131
+  },
+  {
+    "id": "ord_350",
+    "nameKo": "코비",
+    "sourceId": "ord_350",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 132
+  },
+  {
+    "id": "ord_350",
+    "nameKo": "코비",
+    "sourceId": "ord_350",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 132
+  },
+  {
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "sourceId": "ord_202",
+    "header": "마젠",
+    "from": "",
+    "to": "0.33",
+    "sheetRow": 133
+  },
+  {
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "sourceId": "ord_202",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 133
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "sourceId": "ord_292",
+    "header": "이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 134
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "sourceId": "ord_292",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 134
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "sourceId": "ord_292",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 134
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "sourceId": "ord_203",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 135
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "sourceId": "ord_203",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 135
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "sourceId": "ord_203",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 135
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "sourceId": "ord_203",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 135
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_206",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 136
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_206",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 136
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우",
+    "sourceId": "ord_206",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 136
+  },
+  {
+    "id": "ord_198",
+    "nameKo": "프랑키",
+    "sourceId": "ord_198",
+    "header": "마젠",
+    "from": "",
+    "to": "5",
+    "sheetRow": 137
+  },
+  {
+    "id": "ord_198",
+    "nameKo": "프랑키",
+    "sourceId": "ord_198",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 137
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "sourceId": "ord_207",
+    "header": "이감",
+    "from": "0",
+    "to": "55",
+    "sheetRow": 138
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "sourceId": "ord_207",
+    "header": "발동이감",
+    "from": "0",
+    "to": "99",
+    "sheetRow": 138
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "sourceId": "ord_207",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 138
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "sourceId": "ord_207",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 138
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sourceId": "ord_177",
+    "header": "발동이감",
+    "from": "99",
+    "to": "200",
+    "sheetRow": 139
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sourceId": "ord_177",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 139
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sourceId": "ord_177",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 139
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sourceId": "ord_177",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 139
+  },
+  {
+    "id": "ord_175",
+    "nameKo": "금사자 시키",
+    "sourceId": "ord_175",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 140
+  },
+  {
+    "id": "ord_175",
+    "nameKo": "금사자 시키",
+    "sourceId": "ord_175",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 140
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceId": "ord_356",
+    "header": "이감",
+    "from": "0",
+    "to": "20",
+    "sheetRow": 141
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceId": "ord_356",
+    "header": "발동이감",
+    "from": "20",
+    "to": "0",
+    "sheetRow": 141
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceId": "ord_356",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 141
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceId": "ord_356",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 141
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sourceId": "ord_356",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 141
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "몽키 · D · 거프",
+    "sourceId": "ord_182",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 142
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "몽키 · D · 거프",
+    "sourceId": "ord_182",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 142
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "몽키 · D · 거프",
+    "sourceId": "ord_182",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 142
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "몽키 · D · 드래곤",
+    "sourceId": "ord_183",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 143
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "몽키 · D · 드래곤",
+    "sourceId": "ord_183",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 143
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "몽키 · D · 드래곤",
+    "sourceId": "ord_183",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 143
+  },
+  {
+    "id": "ord_211",
+    "nameKo": "빅 맘",
+    "sourceId": "ord_211",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 144
+  },
+  {
+    "id": "ord_211",
+    "nameKo": "빅 맘",
+    "sourceId": "ord_211",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 144
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "sourceId": "ord_179",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 145
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "sourceId": "ord_179",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 145
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠(특성강화)",
+    "sourceId": "ord_179",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 146
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠(특성강화)",
+    "sourceId": "ord_179",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 146
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sourceId": "ord_178",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 147
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sourceId": "ord_178",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 147
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sourceId": "ord_178",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 147
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sourceId": "ord_178",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 147
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_176",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 148
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_176",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 148
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_176",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 148
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sourceId": "ord_176",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 148
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "sourceId": "ord_180",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 149
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "sourceId": "ord_180",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 149
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "sourceId": "ord_180",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 149
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "sourceId": "ord_180",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 149
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sourceId": "ord_181",
+    "header": "이감",
+    "from": "0",
+    "to": "35",
+    "sheetRow": 150
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sourceId": "ord_181",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 150
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sourceId": "ord_181",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 150
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sourceId": "ord_181",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 150
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sourceId": "ord_181",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 150
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "sourceId": "ord_257",
+    "header": "이감",
+    "from": "0",
+    "to": "60",
+    "sheetRow": 151
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "sourceId": "ord_257",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 151
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "sourceId": "ord_257",
+    "header": "체젠",
+    "from": "",
+    "to": "0.5",
+    "sheetRow": 151
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "sourceId": "ord_359",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 152
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "sourceId": "ord_359",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 152
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "sourceId": "ord_359",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 152
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "sourceId": "ord_359",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 152
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sourceId": "ord_218",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 153
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sourceId": "ord_218",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 153
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sourceId": "ord_218",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 153
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sourceId": "ord_218",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 153
+  },
+  {
+    "id": "ord_305",
+    "nameKo": "니카",
+    "sourceId": "ord_305",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 154
+  },
+  {
+    "id": "ord_305",
+    "nameKo": "니카",
+    "sourceId": "ord_305",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 154
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "sourceId": "ord_346",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 155
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "sourceId": "ord_346",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 155
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "sourceId": "ord_346",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 155
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "sourceId": "ord_219",
+    "header": "이감",
+    "from": "0",
+    "to": "25",
+    "sheetRow": 156
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "sourceId": "ord_219",
+    "header": "발동이감",
+    "from": "25",
+    "to": "0",
+    "sheetRow": 156
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "sourceId": "ord_219",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 156
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "sourceId": "ord_219",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 156
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_222",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 157
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_222",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 157
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕",
+    "sourceId": "ord_222",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 157
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)",
+    "sourceId": "ord_222",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 158
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)",
+    "sourceId": "ord_222",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 158
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)",
+    "sourceId": "ord_222",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 158
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "sourceId": "ord_308",
+    "header": "이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 159
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "sourceId": "ord_308",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 159
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "sourceId": "ord_308",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 159
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "sourceId": "ord_308",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 159
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sourceId": "ord_221",
+    "header": "이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 160
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sourceId": "ord_221",
+    "header": "발동이감",
+    "from": "45",
+    "to": "0",
+    "sheetRow": 160
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sourceId": "ord_221",
+    "header": "마젠",
+    "from": "",
+    "to": "2",
+    "sheetRow": 160
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sourceId": "ord_221",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 160
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sourceId": "ord_220",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 161
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sourceId": "ord_220",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 161
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sourceId": "ord_220",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 161
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sourceId": "ord_220",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 161
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "코즈키 오뎅",
+    "sourceId": "ord_276",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 162
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "코즈키 오뎅",
+    "sourceId": "ord_276",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 162
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "코즈키 오뎅",
+    "sourceId": "ord_276",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 162
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "포트거스.D.에이스",
+    "sourceId": "ord_217",
+    "header": "이감",
+    "from": "0",
+    "to": "45",
+    "sheetRow": 163
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "포트거스.D.에이스",
+    "sourceId": "ord_217",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 163
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "포트거스.D.에이스",
+    "sourceId": "ord_217",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 163
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceId": "ord_363",
+    "header": "발동이감",
+    "from": "0",
+    "to": "40",
+    "sheetRow": 164
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceId": "ord_363",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 164
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceId": "ord_363",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 164
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceId": "ord_363",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 164
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sourceId": "ord_363",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 164
+  },
+  {
+    "id": "ord_364",
+    "nameKo": "S - 샤크",
+    "sourceId": "ord_364",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 165
+  },
+  {
+    "id": "ord_364",
+    "nameKo": "S - 샤크",
+    "sourceId": "ord_364",
+    "header": "체젠",
+    "from": "",
+    "to": "1.75",
+    "sheetRow": 165
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sourceId": "ord_365",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 166
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sourceId": "ord_365",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 166
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sourceId": "ord_365",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 166
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sourceId": "ord_365",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 166
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "sourceId": "ord_362",
+    "header": "보스",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 167
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "sourceId": "ord_362",
+    "header": "광폭화",
+    "from": "0",
+    "to": "1",
+    "sheetRow": 167
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "sourceId": "ord_362",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 167
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "sourceId": "ord_362",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 167
+  },
+  {
+    "id": "ord_226",
+    "nameKo": "모건",
+    "sourceId": "ord_226",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 168
+  },
+  {
+    "id": "ord_226",
+    "nameKo": "모건",
+    "sourceId": "ord_226",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 168
+  },
+  {
+    "id": "ord_228",
+    "nameKo": "블고리",
+    "sourceId": "ord_228",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 169
+  },
+  {
+    "id": "ord_228",
+    "nameKo": "블고리",
+    "sourceId": "ord_228",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 169
+  },
+  {
+    "id": "ord_224",
+    "nameKo": "페루",
+    "sourceId": "ord_224",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 170
+  },
+  {
+    "id": "ord_224",
+    "nameKo": "페루",
+    "sourceId": "ord_224",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 170
+  },
+  {
+    "id": "ord_360",
+    "nameKo": "폭시",
+    "sourceId": "ord_360",
+    "header": "마젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 171
+  },
+  {
+    "id": "ord_360",
+    "nameKo": "폭시",
+    "sourceId": "ord_360",
+    "header": "체젠",
+    "from": "",
+    "to": "0",
+    "sheetRow": 171
+  }
+]

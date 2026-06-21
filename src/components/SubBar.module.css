@@ -1,0 +1,43 @@
+.subBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  max-width: 720px;
+  min-height: 42px;
+  margin: 8px auto 0;
+  color: #495264;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.subBar span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.subBar button {
+  display: grid;
+  flex: 0 0 auto;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  border: 1px solid #d5dbe5;
+  border-radius: 8px;
+  color: #273142;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+.subBar button:disabled {
+  color: #a4acba;
+  cursor: default;
+}
+
+.subBar button:focus-visible {
+  outline: 2px solid #f0a22e;
+  outline-offset: 2px;
+}

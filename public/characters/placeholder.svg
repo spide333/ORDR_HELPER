@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder character thumbnail</title>
+  <desc id="desc">Generic placeholder thumbnail for characters without an image.</desc>
+  <rect width="160" height="160" rx="24" fill="#e7ebf1"/>
+  <circle cx="54" cy="52" r="28" fill="#b8c2d1"/>
+  <path d="M0 120 C42 92 86 108 160 78 L160 160 L0 160 Z" fill="#8b96a8"/>
+  <text x="80" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#ffffff">?</text>
+</svg>

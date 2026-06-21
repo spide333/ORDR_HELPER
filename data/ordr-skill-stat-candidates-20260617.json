@@ -1,0 +1,3246 @@
+[
+  {
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "sheetRow": 2,
+    "baldongSlow": 5,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "5: ◎여진 : 해당 범위 3초간 이동속도 5% 감소를 유지"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "sheetRow": 3,
+    "baldongSlow": 0,
+    "armorReduction": 3,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "3: ◎기본효과 : 800범위 적 방어력 3 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "sheetRow": 4,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "sheetRow": 5,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "sheetRow": 6,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "sheetRow": 7,
+    "baldongSlow": 0,
+    "armorReduction": 3,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "3: ◎기본효과 : 800 범위 적 방어력 3감소."
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "sheetRow": 8,
+    "baldongSlow": 0,
+    "armorReduction": 5,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "5: ◎추가효과 : 825 범위 적 방어력 5 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "sheetRow": 9,
+    "baldongSlow": 0,
+    "armorReduction": 10,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "10: ◎기본효과 : 주변 800범위 적 방어력 10감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "sheetRow": 10,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 10,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "10: ◎기본효과 : 주변 900 범위 내 아군 유닛 공격 속도 10% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_94",
+    "nameKo": "사보 혁명군",
+    "sheetRow": 11,
+    "baldongSlow": 0,
+    "armorReduction": 10,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "10: ◎기본효과 : 주변 800범위 적 방어력 10감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "sheetRow": 12,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "sheetRow": 13,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "sheetRow": 14,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "sheetRow": 15,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 20,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "20: ◎로어 : 주변 500범위 내 아군 유닛 15초간 공격력 20% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "sheetRow": 16,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 30,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "30: ◎기본효과 : 주변 900범위 아군 공격력 30% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "sheetRow": 17,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "sheetRow": 18,
+    "baldongSlow": 30,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "30: ◎기본효과 : 850 범위 주변 적 이동속도 30% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_133",
+    "nameKo": "골.D.에이스",
+    "sheetRow": 19,
+    "baldongSlow": 0,
+    "armorReduction": 33,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "33: ◎기본효과 : 825범위 적 방어력 33감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_130",
+    "nameKo": "나미",
+    "sheetRow": 20,
+    "baldongSlow": 42,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "42: ◎여진 : 해당 범위 3초간 이동속도 42% 감소를 유지"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "sheetRow": 21,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 25,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "25: ◎기본효과 : 825 범위 아군 공격력 25% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "sheetRow": 22,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 10,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "10: ◎기본효과 : 600범위 내 아군유닛들 공격속도 10%증가 오라"
+      ]
+    }
+  },
+  {
+    "id": "ord_119",
+    "nameKo": "로브 루치",
+    "sheetRow": 23,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "sheetRow": 24,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "sheetRow": 25,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "마샬 · D · 티치",
+    "sheetRow": 26,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "몽키 · D · 루피",
+    "sheetRow": 27,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "몽키.D.드래곤",
+    "sheetRow": 28,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 25,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "25: ◎기본효과 : 800범위 아군 공격속도 5%, 공격력 25% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "sheetRow": 29,
+    "baldongSlow": 0,
+    "armorReduction": 12,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "12: ◎기본효과 : 850 범위 적 방어력 12 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "sheetRow": 30,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "sheetRow": 31,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_123",
+    "nameKo": "블랙마리아",
+    "sheetRow": 32,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "빈스모크 레이쥬",
+    "sheetRow": 33,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_120",
+    "nameKo": "상디",
+    "sheetRow": 34,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "sheetRow": 35,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_255",
+    "nameKo": "샬롯 크래커",
+    "sheetRow": 36,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 725 범위 적 방어력 25 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "sheetRow": 37,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "sheetRow": 38,
+    "baldongSlow": 0,
+    "armorReduction": 18,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "18: ▶ 적 방어력 18 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_126",
+    "nameKo": "슈가",
+    "sheetRow": 39,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "sheetRow": 40,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 3의 아머브레이크 (최대 75까지 감소)",
+        "◎추가효과 : 해당 범위 1의 아머브레이크 (최대 75까지 감소)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "sheetRow": 41,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_131",
+    "nameKo": "시저 크라운",
+    "sheetRow": 42,
+    "baldongSlow": 0,
+    "armorReduction": 30,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "30: 독가스로 변해 공격을 피하며 주변의 적들을 중족시켜 방어력을 감소시킵니다."
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_109",
+    "nameKo": "시키",
+    "sheetRow": 43,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 3초 스턴 및 1의 아머브레이크 (최대 75까지 감소)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리",
+    "sheetRow": 44,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 1,
+    "attackIncrease": 35,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎기본효과 : 900범위 적 방어력 20감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 3초 스턴 및 3의 아머브레이크 (최대 75까지 감소)"
+      ],
+      "attackIncrease": [
+        "35: ◎기본효과 : 800범위 아군 유닛 공격력 35%증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "아마츠키 토키",
+    "sheetRow": 45,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 20,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "20: ◎기본효과 : 자신 제외 범위 800내 아군유닛 공격속도 20%증가 오라"
+      ]
+    }
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트",
+    "sheetRow": 46,
+    "baldongSlow": 25,
+    "armorReduction": 15,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "25: ◎현기증 : 해당 범위 3초간 이동속도 25% 감소",
+        "10: ◎현기증 : 해당 범위 3초간 이동속도 25% 감소"
+      ],
+      "armorReduction": [
+        "15: ◎기본효과 : 750범위 적 방어력 15감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "sheetRow": 47,
+    "baldongSlow": 0,
+    "armorReduction": 27,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "27: ◎기본효과 : 900 범위 방어력 27 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 1 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_140",
+    "nameKo": "장군좀비",
+    "sheetRow": 48,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "sheetRow": 49,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_105",
+    "nameKo": "징베",
+    "sheetRow": 50,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎추가효과 : 해당 범위 아머브레이크 10 이상인 적 방어력 25 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 아머브레이크 10 이상인 적 방어력 25 감소"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_135",
+    "nameKo": "쵸파",
+    "sheetRow": 51,
+    "baldongSlow": 0,
+    "armorReduction": 18,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 20,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "18: 쵸파의 귀여운?!? 모습에 방심하여 주변 적의 방어력이 감소합니다."
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "20: ◎기본효과 : 825범위 아군유닛 공격속도 20% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "sheetRow": 52,
+    "baldongSlow": 0,
+    "armorReduction": 15,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "15: ◎기본효과 : 주변 825범위 적 방어력 15 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "sheetRow": 53,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 20,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "20: 세계의 운명을 바꾼 용기있는 외침으로 아군의 공격력을 증가시킵니다."
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "sheetRow": 54,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎독약 : 스킬에 맞은 적 방어력 20감소",
+        "5: ◎추가효과 : 825 범위 적 방어력 5 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우",
+    "sheetRow": 55,
+    "baldongSlow": 99,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 150,
+    "evidence": {
+      "baldongSlow": [
+        "99: ◎추가효과 : 단일 적 2.5초간 이동속도 99% 감소 (최초 경직시간 1.25초 이후 서서히 이동속도 증가)"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "150: 외과수술을 집도해 해당 유닛의 공격속도를 순간적으로 증가시킵니다."
+      ]
+    }
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라 잇쇼우",
+    "sheetRow": 56,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "sheetRow": 57,
+    "baldongSlow": 0,
+    "armorReduction": 22,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "22: ◎기본효과 : 2000 범위 방어력 22 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_146",
+    "nameKo": "방주맥심",
+    "sheetRow": 58,
+    "baldongSlow": 30,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "30: ◎추가효과 : 해당 범위 3초간 이동속도 30% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "sheetRow": 59,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_148",
+    "nameKo": "베르고",
+    "sheetRow": 60,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "▶ 단일 적에게 추가로 1의 아머브레이크 와 30만 마법데미지",
+        "◎추가효과 : 해당 범위 2.5초 스턴 및 3의 아머브레이크"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "sheetRow": 61,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 0,
+    "attackIncrease": 35,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎기본효과 : 900범위 적 방어력 20 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "35: ◎기본효과 : 850범위 아군 공격력 35% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_155",
+    "nameKo": "레베카",
+    "sheetRow": 62,
+    "baldongSlow": 0,
+    "armorReduction": 18,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "18: ◎기본효과 : 850범위 적 방어력 18 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "sheetRow": 63,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "15: ◎추가효과 : 해당범위 3.5초간 방어력 15 감소",
+        "25: ◎기본효과 : 적 방어력 25 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "sheetRow": 64,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_158",
+    "nameKo": "반더데켄",
+    "sheetRow": 65,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_152",
+    "nameKo": "발라티에",
+    "sheetRow": 66,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 150,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "150: ◎프렌지 : 대상 아군 12초간 공격속도 150% 증가",
+        "22: ◎기본효과 : 850 범위 아군유닛들 공격속도 22% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "sheetRow": 67,
+    "baldongSlow": 0,
+    "armorReduction": 11,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "11: ◎기본효과 : 주변 850범위 적 방어력 11감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_154",
+    "nameKo": "시류",
+    "sheetRow": 68,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "sheetRow": 69,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎기본효과 : 800범위 적 방어력 20 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "sheetRow": 70,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "sheetRow": 71,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "sheetRow": 72,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "sheetRow": 73,
+    "baldongSlow": 0,
+    "armorReduction": 11,
+    "armorBreak": 0,
+    "attackIncrease": 45,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "11: ◎기본효과 : 주변 850범위 적 방어력 11감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "45: ◎발동효과 : 대상 아군유닛 공격력 45%증가 + 체력회복률 초당 1 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_156",
+    "nameKo": "검호",
+    "sheetRow": 74,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 825범위 방어력 25 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_253",
+    "nameKo": "캐럿",
+    "sheetRow": 75,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "sheetRow": 76,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "sheetRow": 77,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "sheetRow": 78,
+    "baldongSlow": 0,
+    "armorReduction": 12,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "12: ◎기본효과 : 주변 800범위 적 방어력 12감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "sheetRow": 79,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 27,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "27: ◎기본효과 : 주변 유닛의 공격력을 27% 상승시킵니다."
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "sheetRow": 80,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_353",
+    "nameKo": "블랙마리아(스턴)",
+    "sheetRow": 81,
+    "baldongSlow": 0,
+    "armorReduction": 15,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "15: ◎기본효과 : 900범위 적 방어력 15 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_353",
+    "nameKo": "블랙마리아(이감)",
+    "sheetRow": 82,
+    "baldongSlow": 0,
+    "armorReduction": 15,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "15: ◎기본효과 : 900범위 적 방어력 15 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_353",
+    "nameKo": "블랙마리아(딜)",
+    "sheetRow": 83,
+    "baldongSlow": 0,
+    "armorReduction": 15,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "15: ◎기본효과 : 900범위 적 방어력 15 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "sheetRow": 84,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 20,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "40: ◎기본효과 : 900범위 적 방어력 40 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "20: ◎추가효과 : 900범위 아군 공격력 20% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "sheetRow": 85,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "sheetRow": 86,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎추가효과 : 해당 범위에 약 2초간 방어력 20 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "sheetRow": 87,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_170",
+    "nameKo": "돈키호테 도플라밍고",
+    "sheetRow": 88,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "sheetRow": 89,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "sheetRow": 90,
+    "baldongSlow": 0,
+    "armorReduction": 11,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "11: ◎기본효과 : 750 범위 적 방어력 11 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_347",
+    "nameKo": "카쿠",
+    "sheetRow": 91,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_254",
+    "nameKo": "캐럿 스론",
+    "sheetRow": 92,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "sheetRow": 93,
+    "baldongSlow": 50,
+    "armorReduction": 38,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "50: ◎추가효과 : 해당 범위 이동속도 50% 감소"
+      ],
+      "armorReduction": [
+        "38: ◎기본효과 : 750범위 적 방어력 38감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "sheetRow": 94,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 125,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "125: ◎인간폼 : 공격속도 125% 증가 / 공격력 감소 / 공격시 10% 확률로 단일 적 현재체력 20%의 추가 폭발형 데미지 (특수몹에겐 20만)"
+      ]
+    }
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리",
+    "sheetRow": 95,
+    "baldongSlow": 0,
+    "armorReduction": 30,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "30: ◎기본효과 : 850범위 적 방어력 30 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 스킬 발동시 6의 아머브레이크",
+        "◎추가효과 : 스킬 발동시 6의 아머브레이크"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "sheetRow": 96,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "sheetRow": 97,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "sheetRow": 98,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 1,
+    "attackIncrease": 33,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 800범위 적 방어력 25 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 10 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [
+        "33: ◎기본효과 : 4.5초간 아군 공격력 33% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "sheetRow": 99,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "sheetRow": 100,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 850범위 적 방어력 25 감소 / 이동속도 40% 감소"
+      ],
+      "armorBreak": [
+        "▶ 매 공격 시 해당 범위 1 아머브레이크 + 마지막 타격 시 3의 아머브레이크 추가"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "sheetRow": 101,
+    "baldongSlow": 0,
+    "armorReduction": 45,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 25,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎독약 : 스킬 맞은 적 방어력 20감소",
+        "25: ◎추가효과 : 스킬 적중당한 적 2.7초동안 0.27초당 8만 추가 마법 데미지 + 방어력 25감소"
+      ],
+      "armorBreak": [
+        "◎발동조건 : 처형자 상태 / 적의 아머브레이크 50이상 일 때",
+        "◎추가효과 : 단일 적 4의 아머브레이크",
+        "◎데미지 : 21만 고정 데미지 + 아머브레이크 x 7,000 고정 데미지"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "25: ▶ 처형자 상태시 공격속도 25% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "sheetRow": 102,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_192",
+    "nameKo": "나미",
+    "sheetRow": 103,
+    "baldongSlow": 45,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "45: ▶ 800 범위 5초간 45% 이동속도 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_197",
+    "nameKo": "니코 로빈",
+    "sheetRow": 104,
+    "baldongSlow": 0,
+    "armorReduction": 45,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "45: ◎기본효과 : 적 방어력 45 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)",
+    "sheetRow": 105,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 40,
+    "speedIncrease": 40,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "40: ◎기본효과 : 800범위 적 방어력 40 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "40: ◎기본효과 : 825범위 아군 공격력 40% 증가"
+      ],
+      "speedIncrease": [
+        "40: ◎추가효과 : 825범위 아군 공격속도 40% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)",
+    "sheetRow": 106,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 40,
+    "speedIncrease": 40,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "40: ◎기본효과 : 800범위 적 방어력 40 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "40: ◎기본효과 : 825범위 아군 공격력 40% 증가"
+      ],
+      "speedIncrease": [
+        "40: ◎추가효과 : 825범위 아군 공격속도 40% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)",
+    "sheetRow": 107,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 40,
+    "speedIncrease": 40,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "40: ◎기본효과 : 800범위 적 방어력 40 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "40: ◎기본효과 : 825범위 아군 공격력 40% 증가"
+      ],
+      "speedIncrease": [
+        "40: ◎추가효과 : 825범위 아군 공격속도 40% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)",
+    "sheetRow": 108,
+    "baldongSlow": 0,
+    "armorReduction": 40,
+    "armorBreak": 0,
+    "attackIncrease": 40,
+    "speedIncrease": 40,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "40: ◎기본효과 : 800범위 적 방어력 40 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "40: ◎기본효과 : 825범위 아군 공격력 40% 증가"
+      ],
+      "speedIncrease": [
+        "40: ◎추가효과 : 825범위 아군 공격속도 40% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "sheetRow": 109,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 5 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_208",
+    "nameKo": "도플라밍고",
+    "sheetRow": 110,
+    "baldongSlow": 250,
+    "armorReduction": 120,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "250: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소",
+        "75: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소",
+        "250: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소",
+        "75: ◎현기증 : 해당 범위 3초간 이동 속도 250% 감소"
+      ],
+      "armorReduction": [
+        "60: ▶ 7.5초간 850범위 적 방어력60 감소",
+        "60: ▶ 7.5초간 850범위 적 방어력60 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "sheetRow": 111,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "sheetRow": 112,
+    "baldongSlow": 0,
+    "armorReduction": 30,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "30: ◎기본효과 : 815범위 적 방어력 30 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "sheetRow": 113,
+    "baldongSlow": 0,
+    "armorReduction": 35,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "35: ◎기본효과 : 815범위 적 방어력 35 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "sheetRow": 114,
+    "baldongSlow": 0,
+    "armorReduction": 42,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "42: ◎기본효과 : 815범위 적 방어력 42 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "sheetRow": 115,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치",
+    "sheetRow": 116,
+    "baldongSlow": 75,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "70: ◎추가효과 : 3초간 이동속도 70% 감소",
+        "75: ◎추가효과 : 3초간 이동속도 75% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피",
+    "sheetRow": 117,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과2 : 아머 브레이크 :: 해당 범위의 적에게 방어력 추가 7감소 (최대 75까지 감소 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "sheetRow": 118,
+    "baldongSlow": 0,
+    "armorReduction": 32,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 850범위 적 방어력 25감소",
+        "7: ◎기본효과 : 850범위 적 방어력 7 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "sheetRow": 119,
+    "baldongSlow": 15,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 25,
+    "evidence": {
+      "baldongSlow": [
+        "15: ◎추가효과 : 750범위 적군 이동속도 15% 감소",
+        "5: ◎추가효과 : 750범위 적군 이동속도 15% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "25: ◎기본효과 : 아군 공격속도 25% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "sheetRow": 120,
+    "baldongSlow": 30,
+    "armorReduction": 30,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 20,
+    "evidence": {
+      "baldongSlow": [
+        "30: ◎현기증 : 해당 범위 2초간 이동속도 30% 감소"
+      ],
+      "armorReduction": [
+        "30: ◎기본효과 : 850범위 적 방어력 30 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "20: ◎추가효과 : 700 범위 아군 공격 속도 20% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_190",
+    "nameKo": "상디",
+    "sheetRow": 121,
+    "baldongSlow": 55,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 12,
+    "speedIncrease": 15,
+    "evidence": {
+      "baldongSlow": [
+        "50: ◎현기증 : 해당 범위 3.5초 이동속도 50% 감소",
+        "55: ◎현기증 : 해당 범위 3.5초 이동속도 55% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "12: ▶ 기본 공격력 12% 증가"
+      ],
+      "speedIncrease": [
+        "15: ◎기본효과 : 아군유닛 공격속도 15% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "sheetRow": 122,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "sheetRow": 123,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_303",
+    "nameKo": "로큐규",
+    "sheetRow": 124,
+    "baldongSlow": 25,
+    "armorReduction": 50,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "25: ◎현기증 : 해당 범위 3초간 이동 속도 25% 감소",
+        "25: ◎현기증 : 해당 범위 3초간 이동 속도 25% 감소"
+      ],
+      "armorReduction": [
+        "35: ◎기본효과 : 적 방어력 35 감소",
+        "15: ◎기본효과 : 적 방어력 35 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 1 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "sheetRow": 125,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_299",
+    "nameKo": "야마토",
+    "sheetRow": 126,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎추가효과2 : 900범위 적 방어력 25 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "sheetRow": 127,
+    "baldongSlow": 0,
+    "armorReduction": 30,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "22: ◎기본효과 : 1085범위 적 방어력 22감소",
+        "8: ◎기본효과 : 방어력 8 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_330",
+    "nameKo": "주얼리 보니",
+    "sheetRow": 129,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "sheetRow": 130,
+    "baldongSlow": 50,
+    "armorReduction": 25,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 20,
+    "evidence": {
+      "baldongSlow": [
+        "50: ◎현기증 : 해당 범위 3초간 이동 속도 50% 감소"
+      ],
+      "armorReduction": [
+        "25: ◎추가효과2 : 해당 범위 아머브레이크 10 이상인 적 방어력 25 감소"
+      ],
+      "armorBreak": [
+        "◎발동조건 : 공격 대상의 아머브레이크 35 이상",
+        "◎추가효과 : 해당 범위 3초 스턴 및 3의 아머브레이크",
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 3 감소 (최대 75까지 중첩)",
+        "◎추가효과 : 아머브레이크 :: 해당 범위 적에게 방어력 추가 1 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "20: ◎기본효과 : 마나 회복속도 3 증가 및 공격속도 20% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_196",
+    "nameKo": "쵸파",
+    "sheetRow": 131,
+    "baldongSlow": 0,
+    "armorReduction": 50,
+    "armorBreak": 0,
+    "attackIncrease": 50,
+    "speedIncrease": 30,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "50: 쵸파의 귀여운 모습에 방심하여 주변 적의 방어력이 감소합니다."
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "50: ◎기본효과 : 825범위 자신 제외 아군 유닛 공격력 50%증가",
+        "50: ◎기본효과 : 825범위 아군 공격력 50%증가"
+      ],
+      "speedIncrease": [
+        "30: ◎기본효과 : 825범위 아군 공격속도 30% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_350",
+    "nameKo": "코비",
+    "sheetRow": 132,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 10,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "10: ◎기본효과 : 자신을 제외한 550 범위 아군 유닛 공격 속도 10% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "sheetRow": 133,
+    "baldongSlow": 20,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "20: ◎추가효과 : 기본 공격 시 대상의 이동 속도 20% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "sheetRow": 134,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "sheetRow": 135,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우",
+    "sheetRow": 136,
+    "baldongSlow": 99,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 20,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "45: ◎여진 : 해당 범위 5초간 이동속도 45% 감소",
+        "99: ◎추가효과 : 단일 적 5초간 이동속도 99% 감소 (최초 경직시간 2.5초 이후 서서히 이동속도 증가)"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "20: ◎기본효과 : 자신 공격력 증가 3만 + 룸 안에 존재하는 아군 유닛 9초간 공격력 20%증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_198",
+    "nameKo": "프랑키",
+    "sheetRow": 137,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "sheetRow": 138,
+    "baldongSlow": 0,
+    "armorReduction": 14,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "2: ▶ 중력검 맹호 : 방어력 2 감소",
+        "3: ▶ 중력검 맹호 : 방어력 2 감소",
+        "9: ▶ 중력검 맹호 : 방어력 2 감소"
+      ],
+      "armorBreak": [
+        "◎기본효과 : 스킬 명중시마다 해당 범위 아머브레이크 (최대 75까지 중첩)",
+        "◎발동조건 : 공격 대상의 아머브레이크 40 이상"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져",
+    "sheetRow": 139,
+    "baldongSlow": 99,
+    "armorReduction": 60,
+    "armorBreak": 0,
+    "attackIncrease": 60,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "50: ◎추가효과 : 850범위 적 방어력 60감소 및 이동 속도 50% 감소",
+        "99: ◎추가효과 : 단일 적 1초간 이동속도 99% 감소 (최초 경직시간 0.5초 이후 서서히 이동속도 증가)"
+      ],
+      "armorReduction": [
+        "60: ◎추가효과 : 850범위 적 방어력 60감소 및 이동 속도 50% 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "60: ◎기본효과 : 주변 아군 공격력 60%증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_175",
+    "nameKo": "금사자 시키",
+    "sheetRow": 140,
+    "baldongSlow": 35,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "35: ◎여진 : 해당 범위 이동속도 35% 감소를 5초간 유지"
+      ],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 3초 스턴 및 1의 아머브레이크 (최대 75까지 감소)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "sheetRow": 141,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [
+        "◎추가효과 : 버프 상태에서 공격 시 매 평타마다 325범위 3만 + (2,500 x 공격속도 아이템 중첩 수) 마법데미지 및 1 아머브레이크"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "몽키 · D · 거프",
+    "sheetRow": 142,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 45,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "45: ▶ 공격속도 45% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "몽키 · D · 드래곤",
+    "sheetRow": 143,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 20,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "20: ◎기본효과 : 900범위 아군 공격속도 20% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_211",
+    "nameKo": "빅 맘",
+    "sheetRow": 144,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 175,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "175: ◎추가효과 : 영혼 포식, 대자재천신 시전시 2초간 공격속도 175% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "sheetRow": 145,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 22,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "11: ◎기본효과 : 자신 제외 아군 유닛 공격력 11% 증가",
+        "10: ◎기본효과 : 기본공격력 10% 증가",
+        "22: ◎기본효과 : 자신의 기본 공격력 높음. 자신 제외 주위 아군 공격력 22% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠(특성강화)",
+    "sheetRow": 146,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 22,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "11: ◎기본효과 : 자신 제외 아군 유닛 공격력 11% 증가",
+        "10: ◎기본효과 : 기본공격력 10% 증가",
+        "22: ◎기본효과 : 자신의 기본 공격력 높음. 자신 제외 주위 아군 공격력 22% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "sheetRow": 147,
+    "baldongSlow": 0,
+    "armorReduction": 130,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "60: ◎추가효과 : 공격한 적 방어력 60 감소 (카르가라와 중복 X)",
+        "70: ◎추가효과 : 공격한 적 방어력 60 감소 (카르가라와 중복 X)"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리",
+    "sheetRow": 148,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 45,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎기본효과 : 적 방어력 20 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 해당 범위 3초 스턴 (보스 1초) 및 5의 아머브레이크 (최대 75 까지 감소)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "45: ◎기본효과 : 아군유닛의 공격속도 45%증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "sheetRow": 149,
+    "baldongSlow": 45,
+    "armorReduction": 45,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "45: ◎현기증 : 해당 범위 3.5초간 이동속도 45% 감소",
+        "10: ◎현기증 : 해당 범위 3.5초간 이동속도 45% 감소"
+      ],
+      "armorReduction": [
+        "45: ◎기본효과 : 주변 적 방어력 45감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "sheetRow": 150,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "sheetRow": 151,
+    "baldongSlow": 0,
+    "armorReduction": 248,
+    "armorBreak": 0,
+    "attackIncrease": 35,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "70: ◎기본효과 : 매 공격 및 스킬 발동 시 적 방어력 감소",
+        "3: ◎기본효과 : 매 공격 및 스킬 발동 시 적 방어력 감소",
+        "145: ◎기본효과 : 매 공격 및 스킬 발동 시 적 방어력 감소",
+        "30: ◎기본효과 : 매 공격 및 스킬 발동 시 적 방어력 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "35: ◎드래곤폼 : 공격속도 증가 / 공격력 감소 / 공중이동 / 스킬 기본데미지 높음"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "sheetRow": 152,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 25,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "25: ◎추가효과 : 800범위 공격속도 25% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "네펠타리 비비",
+    "sheetRow": 153,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_305",
+    "nameKo": "니카",
+    "sheetRow": 154,
+    "baldongSlow": 0,
+    "armorReduction": 35,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 25,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "35: ◎추가효과 : 925범위 적 방어력 35 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "25: ◎추가효과 : 900 범위 아군 공격속도 25% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "sheetRow": 155,
+    "baldongSlow": 0,
+    "armorReduction": 5,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 50,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "5: ◎추가효과 : 플레이어존 방어력 5 감소 (슈스이 효과)"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": [
+        "50: ▶ 400 이상일 시 공격속도 50% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "sheetRow": 156,
+    "baldongSlow": 25,
+    "armorReduction": 30,
+    "armorBreak": 0,
+    "attackIncrease": 33,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "25: ◎기본효과 : 800범위 적 방어력 30 감소, 이동속도 25% 감소"
+      ],
+      "armorReduction": [
+        "30: ◎기본효과 : 800범위 적 방어력 30 감소, 이동속도 25% 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [
+        "33: ◎기본효과 : 공격시 4.5%확률로 750범위 아군 유닛 4.5초간 공격력 33% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕",
+    "sheetRow": 157,
+    "baldongSlow": 60,
+    "armorReduction": 5,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "60: ◎현기증 : 600범위 2.5초 이동 속도 60% 감소"
+      ],
+      "armorReduction": [
+        "5: ▶ 해당 적 마법 방어력 5% 감소 + 방어력 5 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)",
+    "sheetRow": 158,
+    "baldongSlow": 60,
+    "armorReduction": 5,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "60: ◎현기증 : 600범위 2.5초 이동 속도 60% 감소"
+      ],
+      "armorReduction": [
+        "5: ▶ 해당 적 마법 방어력 5% 감소 + 방어력 5 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "sheetRow": 159,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 30,
+    "speedIncrease": 15,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "30: ◎기본효과 : 우타월드 범위안에서는 적군의 이동속도 45% 감소 및 아군의 공격력이 30% 증가"
+      ],
+      "speedIncrease": [
+        "15: ◎기본효과 : 1,250범위 아군 공격속도 15% 증가"
+      ]
+    }
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "sheetRow": 160,
+    "baldongSlow": 45,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [
+        "45: ◎기본효과2 : 900범위 적 이동속도 45% 감소"
+      ],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "sheetRow": 161,
+    "baldongSlow": 0,
+    "armorReduction": 35,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "35: ◎기본효과 : 900범위 적 방어력 35감소"
+      ],
+      "armorBreak": [
+        "◎기본효과 : 공격 시 단일 적에게 1 아머브레이크 (최대 75까지 감소)",
+        "◎추가효과 : 아머브레이크 :: 단일 적에게 방어력 추가 5 감소 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "코즈키 오뎅",
+    "sheetRow": 162,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 50,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "50: ◎기본효과 : 자신 제외 주변 아군 공격력 50% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "포트거스.D.에이스",
+    "sheetRow": 163,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "sheetRow": 164,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_364",
+    "nameKo": "S - 샤크",
+    "sheetRow": 165,
+    "baldongSlow": 0,
+    "armorReduction": 20,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "20: ◎추가효과 : 825범위 적 방어력 20 감소"
+      ],
+      "armorBreak": [
+        "◎추가효과 : 2의 아머브레이크 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "sheetRow": 166,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "sheetRow": 167,
+    "baldongSlow": 0,
+    "armorReduction": 35,
+    "armorBreak": 1,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "35: ◎기본효과 : 825범위 적 방어력 35 감소"
+      ],
+      "armorBreak": [
+        "▶ 단일 적에게 2의 아머브레이크 (최대 75까지 중첩)"
+      ],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_226",
+    "nameKo": "모건",
+    "sheetRow": 168,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_228",
+    "nameKo": "블고리",
+    "sheetRow": 169,
+    "baldongSlow": 0,
+    "armorReduction": 25,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [
+        "25: ◎기본효과 : 850범위 적 방어력 25 감소"
+      ],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_224",
+    "nameKo": "페루",
+    "sheetRow": 170,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 60,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [
+        "60: 아군을 격려해 공격력을 증가시킵니다.",
+        "60: ◎기본효과 : 650범위 아군유닛 공격력 60% 증가"
+      ],
+      "speedIncrease": []
+    }
+  },
+  {
+    "id": "ord_360",
+    "nameKo": "폭시",
+    "sheetRow": 171,
+    "baldongSlow": 0,
+    "armorReduction": 0,
+    "armorBreak": 0,
+    "attackIncrease": 0,
+    "speedIncrease": 0,
+    "evidence": {
+      "baldongSlow": [],
+      "armorReduction": [],
+      "armorBreak": [],
+      "attackIncrease": [],
+      "speedIncrease": []
+    }
+  }
+]

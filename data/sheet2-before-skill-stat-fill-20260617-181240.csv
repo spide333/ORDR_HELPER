@@ -1,0 +1,15 @@
+key,label,type,order,enabled,includeInTotal
+slow,이감,,1,TRUE,TRUE
+baldongSlow,발동이감,,2,TRUE,TRUE
+stun,스턴,,3,TRUE,TRUE
+armorReduction,방깎,physical,4,TRUE,TRUE
+armorBreak,암브,physical,5,TRUE,TRUE
+boss,보스,,6,TRUE,TRUE
+furious,광폭화,,7,TRUE,TRUE
+manaRegen,마젠,,8,TRUE,TRUE
+hpRegen,체젠,,9,TRUE,TRUE
+attackIncrease,공증,,10,TRUE,TRUE
+speedIncrease,공속버프,,11,TRUE,TRUE
+currentHp,단일,magical,12,TRUE,TRUE
+totalHp,끝딜,magical,13,TRUE,TRUE
+lineDeal,라인딜,,14,TRUE,TRUE

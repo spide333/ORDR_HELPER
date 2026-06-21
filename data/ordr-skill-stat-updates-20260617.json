@@ -1,0 +1,1101 @@
+[
+  {
+    "cell": "I2",
+    "value": "5",
+    "key": "baldongSlow",
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트"
+  },
+  {
+    "cell": "K3",
+    "value": "3",
+    "key": "armorReduction",
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성"
+  },
+  {
+    "cell": "K7",
+    "value": "3",
+    "key": "armorReduction",
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화"
+  },
+  {
+    "cell": "K8",
+    "value": "5",
+    "key": "armorReduction",
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스"
+  },
+  {
+    "cell": "K9",
+    "value": "10",
+    "key": "armorReduction",
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨"
+  },
+  {
+    "cell": "R10",
+    "value": "10",
+    "key": "speedIncrease",
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가"
+  },
+  {
+    "cell": "K11",
+    "value": "10",
+    "key": "armorReduction",
+    "id": "ord_94",
+    "nameKo": "사보 혁명군"
+  },
+  {
+    "cell": "I14",
+    "value": "10",
+    "key": "baldongSlow",
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지"
+  },
+  {
+    "cell": "I15",
+    "value": "15",
+    "key": "baldongSlow",
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir"
+  },
+  {
+    "cell": "Q15",
+    "value": "20",
+    "key": "attackIncrease",
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir"
+  },
+  {
+    "cell": "Q16",
+    "value": "30",
+    "key": "attackIncrease",
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트"
+  },
+  {
+    "cell": "I18",
+    "value": "30",
+    "key": "baldongSlow",
+    "id": "ord_103",
+    "nameKo": "겟코 모리아"
+  },
+  {
+    "cell": "K19",
+    "value": "33",
+    "key": "armorReduction",
+    "id": "ord_133",
+    "nameKo": "골.D.에이스"
+  },
+  {
+    "cell": "I20",
+    "value": "42",
+    "key": "baldongSlow",
+    "id": "ord_130",
+    "nameKo": "나미"
+  },
+  {
+    "cell": "Q21",
+    "value": "25",
+    "key": "attackIncrease",
+    "id": "ord_275",
+    "nameKo": "네코마무시"
+  },
+  {
+    "cell": "R22",
+    "value": "10",
+    "key": "speedIncrease",
+    "id": "ord_116",
+    "nameKo": "라분"
+  },
+  {
+    "cell": "Q28",
+    "value": "25",
+    "key": "attackIncrease",
+    "id": "ord_107",
+    "nameKo": "몽키.D.드래곤"
+  },
+  {
+    "cell": "K29",
+    "value": "12",
+    "key": "armorReduction",
+    "id": "ord_117",
+    "nameKo": "바르토로메오"
+  },
+  {
+    "cell": "K36",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_255",
+    "nameKo": "샬롯 크래커"
+  },
+  {
+    "cell": "K38",
+    "value": "18",
+    "key": "armorReduction",
+    "id": "ord_110",
+    "nameKo": "센고쿠"
+  },
+  {
+    "cell": "I40",
+    "value": "50",
+    "key": "baldongSlow",
+    "id": "ord_106",
+    "nameKo": "스모커"
+  },
+  {
+    "cell": "L40",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_106",
+    "nameKo": "스모커"
+  },
+  {
+    "cell": "K42",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_131",
+    "nameKo": "시저 크라운"
+  },
+  {
+    "cell": "L43",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_109",
+    "nameKo": "시키"
+  },
+  {
+    "cell": "K44",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "L44",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "Q44",
+    "value": "35",
+    "key": "attackIncrease",
+    "id": "ord_125",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "R45",
+    "value": "35",
+    "key": "speedIncrease",
+    "id": "ord_267",
+    "nameKo": "아마츠키 토키"
+  },
+  {
+    "cell": "I46",
+    "value": "25",
+    "key": "baldongSlow",
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트"
+  },
+  {
+    "cell": "K46",
+    "value": "15",
+    "key": "armorReduction",
+    "id": "ord_112",
+    "nameKo": "에드워드 뉴게이트"
+  },
+  {
+    "cell": "K47",
+    "value": "27",
+    "key": "armorReduction",
+    "id": "ord_136",
+    "nameKo": "울티"
+  },
+  {
+    "cell": "L47",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_136",
+    "nameKo": "울티"
+  },
+  {
+    "cell": "K50",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_105",
+    "nameKo": "징베"
+  },
+  {
+    "cell": "K51",
+    "value": "18",
+    "key": "armorReduction",
+    "id": "ord_135",
+    "nameKo": "쵸파"
+  },
+  {
+    "cell": "R51",
+    "value": "20",
+    "key": "speedIncrease",
+    "id": "ord_135",
+    "nameKo": "쵸파"
+  },
+  {
+    "cell": "K52",
+    "value": "15",
+    "key": "armorReduction",
+    "id": "ord_115",
+    "nameKo": "카르가라"
+  },
+  {
+    "cell": "Q53",
+    "value": "20",
+    "key": "attackIncrease",
+    "id": "ord_121",
+    "nameKo": "코비"
+  },
+  {
+    "cell": "K54",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_290",
+    "nameKo": "킹"
+  },
+  {
+    "cell": "I55",
+    "value": "99",
+    "key": "baldongSlow",
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우"
+  },
+  {
+    "cell": "R55",
+    "value": "150",
+    "key": "speedIncrease",
+    "id": "ord_134",
+    "nameKo": "트라팔가 로우"
+  },
+  {
+    "cell": "K57",
+    "value": "22",
+    "key": "armorReduction",
+    "id": "ord_349",
+    "nameKo": "히바리"
+  },
+  {
+    "cell": "I58",
+    "value": "30",
+    "key": "baldongSlow",
+    "id": "ord_146",
+    "nameKo": "방주맥심"
+  },
+  {
+    "cell": "L60",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_148",
+    "nameKo": "베르고"
+  },
+  {
+    "cell": "K61",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_139",
+    "nameKo": "레드포스호"
+  },
+  {
+    "cell": "Q61",
+    "value": "35",
+    "key": "attackIncrease",
+    "id": "ord_139",
+    "nameKo": "레드포스호"
+  },
+  {
+    "cell": "K62",
+    "value": "18",
+    "key": "armorReduction",
+    "id": "ord_155",
+    "nameKo": "레베카"
+  },
+  {
+    "cell": "K63",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_302",
+    "nameKo": "료쿠규"
+  },
+  {
+    "cell": "R66",
+    "value": "150",
+    "key": "speedIncrease",
+    "id": "ord_152",
+    "nameKo": "발라티에"
+  },
+  {
+    "cell": "K67",
+    "value": "11",
+    "key": "armorReduction",
+    "id": "ord_163",
+    "nameKo": "봉쿠레"
+  },
+  {
+    "cell": "K69",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_160",
+    "nameKo": "사보"
+  },
+  {
+    "cell": "K73",
+    "value": "11",
+    "key": "armorReduction",
+    "id": "ord_149",
+    "nameKo": "이완코브"
+  },
+  {
+    "cell": "Q73",
+    "value": "45",
+    "key": "attackIncrease",
+    "id": "ord_149",
+    "nameKo": "이완코브"
+  },
+  {
+    "cell": "K74",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_156",
+    "nameKo": "검호"
+  },
+  {
+    "cell": "K78",
+    "value": "12",
+    "key": "armorReduction",
+    "id": "ord_166",
+    "nameKo": "킬러"
+  },
+  {
+    "cell": "Q79",
+    "value": "27",
+    "key": "attackIncrease",
+    "id": "ord_151",
+    "nameKo": "피셔타이거"
+  },
+  {
+    "cell": "K81",
+    "value": "15",
+    "key": "armorReduction",
+    "id": "ord_353",
+    "nameKo": "블랙마리아(스턴)"
+  },
+  {
+    "cell": "K82",
+    "value": "15",
+    "key": "armorReduction",
+    "id": "ord_353",
+    "nameKo": "블랙마리아(이감)"
+  },
+  {
+    "cell": "K83",
+    "value": "15",
+    "key": "armorReduction",
+    "id": "ord_353",
+    "nameKo": "블랙마리아(딜)"
+  },
+  {
+    "cell": "K84",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_367",
+    "nameKo": "에이스"
+  },
+  {
+    "cell": "Q84",
+    "value": "20",
+    "key": "attackIncrease",
+    "id": "ord_367",
+    "nameKo": "에이스"
+  },
+  {
+    "cell": "K86",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_348",
+    "nameKo": "퀸"
+  },
+  {
+    "cell": "L86",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_348",
+    "nameKo": "퀸"
+  },
+  {
+    "cell": "K90",
+    "value": "11",
+    "key": "armorReduction",
+    "id": "ord_173",
+    "nameKo": "비비"
+  },
+  {
+    "cell": "I93",
+    "value": "50",
+    "key": "baldongSlow",
+    "id": "ord_193",
+    "nameKo": "레베카"
+  },
+  {
+    "cell": "K93",
+    "value": "38",
+    "key": "armorReduction",
+    "id": "ord_193",
+    "nameKo": "레베카"
+  },
+  {
+    "cell": "K95",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_251",
+    "nameKo": "샬롯 카타쿠리"
+  },
+  {
+    "cell": "K98",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_331",
+    "nameKo": "알비다"
+  },
+  {
+    "cell": "L98",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_331",
+    "nameKo": "알비다"
+  },
+  {
+    "cell": "Q98",
+    "value": "33",
+    "key": "attackIncrease",
+    "id": "ord_331",
+    "nameKo": "알비다"
+  },
+  {
+    "cell": "K100",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_187",
+    "nameKo": "크로커다일"
+  },
+  {
+    "cell": "L100",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_187",
+    "nameKo": "크로커다일"
+  },
+  {
+    "cell": "K101",
+    "value": "45",
+    "key": "armorReduction",
+    "id": "ord_291",
+    "nameKo": "킹"
+  },
+  {
+    "cell": "L101",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_291",
+    "nameKo": "킹"
+  },
+  {
+    "cell": "I103",
+    "value": "45",
+    "key": "baldongSlow",
+    "id": "ord_192",
+    "nameKo": "나미"
+  },
+  {
+    "cell": "K104",
+    "value": "45",
+    "key": "armorReduction",
+    "id": "ord_197",
+    "nameKo": "니코 로빈"
+  },
+  {
+    "cell": "K105",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)"
+  },
+  {
+    "cell": "Q105",
+    "value": "40",
+    "key": "attackIncrease",
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)"
+  },
+  {
+    "cell": "R105",
+    "value": "40",
+    "key": "speedIncrease",
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크 (베어)"
+  },
+  {
+    "cell": "K106",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)"
+  },
+  {
+    "cell": "Q106",
+    "value": "40",
+    "key": "attackIncrease",
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)"
+  },
+  {
+    "cell": "R106",
+    "value": "40",
+    "key": "speedIncrease",
+    "id": "ord_370",
+    "nameKo": "닥터 베가펑크 (샤크)"
+  },
+  {
+    "cell": "K107",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)"
+  },
+  {
+    "cell": "Q107",
+    "value": "40",
+    "key": "attackIncrease",
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)"
+  },
+  {
+    "cell": "R107",
+    "value": "40",
+    "key": "speedIncrease",
+    "id": "ord_368",
+    "nameKo": "닥터 베가펑크 (스네이크)"
+  },
+  {
+    "cell": "K108",
+    "value": "40",
+    "key": "armorReduction",
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)"
+  },
+  {
+    "cell": "Q108",
+    "value": "40",
+    "key": "attackIncrease",
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)"
+  },
+  {
+    "cell": "R108",
+    "value": "40",
+    "key": "speedIncrease",
+    "id": "ord_371",
+    "nameKo": "닥터 베가펑크 (호크)"
+  },
+  {
+    "cell": "L109",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_209",
+    "nameKo": "대령 타시기"
+  },
+  {
+    "cell": "I110",
+    "value": "250",
+    "key": "baldongSlow",
+    "id": "ord_208",
+    "nameKo": "도플라밍고"
+  },
+  {
+    "cell": "K110",
+    "value": "60",
+    "key": "armorReduction",
+    "id": "ord_208",
+    "nameKo": "도플라밍고"
+  },
+  {
+    "cell": "K112",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로"
+  },
+  {
+    "cell": "K113",
+    "value": "35",
+    "key": "armorReduction",
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)"
+  },
+  {
+    "cell": "K114",
+    "value": "42",
+    "key": "armorReduction",
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)"
+  },
+  {
+    "cell": "I116",
+    "value": "75",
+    "key": "baldongSlow",
+    "id": "ord_204",
+    "nameKo": "마샬 · D · 티치"
+  },
+  {
+    "cell": "L117",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_189",
+    "nameKo": "몽키 · D · 루피"
+  },
+  {
+    "cell": "K118",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_270",
+    "nameKo": "바질 호킨스"
+  },
+  {
+    "cell": "I119",
+    "value": "15",
+    "key": "baldongSlow",
+    "id": "ord_199",
+    "nameKo": "브룩"
+  },
+  {
+    "cell": "R119",
+    "value": "25",
+    "key": "speedIncrease",
+    "id": "ord_199",
+    "nameKo": "브룩"
+  },
+  {
+    "cell": "I120",
+    "value": "30",
+    "key": "baldongSlow",
+    "id": "ord_216",
+    "nameKo": "사보"
+  },
+  {
+    "cell": "K120",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_216",
+    "nameKo": "사보"
+  },
+  {
+    "cell": "R120",
+    "value": "20",
+    "key": "speedIncrease",
+    "id": "ord_216",
+    "nameKo": "사보"
+  },
+  {
+    "cell": "I121",
+    "value": "55",
+    "key": "baldongSlow",
+    "id": "ord_190",
+    "nameKo": "상디"
+  },
+  {
+    "cell": "R121",
+    "value": "15",
+    "key": "speedIncrease",
+    "id": "ord_190",
+    "nameKo": "상디"
+  },
+  {
+    "cell": "I124",
+    "value": "25",
+    "key": "baldongSlow",
+    "id": "ord_303",
+    "nameKo": "로큐규"
+  },
+  {
+    "cell": "K124",
+    "value": "50",
+    "key": "armorReduction",
+    "id": "ord_303",
+    "nameKo": "로큐규"
+  },
+  {
+    "cell": "L124",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_303",
+    "nameKo": "로큐규"
+  },
+  {
+    "cell": "K126",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_299",
+    "nameKo": "야마토"
+  },
+  {
+    "cell": "K127",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_195",
+    "nameKo": "우솝"
+  },
+  {
+    "cell": "K129",
+    "value": "1",
+    "key": "armorReduction",
+    "id": "ord_330",
+    "nameKo": "주얼리 보니"
+  },
+  {
+    "cell": "I130",
+    "value": "50",
+    "key": "baldongSlow",
+    "id": "ord_272",
+    "nameKo": "징베"
+  },
+  {
+    "cell": "K130",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_272",
+    "nameKo": "징베"
+  },
+  {
+    "cell": "L130",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_272",
+    "nameKo": "징베"
+  },
+  {
+    "cell": "K131",
+    "value": "50",
+    "key": "armorReduction",
+    "id": "ord_196",
+    "nameKo": "쵸파"
+  },
+  {
+    "cell": "Q131",
+    "value": "50",
+    "key": "attackIncrease",
+    "id": "ord_196",
+    "nameKo": "쵸파"
+  },
+  {
+    "cell": "R131",
+    "value": "30",
+    "key": "speedIncrease",
+    "id": "ord_196",
+    "nameKo": "쵸파"
+  },
+  {
+    "cell": "R132",
+    "value": "10",
+    "key": "speedIncrease",
+    "id": "ord_350",
+    "nameKo": "코비"
+  },
+  {
+    "cell": "I133",
+    "value": "20",
+    "key": "baldongSlow",
+    "id": "ord_202",
+    "nameKo": "아오키지"
+  },
+  {
+    "cell": "I136",
+    "value": "99",
+    "key": "baldongSlow",
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우"
+  },
+  {
+    "cell": "Q136",
+    "value": "20",
+    "key": "attackIncrease",
+    "id": "ord_206",
+    "nameKo": "트라팔가 로우"
+  },
+  {
+    "cell": "K138",
+    "value": "14",
+    "key": "armorReduction",
+    "id": "ord_207",
+    "nameKo": "후지토라"
+  },
+  {
+    "cell": "L138",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_207",
+    "nameKo": "후지토라"
+  },
+  {
+    "cell": "I139",
+    "value": "99",
+    "key": "baldongSlow",
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져"
+  },
+  {
+    "cell": "K139",
+    "value": "60",
+    "key": "armorReduction",
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져"
+  },
+  {
+    "cell": "Q139",
+    "value": "60",
+    "key": "attackIncrease",
+    "id": "ord_177",
+    "nameKo": "골 · D · 로져"
+  },
+  {
+    "cell": "I140",
+    "value": "35",
+    "key": "baldongSlow",
+    "id": "ord_175",
+    "nameKo": "금사자 시키"
+  },
+  {
+    "cell": "L140",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_175",
+    "nameKo": "금사자 시키"
+  },
+  {
+    "cell": "I141",
+    "value": "20",
+    "key": "baldongSlow",
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿"
+  },
+  {
+    "cell": "L141",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿"
+  },
+  {
+    "cell": "R142",
+    "value": "45",
+    "key": "speedIncrease",
+    "id": "ord_182",
+    "nameKo": "몽키 · D · 거프"
+  },
+  {
+    "cell": "R143",
+    "value": "20",
+    "key": "speedIncrease",
+    "id": "ord_183",
+    "nameKo": "몽키 · D · 드래곤"
+  },
+  {
+    "cell": "Q145",
+    "value": "11",
+    "key": "attackIncrease",
+    "id": "ord_179",
+    "nameKo": "센고쿠"
+  },
+  {
+    "cell": "Q146",
+    "value": "11",
+    "key": "attackIncrease",
+    "id": "ord_179",
+    "nameKo": "센고쿠(특성강화)"
+  },
+  {
+    "cell": "K147",
+    "value": "130",
+    "key": "armorReduction",
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반"
+  },
+  {
+    "cell": "K148",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "L148",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "R148",
+    "value": "45",
+    "key": "speedIncrease",
+    "id": "ord_176",
+    "nameKo": "실버즈 레일리"
+  },
+  {
+    "cell": "I149",
+    "value": "45",
+    "key": "baldongSlow",
+    "id": "ord_180",
+    "nameKo": "흰수염"
+  },
+  {
+    "cell": "K149",
+    "value": "45",
+    "key": "armorReduction",
+    "id": "ord_180",
+    "nameKo": "흰수염"
+  },
+  {
+    "cell": "K151",
+    "value": "248",
+    "key": "armorReduction",
+    "id": "ord_257",
+    "nameKo": "카이도"
+  },
+  {
+    "cell": "R152",
+    "value": "25",
+    "key": "speedIncrease",
+    "id": "ord_359",
+    "nameKo": "길드 테조로"
+  },
+  {
+    "cell": "K154",
+    "value": "35",
+    "key": "armorReduction",
+    "id": "ord_305",
+    "nameKo": "니카"
+  },
+  {
+    "cell": "R154",
+    "value": "25",
+    "key": "speedIncrease",
+    "id": "ord_305",
+    "nameKo": "니카"
+  },
+  {
+    "cell": "K155",
+    "value": "5",
+    "key": "armorReduction",
+    "id": "ord_346",
+    "nameKo": "류마"
+  },
+  {
+    "cell": "I156",
+    "value": "25",
+    "key": "baldongSlow",
+    "id": "ord_219",
+    "nameKo": "버기"
+  },
+  {
+    "cell": "K156",
+    "value": "30",
+    "key": "armorReduction",
+    "id": "ord_219",
+    "nameKo": "버기"
+  },
+  {
+    "cell": "Q156",
+    "value": "33",
+    "key": "attackIncrease",
+    "id": "ord_219",
+    "nameKo": "버기"
+  },
+  {
+    "cell": "I157",
+    "value": "60",
+    "key": "baldongSlow",
+    "id": "ord_222",
+    "nameKo": "보아 핸콕"
+  },
+  {
+    "cell": "I158",
+    "value": "60",
+    "key": "baldongSlow",
+    "id": "ord_222",
+    "nameKo": "보아 핸콕(특성강화)"
+  },
+  {
+    "cell": "R159",
+    "value": "15",
+    "key": "speedIncrease",
+    "id": "ord_308",
+    "nameKo": "우타"
+  },
+  {
+    "cell": "I160",
+    "value": "45",
+    "key": "baldongSlow",
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크"
+  },
+  {
+    "cell": "K161",
+    "value": "35",
+    "key": "armorReduction",
+    "id": "ord_220",
+    "nameKo": "카벤딧슈"
+  },
+  {
+    "cell": "L161",
+    "value": "1",
+    "key": "armorBreak",
+    "id": "ord_220",
+    "nameKo": "카벤딧슈"
+  },
+  {
+    "cell": "Q162",
+    "value": "50",
+    "key": "attackIncrease",
+    "id": "ord_276",
+    "nameKo": "코즈키 오뎅"
+  },
+  {
+    "cell": "K165",
+    "value": "20",
+    "key": "armorReduction",
+    "id": "ord_364",
+    "nameKo": "S - 샤크"
+  },
+  {
+    "cell": "K167",
+    "value": "35",
+    "key": "armorReduction",
+    "id": "ord_362",
+    "nameKo": "S - 호크"
+  },
+  {
+    "cell": "K169",
+    "value": "25",
+    "key": "armorReduction",
+    "id": "ord_228",
+    "nameKo": "블고리"
+  },
+  {
+    "cell": "Q170",
+    "value": "60",
+    "key": "attackIncrease",
+    "id": "ord_224",
+    "nameKo": "페루"
+  }
+]

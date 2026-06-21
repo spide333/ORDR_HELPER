@@ -1,0 +1,6 @@
+id,nameKo,grade,damageType,imageKey,imageUrl,sortName,attack,magicAttack,armorReduction,bossDamage,stun,slow,manaRegen,isEnabled,updatedAt
+garp_immortal,거프,immortal,physical,garp_immortal,,거프,28,0,5,9,1,0,0,TRUE,2026-06-16
+roger_immortal,로져,immortal,physical,roger_immortal,,로져,35,0,8,12,0,0,0,TRUE,2026-06-16
+shanks_transcend,샹크스,transcend,physical,shanks_transcend,,샹크스,24,0,4,7,2,0,0,TRUE,2026-06-16
+black_maria_distortion,블랙마리아,distortion,common,black_maria_distortion,,블랙마리아,16,0,3,5,0,2,0,TRUE,2026-06-16
+nami_transcend,나미,transcend,magical,nami_transcend,,나미,0,24,0,7,0,3,4,TRUE,2026-06-16

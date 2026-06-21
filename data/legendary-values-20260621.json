@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "ord_38",
+    "nameKo": "나미 크리마 텍트",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_45",
+    "nameKo": "바질 호킨스 초신성",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_62",
+    "nameKo": "스모커 해군 준장",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_42",
+    "nameKo": "유스타스 키드 초신성",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_50",
+    "nameKo": "크로커 다일 전 칠무해",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_35",
+    "nameKo": "토니토니 쵸파 두뇌 강화",
+    "grade": "special",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_274",
+    "nameKo": "X-드레이크 알로사우로스",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_82",
+    "nameKo": "바질 호킨스 스트로맨",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_88",
+    "nameKo": "브룩 해골 음악가",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_94",
+    "nameKo": "사보 혁명군",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_87",
+    "nameKo": "슈가 도플패밀리 최고 간부",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_102",
+    "nameKo": "유스타스 키드 '캡틴'키드",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_77",
+    "nameKo": "쿠잔 해군대장 아오키지",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_68",
+    "nameKo": "크로커 다일 Mr.0 Sir",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_90",
+    "nameKo": "토니토니 쵸파 혼 포인트",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_86",
+    "nameKo": "페로나 홀로홀로열매 - 네거티브",
+    "grade": "rare",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_103",
+    "nameKo": "겟코 모리아",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_133",
+    "nameKo": "골.D.에이스",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_130",
+    "nameKo": "나미",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_275",
+    "nameKo": "네코마무시",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_116",
+    "nameKo": "라분",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_119",
+    "nameKo": "로브 루치",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_118",
+    "nameKo": "롤로노아 조로",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_137",
+    "nameKo": "마르코",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_129",
+    "nameKo": "티치",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_104",
+    "nameKo": "나이트메어",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_107",
+    "nameKo": "드래곤",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_117",
+    "nameKo": "바르토로메오",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_128",
+    "nameKo": "바솔로뮤 쿠마",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_108",
+    "nameKo": "보아 핸콕",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_123",
+    "nameKo": "블랙마리아",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_113",
+    "nameKo": "레이쥬",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_120",
+    "nameKo": "상디",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_358",
+    "nameKo": "샬롯 브륄레",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_255",
+    "nameKo": "크래커",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_111",
+    "nameKo": "샹크스",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_110",
+    "nameKo": "센고쿠",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_126",
+    "nameKo": "슈가",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_106",
+    "nameKo": "스모커",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_268",
+    "nameKo": "시노부",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_131",
+    "nameKo": "시저 크라운",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_109",
+    "nameKo": "시키",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_125",
+    "nameKo": "레일리",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_267",
+    "nameKo": "토키",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_112",
+    "nameKo": "흰수염",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_136",
+    "nameKo": "울티",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_140",
+    "nameKo": "장군좀비",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_132",
+    "nameKo": "제파",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_105",
+    "nameKo": "징베",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_135",
+    "nameKo": "쵸파",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_115",
+    "nameKo": "카르가라",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_121",
+    "nameKo": "코비",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_290",
+    "nameKo": "킹",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_134",
+    "nameKo": "로우",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_122",
+    "nameKo": "후지토라",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_349",
+    "nameKo": "히바리",
+    "grade": "legendary",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_146",
+    "nameKo": "방주맥심",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_164",
+    "nameKo": "류마",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_148",
+    "nameKo": "베르고",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_139",
+    "nameKo": "레드포스호",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_155",
+    "nameKo": "레베카",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_302",
+    "nameKo": "료쿠규",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_147",
+    "nameKo": "모비딕호",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_158",
+    "nameKo": "반더데켄",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_152",
+    "nameKo": "발라티에",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_163",
+    "nameKo": "봉쿠레",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_154",
+    "nameKo": "시류",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_160",
+    "nameKo": "사보",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_145",
+    "nameKo": "써니호",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_329",
+    "nameKo": "스튜시",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_161",
+    "nameKo": "아카이누",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_149",
+    "nameKo": "이완코브",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_156",
+    "nameKo": "검호",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_253",
+    "nameKo": "캐럿",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_165",
+    "nameKo": "아오키지",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_150",
+    "nameKo": "키쿠",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_166",
+    "nameKo": "킬러",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_151",
+    "nameKo": "피셔타이거",
+    "grade": "hidden",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_366",
+    "nameKo": "바제스",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_353_1",
+    "nameKo": "블랙마리아(스턴)",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_353_2",
+    "nameKo": "블랙마리아(이감)",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_353_3",
+    "nameKo": "블랙마리아(딜)",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_367",
+    "nameKo": "에이스",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_153",
+    "nameKo": "코알라",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_348",
+    "nameKo": "퀸",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_141",
+    "nameKo": "페로나",
+    "grade": "distortion",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_170",
+    "nameKo": "도플라밍고",
+    "grade": "changed",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_266",
+    "nameKo": "베이비 5",
+    "grade": "changed",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_173",
+    "nameKo": "비비",
+    "grade": "changed",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_347",
+    "nameKo": "카쿠",
+    "grade": "changed",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_254",
+    "nameKo": "캐럿 스론",
+    "grade": "changed",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_193",
+    "nameKo": "레베카",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_326",
+    "nameKo": "마르코",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_326_up",
+    "nameKo": "마르코(특강)",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_251",
+    "nameKo": "카타쿠리",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_269",
+    "nameKo": "시노부",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_142",
+    "nameKo": "아인",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_331",
+    "nameKo": "알비다",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_215",
+    "nameKo": "에넬",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_187",
+    "nameKo": "크로커다일",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_187_up",
+    "nameKo": "크로커다일(특강)",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_291",
+    "nameKo": "킹",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_291_up",
+    "nameKo": "킹(특강)",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_214",
+    "nameKo": "패트릭 레드필드",
+    "grade": "limited",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_192",
+    "nameKo": "나미",
+    "grade": "transcend",
+    "legendaryValue": 2.2222,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_197",
+    "nameKo": "로빈",
+    "grade": "transcend",
+    "legendaryValue": 2.1111,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_369",
+    "nameKo": "닥터 베가펑크",
+    "grade": "transcend",
+    "legendaryValue": 0.3333,
+    "materialLevels": [
+      23,
+      6,
+      4,
+      10
+    ]
+  },
+  {
+    "id": "ord_209",
+    "nameKo": "대령 타시기",
+    "grade": "transcend",
+    "legendaryValue": 2.1111,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_208",
+    "nameKo": "도플라밍고",
+    "grade": "transcend",
+    "legendaryValue": 0.3333,
+    "materialLevels": [
+      8,
+      8,
+      6,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_250",
+    "nameKo": "로브 루치",
+    "grade": "transcend",
+    "legendaryValue": 1.1111,
+    "materialLevels": [
+      5,
+      6,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_191",
+    "nameKo": "롤로노아 조로",
+    "grade": "transcend",
+    "legendaryValue": 1.3333,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_321",
+    "nameKo": "롤로노아 조로 (강화)",
+    "grade": "transcend",
+    "legendaryValue": 0,
+    "materialLevels": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "ord_323",
+    "nameKo": "롤로노아 조로 (염왕)",
+    "grade": "transcend",
+    "legendaryValue": 0,
+    "materialLevels": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "ord_273",
+    "nameKo": "루피 - 기어포스",
+    "grade": "transcend",
+    "legendaryValue": 1.3333,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_204",
+    "nameKo": "티치",
+    "grade": "transcend",
+    "legendaryValue": 2.1111,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_189",
+    "nameKo": "루피",
+    "grade": "transcend",
+    "legendaryValue": 2.3333,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      10
+    ]
+  },
+  {
+    "id": "ord_270",
+    "nameKo": "바질 호킨스",
+    "grade": "transcend",
+    "legendaryValue": 2.6666,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      4,
+      10
+    ]
+  },
+  {
+    "id": "ord_270_up",
+    "nameKo": "바질 호킨스(특강)",
+    "grade": "transcend",
+    "legendaryValue": 2.6666,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      4,
+      10
+    ]
+  },
+  {
+    "id": "ord_199",
+    "nameKo": "브룩",
+    "grade": "transcend",
+    "legendaryValue": 1.4444,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_216",
+    "nameKo": "사보",
+    "grade": "transcend",
+    "legendaryValue": 1.3333,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      2,
+      6,
+      10
+    ]
+  },
+  {
+    "id": "ord_190",
+    "nameKo": "상디",
+    "grade": "transcend",
+    "legendaryValue": 2.1111,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_205",
+    "nameKo": "샹크스",
+    "grade": "transcend",
+    "legendaryValue": 1.4444,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_205_up",
+    "nameKo": "샹크스(특강)",
+    "grade": "transcend",
+    "legendaryValue": 1.4444,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_200",
+    "nameKo": "시라호시",
+    "grade": "transcend",
+    "legendaryValue": 1.3333,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      10
+    ]
+  },
+  {
+    "id": "ord_303",
+    "nameKo": "로큐규",
+    "grade": "transcend",
+    "legendaryValue": 1.1111,
+    "materialLevels": [
+      6,
+      5,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_201",
+    "nameKo": "아카이누",
+    "grade": "transcend",
+    "legendaryValue": 1.1111,
+    "materialLevels": [
+      5,
+      6,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_299",
+    "nameKo": "야마토",
+    "grade": "transcend",
+    "legendaryValue": 2.5555,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_195",
+    "nameKo": "우솝",
+    "grade": "transcend",
+    "legendaryValue": 2.3333,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_195_1",
+    "nameKo": "우솝 식물(스턴)",
+    "grade": "transcend",
+    "legendaryValue": 2.3333,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_330",
+    "nameKo": "보니",
+    "grade": "transcend",
+    "legendaryValue": 1.2222,
+    "materialLevels": [
+      6,
+      5,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_272",
+    "nameKo": "징베",
+    "grade": "transcend",
+    "legendaryValue": 2.1111,
+    "materialLevels": [
+      5,
+      5,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_196",
+    "nameKo": "쵸파",
+    "grade": "transcend",
+    "legendaryValue": 2,
+    "materialLevels": [
+      5,
+      5,
+      1,
+      10
+    ]
+  },
+  {
+    "id": "ord_350",
+    "nameKo": "코비",
+    "grade": "transcend",
+    "legendaryValue": 2.4444,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_202",
+    "nameKo": "아오키지",
+    "grade": "transcend",
+    "legendaryValue": 1.1111,
+    "materialLevels": [
+      5,
+      6,
+      3,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_292",
+    "nameKo": "키드",
+    "grade": "transcend",
+    "legendaryValue": 1.5555,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_203",
+    "nameKo": "키자루",
+    "grade": "transcend",
+    "legendaryValue": 2.5555,
+    "materialLevels": [
+      5,
+      5,
+      4,
+      3,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_206",
+    "nameKo": "로우",
+    "grade": "transcend",
+    "legendaryValue": 2,
+    "materialLevels": [
+      5,
+      5,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_198",
+    "nameKo": "프랑키",
+    "grade": "transcend",
+    "legendaryValue": 1.4444,
+    "materialLevels": [
+      5,
+      8,
+      4,
+      3,
+      10
+    ]
+  },
+  {
+    "id": "ord_207",
+    "nameKo": "후지토라",
+    "grade": "transcend",
+    "legendaryValue": 1.3333,
+    "materialLevels": [
+      5,
+      6,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "ord_177",
+    "nameKo": "로져",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_177_up",
+    "nameKo": "로져(특강)",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_175",
+    "nameKo": "시키",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_356",
+    "nameKo": "더글라스 불릿",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_182",
+    "nameKo": "거프",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_183",
+    "nameKo": "드래곤",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_211",
+    "nameKo": "빅 맘",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_179",
+    "nameKo": "센고쿠",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_179_up",
+    "nameKo": "센고쿠(특강)",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_178",
+    "nameKo": "스코퍼 가반",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_176",
+    "nameKo": "레일리",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_180",
+    "nameKo": "흰수염",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_181",
+    "nameKo": "제트",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_257",
+    "nameKo": "카이도",
+    "grade": "immortal",
+    "legendaryValue": 3,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_359",
+    "nameKo": "길드 테조로",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_218",
+    "nameKo": "비비",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_305",
+    "nameKo": "니카",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_346",
+    "nameKo": "류마",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_219",
+    "nameKo": "버기",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_222",
+    "nameKo": "핸콕",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_222_up",
+    "nameKo": "핸콕(특강)",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_308",
+    "nameKo": "우타",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_221",
+    "nameKo": "쥬라클 미호크",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_220",
+    "nameKo": "카벤딧슈",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_220_up",
+    "nameKo": "카벤딧슈(특강)",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_276",
+    "nameKo": "오뎅",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_217",
+    "nameKo": "에이스",
+    "grade": "eternal",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_363",
+    "nameKo": "S - 베어",
+    "grade": "seraphim",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_364",
+    "nameKo": "S - 샤크",
+    "grade": "seraphim",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_365",
+    "nameKo": "S - 스네이크",
+    "grade": "seraphim",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_362",
+    "nameKo": "S - 호크",
+    "grade": "seraphim",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_226",
+    "nameKo": "모건",
+    "grade": "specialUnit",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_228",
+    "nameKo": "블고리",
+    "grade": "specialUnit",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_224",
+    "nameKo": "페루",
+    "grade": "specialUnit",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_360",
+    "nameKo": "폭시",
+    "grade": "specialUnit",
+    "legendaryValue": 0,
+    "materialLevels": []
+  },
+  {
+    "id": "ord_green",
+    "nameKo": "그린블러드",
+    "grade": "ohter",
+    "legendaryValue": 0,
+    "materialLevels": []
+  }
+]

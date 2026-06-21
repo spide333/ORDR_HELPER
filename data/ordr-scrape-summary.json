@@ -1,0 +1,86 @@
+[
+  {
+    "level": 3,
+    "label": "특별함",
+    "grade": "special",
+    "expectedCount": 33,
+    "scrapedCount": 33
+  },
+  {
+    "level": 4,
+    "label": "희귀함",
+    "grade": "rare",
+    "expectedCount": 44,
+    "scrapedCount": 44
+  },
+  {
+    "level": 5,
+    "label": "전설적인",
+    "grade": "legendary",
+    "expectedCount": 41,
+    "scrapedCount": 41
+  },
+  {
+    "level": 6,
+    "label": "히든조합",
+    "grade": "hidden",
+    "expectedCount": 23,
+    "scrapedCount": 23
+  },
+  {
+    "level": 7,
+    "label": "왜곡됨",
+    "grade": "distortion",
+    "expectedCount": 6,
+    "scrapedCount": 6
+  },
+  {
+    "level": 8,
+    "label": "변화된",
+    "grade": "changed",
+    "expectedCount": 5,
+    "scrapedCount": 5
+  },
+  {
+    "level": 9,
+    "label": "제한됨",
+    "grade": "limited",
+    "expectedCount": 10,
+    "scrapedCount": 10
+  },
+  {
+    "level": 10,
+    "label": "초월함",
+    "grade": "transcend",
+    "expectedCount": 36,
+    "scrapedCount": 36
+  },
+  {
+    "level": 11,
+    "label": "불멸의",
+    "grade": "immortal",
+    "expectedCount": 12,
+    "scrapedCount": 12
+  },
+  {
+    "level": 12,
+    "label": "영원한",
+    "grade": "eternal",
+    "expectedCount": 12,
+    "scrapedCount": 12
+  },
+  {
+    "level": 15,
+    "label": "특수함",
+    "grade": "specialUnit",
+    "expectedCount": 7,
+    "scrapedCount": 7
+  },
+  {
+    "level": 23,
+    "label": "세라핌",
+    "grade": "seraphim",
+    "expectedCount": 4,
+    "scrapedCount": 4
+  }
+]

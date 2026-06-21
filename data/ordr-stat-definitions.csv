@@ -1,0 +1,8 @@
+key,label,order,enabled,includeInTotal
+attack,공격,1,TRUE,TRUE
+magicAttack,마공,2,TRUE,TRUE
+armorReduction,방깎,3,TRUE,TRUE
+bossDamage,보딜,4,TRUE,TRUE
+stun,스턴,5,TRUE,TRUE
+slow,이감,6,TRUE,TRUE
+manaRegen,마젠,7,TRUE,TRUE
