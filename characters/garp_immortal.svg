@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Garp sample thumbnail</title>
+  <desc id="desc">Sample character thumbnail with GA initials.</desc>
+  <rect width="160" height="160" rx="24" fill="#1e3a5f"/>
+  <circle cx="118" cy="42" r="34" fill="#2f6fa3" opacity="0.72"/>
+  <path d="M0 116 C38 88 82 120 160 82 L160 160 L0 160 Z" fill="#d9b26f" opacity="0.95"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">GA</text>
+</svg>

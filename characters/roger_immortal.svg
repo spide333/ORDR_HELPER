@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Roger sample thumbnail</title>
+  <desc id="desc">Sample character thumbnail with RO initials.</desc>
+  <rect width="160" height="160" rx="24" fill="#5b1f2d"/>
+  <circle cx="42" cy="44" r="32" fill="#b4444f" opacity="0.75"/>
+  <path d="M0 112 C46 92 78 118 160 72 L160 160 L0 160 Z" fill="#f0c95b" opacity="0.95"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">RO</text>
+</svg>

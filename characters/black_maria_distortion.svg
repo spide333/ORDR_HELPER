@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Black Maria sample thumbnail</title>
+  <desc id="desc">Sample character thumbnail with BM initials.</desc>
+  <rect width="160" height="160" rx="24" fill="#252238"/>
+  <circle cx="44" cy="42" r="34" fill="#6c55b6" opacity="0.75"/>
+  <path d="M0 116 C44 82 86 122 160 80 L160 160 L0 160 Z" fill="#4fb3a6" opacity="0.95"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#ffffff">BM</text>
+</svg>

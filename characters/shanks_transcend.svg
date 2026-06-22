@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Shanks sample thumbnail</title>
+  <desc id="desc">Sample character thumbnail with SH initials.</desc>
+  <rect width="160" height="160" rx="24" fill="#3e223d"/>
+  <circle cx="116" cy="46" r="34" fill="#8d3f7a" opacity="0.72"/>
+  <path d="M0 110 C48 78 92 126 160 88 L160 160 L0 160 Z" fill="#e36f4a" opacity="0.95"/>
+  <text x="80" y="98" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">SH</text>
+</svg>
