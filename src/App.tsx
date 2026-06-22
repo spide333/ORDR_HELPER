@@ -54,7 +54,6 @@ export function App() {
         onSearchQueryChange={setSearchQuery}
       />
       <SubBar
-        visibleCount={filteredCharacters.length}
         selectedCount={selectedCharacterIds.length}
         selectedLegendaryValue={selectedLegendaryValue}
         onResetSelection={resetSelection}

@@ -128,4 +128,44 @@ describe("BottomDock", () => {
       "special"
     ]);
   });
+
+  it("shows selected legendary value instead of selected character count", () => {
+    render(
+      createElement(BottomDock as ComponentType<any>, {
+        selectedCharacters: [
+          {
+            id: "roger",
+            nameKo: "로져",
+            grade: "immortal",
+            imageKey: "roger",
+            imageUrl: "",
+            sortName: "로져",
+            stats: {},
+            damageType: "physical",
+            isEnabled: true,
+            legendaryValue: 3
+          },
+          {
+            id: "nami",
+            nameKo: "나미",
+            grade: "transcend",
+            imageKey: "nami",
+            imageUrl: "",
+            sortName: "나미",
+            stats: {},
+            damageType: "magical",
+            isEnabled: true,
+            legendaryValue: 2.2222
+          }
+        ],
+        totalStats: {},
+        statDefinitions: []
+      }),
+    );
+
+    expect(screen.getByText("5.2 전설")).toBeInTheDocument();
+    expect(screen.getByText("3.0전설")).toBeInTheDocument();
+    expect(screen.getByText("2.2전설")).toBeInTheDocument();
+    expect(screen.queryByText("2명")).not.toBeInTheDocument();
+  });
 });

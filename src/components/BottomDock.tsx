@@ -34,6 +34,11 @@ function formatStunValue(value: number): string {
   return (Math.round(value * 10) / 10).toFixed(1);
 }
 
+function formatLegendaryValue(value: number | undefined): string {
+  const normalizedValue = Number.isFinite(value) ? Number(value) : 0;
+  return (Math.round(normalizedValue * 10) / 10).toFixed(1);
+}
+
 function formatStatValue(
   definition: StatDefinition,
   totalStats: CharacterStats,
@@ -82,6 +87,10 @@ export function BottomDock({
   const displayedStats = showAllStats ? visibleStats : importantStats;
   const canToggleStats = visibleStats.length > importantStats.length;
   const sortedSelectedCharacters = sortSelectedCharacters(selectedCharacters);
+  const selectedLegendaryValue = selectedCharacters.reduce(
+    (total, character) => total + (Number.isFinite(character.legendaryValue) ? character.legendaryValue : 0),
+    0,
+  );
 
   return (
     <aside className={styles.dock}>
@@ -89,7 +98,7 @@ export function BottomDock({
         <div className={styles.selectedStrip}>
           <div className={styles.stripHeader}>
             <span>선택된 캐릭터</span>
-            <span>{selectedCharacters.length}명</span>
+            <span>{formatLegendaryValue(selectedLegendaryValue)} 전설</span>
           </div>
           <div className={styles.selectedGrid} role="list" aria-label="선택한 캐릭터">
             {sortedSelectedCharacters.map((character) => (
@@ -111,6 +120,7 @@ export function BottomDock({
                   />
                 </span>
                 <span className={styles.miniName}>{character.nameKo}</span>
+                <span className={styles.miniLegendary}>{formatLegendaryValue(character.legendaryValue)}전설</span>
               </div>
             ))}
           </div>

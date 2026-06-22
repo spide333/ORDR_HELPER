@@ -40,7 +40,7 @@
 .selectedGrid {
   display: flex;
   gap: 6px;
-  height: 52px;
+  height: 65px;
   min-width: 0;
   overflow-x: auto;
   overflow-y: hidden;
@@ -156,6 +156,18 @@
   white-space: nowrap;
 }
 
+.miniLegendary {
+  min-width: 0;
+  overflow: hidden;
+  color: var(--grade-color);
+  font-size: 0.62rem;
+  font-weight: 900;
+  line-height: 1;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .stats {
   display: grid;
   gap: 6px;
@@ -241,7 +253,7 @@
   }
 
   .selectedGrid {
-    height: 50px;
+    height: 64px;
   }
 
   .statsGrid {
