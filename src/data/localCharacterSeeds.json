@@ -5,7 +5,7 @@
     "grade": "special",
     "damageType": "common",
     "sortName": "나미 크리마 텍트",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_45",
@@ -13,7 +13,7 @@
     "grade": "special",
     "damageType": "physical",
     "sortName": "바질 호킨스 초신성",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_62",
@@ -21,7 +21,7 @@
     "grade": "special",
     "damageType": "common",
     "sortName": "스모커 해군 준장",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_42",
@@ -29,7 +29,7 @@
     "grade": "special",
     "damageType": "common",
     "sortName": "유스타스 키드 초신성",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_50",
@@ -37,7 +37,7 @@
     "grade": "special",
     "damageType": "common",
     "sortName": "크로커 다일 전 칠무해",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_35",
@@ -45,7 +45,7 @@
     "grade": "special",
     "damageType": "physical",
     "sortName": "토니토니 쵸파 두뇌 강화",
-    "legendaryValue": 0
+    "legendaryValue": 0.1111
   },
   {
     "id": "ord_274",
@@ -53,7 +53,7 @@
     "grade": "rare",
     "damageType": "physical",
     "sortName": "X-드레이크 알로사우로스",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_82",
@@ -61,7 +61,7 @@
     "grade": "rare",
     "damageType": "physical",
     "sortName": "바질 호킨스 스트로맨",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_88",
@@ -69,7 +69,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "브룩 해골 음악가",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_94",
@@ -77,7 +77,7 @@
     "grade": "rare",
     "damageType": "physical",
     "sortName": "사보 혁명군",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_87",
@@ -85,7 +85,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "슈가 도플패밀리 최고 간부",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_102",
@@ -93,7 +93,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "유스타스 키드 '캡틴'키드",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_77",
@@ -101,7 +101,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "쿠잔 해군대장 아오키지",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_68",
@@ -109,7 +109,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "크로커 다일 Mr.0 Sir",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_90",
@@ -117,7 +117,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "토니토니 쵸파 혼 포인트",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_86",
@@ -125,7 +125,7 @@
     "grade": "rare",
     "damageType": "common",
     "sortName": "페로나 홀로홀로열매 - 네거티브",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_103",
@@ -133,7 +133,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "겟코 모리아",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_133",
@@ -141,7 +141,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "골.D.에이스",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_130",
@@ -149,7 +149,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "나미",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_275",
@@ -157,7 +157,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "네코마무시",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_116",
@@ -165,7 +165,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "라분",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_119",
@@ -173,7 +173,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "로브 루치",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_118",
@@ -181,7 +181,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "롤로노아 조로",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_137",
@@ -189,7 +189,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "마르코",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_129",
@@ -197,7 +197,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "티치",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_104",
@@ -205,7 +205,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "나이트메어",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_107",
@@ -213,7 +213,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "드래곤",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_117",
@@ -221,7 +221,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "바르토로메오",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_128",
@@ -229,7 +229,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "바솔로뮤 쿠마",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_108",
@@ -237,7 +237,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "보아 핸콕",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_123",
@@ -245,7 +245,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "블랙마리아",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_113",
@@ -253,7 +253,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "레이쥬",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_120",
@@ -261,7 +261,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "상디",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_358",
@@ -269,7 +269,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "샬롯 브륄레",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_255",
@@ -277,7 +277,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "크래커",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_111",
@@ -285,7 +285,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "샹크스",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_110",
@@ -293,7 +293,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "센고쿠",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_126",
@@ -301,7 +301,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "슈가",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_106",
@@ -309,7 +309,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "스모커",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_268",
@@ -317,7 +317,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "시노부",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_131",
@@ -325,7 +325,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "시저 크라운",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_109",
@@ -333,7 +333,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "시키",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_125",
@@ -341,7 +341,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "레일리",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_267",
@@ -349,7 +349,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "토키",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_112",
@@ -357,7 +357,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "흰수염",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_136",
@@ -365,7 +365,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "울티",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_140",
@@ -373,7 +373,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "장군좀비",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_132",
@@ -381,7 +381,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "제파",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_105",
@@ -389,7 +389,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "징베",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_135",
@@ -397,7 +397,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "쵸파",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_115",
@@ -405,7 +405,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "카르가라",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_121",
@@ -413,7 +413,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "코비",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_290",
@@ -421,7 +421,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "킹",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_134",
@@ -429,7 +429,7 @@
     "grade": "legendary",
     "damageType": "magical",
     "sortName": "로우",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_122",
@@ -437,7 +437,7 @@
     "grade": "legendary",
     "damageType": "common",
     "sortName": "후지토라",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_349",
@@ -445,7 +445,7 @@
     "grade": "legendary",
     "damageType": "physical",
     "sortName": "히바리",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_146",
@@ -453,7 +453,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "방주맥심",
-    "legendaryValue": 0
+    "legendaryValue": 0.7777
   },
   {
     "id": "ord_164",
@@ -461,7 +461,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "류마",
-    "legendaryValue": 0
+    "legendaryValue": 0.6666
   },
   {
     "id": "ord_148",
@@ -469,7 +469,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "베르고",
-    "legendaryValue": 0
+    "legendaryValue": 0.8888
   },
   {
     "id": "ord_139",
@@ -477,7 +477,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "레드포스호",
-    "legendaryValue": 0
+    "legendaryValue": 1.1111
   },
   {
     "id": "ord_155",
@@ -485,7 +485,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "레베카",
-    "legendaryValue": 0
+    "legendaryValue": 0.6666
   },
   {
     "id": "ord_302",
@@ -493,7 +493,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "료쿠규",
-    "legendaryValue": 0
+    "legendaryValue": 1.111
   },
   {
     "id": "ord_147",
@@ -501,7 +501,7 @@
     "grade": "hidden",
     "damageType": "common",
     "sortName": "모비딕호",
-    "legendaryValue": 0
+    "legendaryValue": 0.4444
   },
   {
     "id": "ord_158",
@@ -509,7 +509,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "반더데켄",
-    "legendaryValue": 0
+    "legendaryValue": 0.7777
   },
   {
     "id": "ord_152",
@@ -517,7 +517,7 @@
     "grade": "hidden",
     "damageType": "common",
     "sortName": "발라티에",
-    "legendaryValue": 0
+    "legendaryValue": 0.4444
   },
   {
     "id": "ord_163",
@@ -525,7 +525,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "봉쿠레",
-    "legendaryValue": 0
+    "legendaryValue": 0.6666
   },
   {
     "id": "ord_154",
@@ -533,7 +533,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "시류",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_160",
@@ -541,7 +541,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "사보",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_145",
@@ -549,7 +549,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "써니호",
-    "legendaryValue": 0
+    "legendaryValue": 0.6666
   },
   {
     "id": "ord_329",
@@ -557,7 +557,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "스튜시",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_161",
@@ -565,7 +565,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "아카이누",
-    "legendaryValue": 0
+    "legendaryValue": 0.8888
   },
   {
     "id": "ord_149",
@@ -573,7 +573,7 @@
     "grade": "hidden",
     "damageType": "common",
     "sortName": "이완코브",
-    "legendaryValue": 0
+    "legendaryValue": 0.7777
   },
   {
     "id": "ord_156",
@@ -581,7 +581,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "검호",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_253",
@@ -589,7 +589,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "캐럿",
-    "legendaryValue": 0
+    "legendaryValue": 0.8888
   },
   {
     "id": "ord_165",
@@ -597,7 +597,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "아오키지",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_150",
@@ -605,7 +605,7 @@
     "grade": "hidden",
     "damageType": "magical",
     "sortName": "키쿠",
-    "legendaryValue": 0
+    "legendaryValue": 0.7777
   },
   {
     "id": "ord_166",
@@ -613,7 +613,7 @@
     "grade": "hidden",
     "damageType": "physical",
     "sortName": "킬러",
-    "legendaryValue": 0
+    "legendaryValue": 0.6666
   },
   {
     "id": "ord_151",
@@ -621,7 +621,7 @@
     "grade": "hidden",
     "damageType": "common",
     "sortName": "피셔타이거",
-    "legendaryValue": 0
+    "legendaryValue": 1.111
   },
   {
     "id": "ord_366",
@@ -629,7 +629,7 @@
     "grade": "distortion",
     "damageType": "magical",
     "sortName": "바제스",
-    "legendaryValue": 0
+    "legendaryValue": 1.3332
   },
   {
     "id": "ord_353_1",
@@ -637,7 +637,7 @@
     "grade": "distortion",
     "damageType": "physical",
     "sortName": "블랙마리아(스턴)",
-    "legendaryValue": 0
+    "legendaryValue": 1.4444
   },
   {
     "id": "ord_353_2",
@@ -645,7 +645,7 @@
     "grade": "distortion",
     "damageType": "physical",
     "sortName": "블랙마리아(이감)",
-    "legendaryValue": 0
+    "legendaryValue": 1.4444
   },
   {
     "id": "ord_353_3",
@@ -653,7 +653,7 @@
     "grade": "distortion",
     "damageType": "physical",
     "sortName": "블랙마리아(딜)",
-    "legendaryValue": 0
+    "legendaryValue": 1.4444
   },
   {
     "id": "ord_367",
@@ -661,7 +661,7 @@
     "grade": "distortion",
     "damageType": "common",
     "sortName": "에이스",
-    "legendaryValue": 0
+    "legendaryValue": 1.4444
   },
   {
     "id": "ord_153",
@@ -669,7 +669,7 @@
     "grade": "distortion",
     "damageType": "magical",
     "sortName": "코알라",
-    "legendaryValue": 0
+    "legendaryValue": 1.3333
   },
   {
     "id": "ord_348",
@@ -677,7 +677,7 @@
     "grade": "distortion",
     "damageType": "physical",
     "sortName": "퀸",
-    "legendaryValue": 0
+    "legendaryValue": 1.3333
   },
   {
     "id": "ord_141",
@@ -685,7 +685,7 @@
     "grade": "distortion",
     "damageType": "magical",
     "sortName": "페로나",
-    "legendaryValue": 0
+    "legendaryValue": 1.4444
   },
   {
     "id": "ord_170",
@@ -693,7 +693,7 @@
     "grade": "changed",
     "damageType": "magical",
     "sortName": "도플라밍고",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_266",
@@ -701,7 +701,7 @@
     "grade": "changed",
     "damageType": "magical",
     "sortName": "베이비 5",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_173",
@@ -709,7 +709,7 @@
     "grade": "changed",
     "damageType": "physical",
     "sortName": "비비",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_347",
@@ -717,7 +717,7 @@
     "grade": "changed",
     "damageType": "magical",
     "sortName": "카쿠",
-    "legendaryValue": 0
+    "legendaryValue": 0.3333
   },
   {
     "id": "ord_254",
@@ -725,7 +725,7 @@
     "grade": "changed",
     "damageType": "magical",
     "sortName": "캐럿 스론",
-    "legendaryValue": 0
+    "legendaryValue": 0.8888
   },
   {
     "id": "ord_193",
@@ -733,7 +733,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "레베카",
-    "legendaryValue": 0
+    "legendaryValue": 1.9999
   },
   {
     "id": "ord_326",
@@ -741,7 +741,7 @@
     "grade": "limited",
     "damageType": "common",
     "sortName": "마르코",
-    "legendaryValue": 0
+    "legendaryValue": 2
   },
   {
     "id": "ord_326_up",
@@ -749,7 +749,7 @@
     "grade": "limited",
     "damageType": "common",
     "sortName": "마르코(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 2
   },
   {
     "id": "ord_251",
@@ -757,7 +757,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "카타쿠리",
-    "legendaryValue": 0
+    "legendaryValue": 1.7777
   },
   {
     "id": "ord_269",
@@ -765,7 +765,7 @@
     "grade": "limited",
     "damageType": "magical",
     "sortName": "시노부",
-    "legendaryValue": 0
+    "legendaryValue": 2
   },
   {
     "id": "ord_142",
@@ -773,7 +773,7 @@
     "grade": "limited",
     "damageType": "magical",
     "sortName": "아인",
-    "legendaryValue": 0
+    "legendaryValue": 1.6665
   },
   {
     "id": "ord_331",
@@ -781,7 +781,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "알비다",
-    "legendaryValue": 0
+    "legendaryValue": 1.7777
   },
   {
     "id": "ord_215",
@@ -789,7 +789,7 @@
     "grade": "limited",
     "damageType": "magical",
     "sortName": "에넬",
-    "legendaryValue": 0
+    "legendaryValue": 1.8888
   },
   {
     "id": "ord_187",
@@ -797,7 +797,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "크로커다일",
-    "legendaryValue": 0
+    "legendaryValue": 1.5554
   },
   {
     "id": "ord_187_up",
@@ -805,7 +805,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "크로커다일(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 1.5554
   },
   {
     "id": "ord_291",
@@ -813,7 +813,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "킹",
-    "legendaryValue": 0
+    "legendaryValue": 2.3333
   },
   {
     "id": "ord_291_up",
@@ -821,7 +821,7 @@
     "grade": "limited",
     "damageType": "physical",
     "sortName": "킹(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 2.3333
   },
   {
     "id": "ord_214",
@@ -829,7 +829,7 @@
     "grade": "limited",
     "damageType": "magical",
     "sortName": "패트릭 레드필드",
-    "legendaryValue": 0
+    "legendaryValue": 2.6666
   },
   {
     "id": "ord_192",
@@ -853,7 +853,7 @@
     "grade": "transcend",
     "damageType": "common",
     "sortName": "닥터 베가펑크",
-    "legendaryValue": 0.3333
+    "legendaryValue": 1.3332
   },
   {
     "id": "ord_209",
@@ -869,7 +869,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "도플라밍고",
-    "legendaryValue": 0.3333
+    "legendaryValue": 1.8887
   },
   {
     "id": "ord_250",
@@ -877,7 +877,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "로브 루치",
-    "legendaryValue": 1.1111
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_191",
@@ -885,7 +885,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "롤로노아 조로",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.3332
   },
   {
     "id": "ord_321",
@@ -893,7 +893,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "롤로노아 조로 (강화)",
-    "legendaryValue": 0
+    "legendaryValue": 2.3332
   },
   {
     "id": "ord_323",
@@ -901,7 +901,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "롤로노아 조로 (염왕)",
-    "legendaryValue": 0
+    "legendaryValue": 2.3332
   },
   {
     "id": "ord_273",
@@ -909,7 +909,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "루피 - 기어포스",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.4444
   },
   {
     "id": "ord_273_up",
@@ -917,7 +917,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "루피 - 기어포스(특강)",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.4444
   },
   {
     "id": "ord_204",
@@ -957,7 +957,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "브룩",
-    "legendaryValue": 1.4444
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_199_up",
@@ -965,7 +965,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "브룩(특강)",
-    "legendaryValue": 1.4444
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_216",
@@ -973,7 +973,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "사보",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.3332
   },
   {
     "id": "ord_190",
@@ -997,7 +997,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "샹크스",
-    "legendaryValue": 1.4444
+    "legendaryValue": 2.4443
   },
   {
     "id": "ord_205_up",
@@ -1005,7 +1005,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "샹크스(특강)",
-    "legendaryValue": 1.4444
+    "legendaryValue": 2.4443
   },
   {
     "id": "ord_200",
@@ -1013,7 +1013,7 @@
     "grade": "transcend",
     "damageType": "common",
     "sortName": "시라호시",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_303",
@@ -1021,7 +1021,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "로큐규",
-    "legendaryValue": 1.1111
+    "legendaryValue": 2.2221
   },
   {
     "id": "ord_201",
@@ -1029,7 +1029,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "아카이누",
-    "legendaryValue": 1.1111
+    "legendaryValue": 1.9999
   },
   {
     "id": "ord_299",
@@ -1061,7 +1061,7 @@
     "grade": "transcend",
     "damageType": "common",
     "sortName": "보니",
-    "legendaryValue": 1.2222
+    "legendaryValue": 2.2221
   },
   {
     "id": "ord_272",
@@ -1093,7 +1093,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "아오키지",
-    "legendaryValue": 1.1111
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_202_up",
@@ -1101,7 +1101,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "아오키지(특강)",
-    "legendaryValue": 1.1111
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_292",
@@ -1109,7 +1109,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "키드",
-    "legendaryValue": 1.5555
+    "legendaryValue": 2.2221
   },
   {
     "id": "ord_203",
@@ -1133,7 +1133,7 @@
     "grade": "transcend",
     "damageType": "magical",
     "sortName": "프랑키",
-    "legendaryValue": 1.4444
+    "legendaryValue": 1.7777
   },
   {
     "id": "ord_207",
@@ -1141,7 +1141,7 @@
     "grade": "transcend",
     "damageType": "physical",
     "sortName": "후지토라",
-    "legendaryValue": 1.3333
+    "legendaryValue": 2.111
   },
   {
     "id": "ord_177",
@@ -1277,7 +1277,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "길드 테조로",
-    "legendaryValue": 0
+    "legendaryValue": 3.1109
   },
   {
     "id": "ord_359_up",
@@ -1285,7 +1285,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "길드 테조로(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 3.1109
   },
   {
     "id": "ord_218",
@@ -1293,7 +1293,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "비비",
-    "legendaryValue": 0
+    "legendaryValue": 2.7775
   },
   {
     "id": "ord_305",
@@ -1301,7 +1301,7 @@
     "grade": "eternal",
     "damageType": "physical",
     "sortName": "니카",
-    "legendaryValue": 0
+    "legendaryValue": 3.6666
   },
   {
     "id": "ord_346",
@@ -1309,7 +1309,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "류마",
-    "legendaryValue": 0
+    "legendaryValue": 2.6665
   },
   {
     "id": "ord_219",
@@ -1317,7 +1317,7 @@
     "grade": "eternal",
     "damageType": "physical",
     "sortName": "버기",
-    "legendaryValue": 0
+    "legendaryValue": 2.7776
   },
   {
     "id": "ord_222",
@@ -1325,7 +1325,7 @@
     "grade": "eternal",
     "damageType": "common",
     "sortName": "핸콕",
-    "legendaryValue": 0
+    "legendaryValue": 2.8887
   },
   {
     "id": "ord_222_up",
@@ -1333,7 +1333,7 @@
     "grade": "eternal",
     "damageType": "common",
     "sortName": "핸콕(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 2.8887
   },
   {
     "id": "ord_308",
@@ -1341,7 +1341,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "우타",
-    "legendaryValue": 0
+    "legendaryValue": 3.3332
   },
   {
     "id": "ord_221",
@@ -1349,7 +1349,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "쥬라클 미호크",
-    "legendaryValue": 0
+    "legendaryValue": 2.7776
   },
   {
     "id": "ord_220",
@@ -1357,7 +1357,7 @@
     "grade": "eternal",
     "damageType": "physical",
     "sortName": "카벤딧슈",
-    "legendaryValue": 0
+    "legendaryValue": 2.4443
   },
   {
     "id": "ord_220_up",
@@ -1365,7 +1365,7 @@
     "grade": "eternal",
     "damageType": "physical",
     "sortName": "카벤딧슈(특강)",
-    "legendaryValue": 0
+    "legendaryValue": 2.4443
   },
   {
     "id": "ord_276",
@@ -1373,7 +1373,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "오뎅",
-    "legendaryValue": 0
+    "legendaryValue": 3.111
   },
   {
     "id": "ord_217",
@@ -1381,7 +1381,7 @@
     "grade": "eternal",
     "damageType": "magical",
     "sortName": "에이스",
-    "legendaryValue": 0
+    "legendaryValue": 2.4444
   },
   {
     "id": "ord_363",
@@ -1389,7 +1389,7 @@
     "grade": "seraphim",
     "damageType": "magical",
     "sortName": "S - 베어",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_364",
@@ -1397,7 +1397,7 @@
     "grade": "seraphim",
     "damageType": "physical",
     "sortName": "S - 샤크",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_365",
@@ -1405,7 +1405,7 @@
     "grade": "seraphim",
     "damageType": "magical",
     "sortName": "S - 스네이크",
-    "legendaryValue": 0
+    "legendaryValue": 1
   },
   {
     "id": "ord_362",
@@ -1413,7 +1413,7 @@
     "grade": "seraphim",
     "damageType": "physical",
     "sortName": "S - 호크",
-    "legendaryValue": 0
+    "legendaryValue": 0.9999
   },
   {
     "id": "ord_226",
