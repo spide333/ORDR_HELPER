@@ -54,6 +54,7 @@ export function App() {
         onSearchQueryChange={setSearchQuery}
       />
       <SubBar
+        selectedCharacters={selectedCharacters}
         selectedCount={selectedCharacterIds.length}
         selectedLegendaryValue={selectedLegendaryValue}
         onResetSelection={resetSelection}
@@ -73,7 +74,7 @@ export function App() {
           />
         ) : null}
       </section>
-      <BottomDock selectedCharacters={selectedCharacters} totalStats={totalStats} statDefinitions={statDefinitions} />
+      <BottomDock totalStats={totalStats} statDefinitions={statDefinitions} />
     </main>
   );
 }

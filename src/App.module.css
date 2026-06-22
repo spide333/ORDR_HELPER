@@ -1,6 +1,6 @@
 .appShell {
   min-height: 100vh;
-  padding: 12px 12px 188px;
+  padding: 12px 12px 132px;
   color: #161b24;
 }
 
@@ -13,6 +13,6 @@
 @media (min-width: 720px) {
   .appShell {
     padding-top: 20px;
-    padding-bottom: 176px;
+    padding-bottom: 124px;
   }
 }

@@ -26,8 +26,9 @@ describe("App", () => {
     expect(screen.getByText("ORDR")).toBeInTheDocument();
     expect(screen.getByRole("button", { name: "물뎀" })).toHaveAttribute("aria-pressed", "true");
     expect(screen.getByRole("button", { name: "마뎀" })).toHaveAttribute("aria-pressed", "false");
+    expect(screen.getByText("선택 0.0 전설")).toBeInTheDocument();
     expect(screen.getByText("보유 스탯")).toBeInTheDocument();
-    expect(screen.getByRole("list", { name: "선택한 캐릭터" })).toBeInTheDocument();
+    expect(screen.queryByRole("list", { name: "선택한 캐릭터" })).not.toBeInTheDocument();
     expect(screen.queryByText("전체 보유 스탯 합")).not.toBeInTheDocument();
   });
 

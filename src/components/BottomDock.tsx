@@ -1,18 +1,12 @@
 import { useState } from "react";
-import type { Character, CharacterStats } from "../domain/character";
-import { gradeOrder } from "../domain/character";
-import { resolveCharacterImageUrl } from "../domain/characterSelectors";
+import type { CharacterStats } from "../domain/character";
 import { defaultStatDefinitions, normalizeStatNumber, visibleStatDefinitions, type StatDefinition } from "../domain/stats";
 import styles from "./BottomDock.module.css";
 
 type BottomDockProps = {
-  selectedCharacters: Character[];
   totalStats: CharacterStats;
   statDefinitions?: StatDefinition[];
 };
-
-const selectedGradeRank = new Map(gradeOrder.map((grade, index) => [grade, index]));
-const koreanCollator = new Intl.Collator("ko-KR");
 
 function isStunDefinition(definition: StatDefinition): boolean {
   return definition.key === "stun" || definition.label === "스턴";
@@ -32,11 +26,6 @@ function formatStatNumber(value: number): string {
 
 function formatStunValue(value: number): string {
   return (Math.round(value * 10) / 10).toFixed(1);
-}
-
-function formatLegendaryValue(value: number | undefined): string {
-  const normalizedValue = Number.isFinite(value) ? Number(value) : 0;
-  return (Math.round(normalizedValue * 10) / 10).toFixed(1);
 }
 
 function formatStatValue(
@@ -63,21 +52,7 @@ function formatStatValue(
   return formatStatNumber(value);
 }
 
-function sortSelectedCharacters(characters: Character[]): Character[] {
-  return [...characters].sort((a, b) => {
-    const gradeRank = (selectedGradeRank.get(a.grade) ?? gradeOrder.length)
-      - (selectedGradeRank.get(b.grade) ?? gradeOrder.length);
-
-    if (gradeRank !== 0) {
-      return gradeRank;
-    }
-
-    return koreanCollator.compare(a.sortName || a.nameKo, b.sortName || b.nameKo);
-  });
-}
-
 export function BottomDock({
-  selectedCharacters,
   totalStats,
   statDefinitions = defaultStatDefinitions
 }: BottomDockProps) {
@@ -86,45 +61,10 @@ export function BottomDock({
   const importantStats = visibleStats.filter((definition) => definition.important && !isTriggeredSlowDefinition(definition));
   const displayedStats = showAllStats ? visibleStats : importantStats;
   const canToggleStats = visibleStats.length > importantStats.length;
-  const sortedSelectedCharacters = sortSelectedCharacters(selectedCharacters);
-  const selectedLegendaryValue = selectedCharacters.reduce(
-    (total, character) => total + (Number.isFinite(character.legendaryValue) ? character.legendaryValue : 0),
-    0,
-  );
 
   return (
     <aside className={styles.dock}>
       <div className={styles.dockInner}>
-        <div className={styles.selectedStrip}>
-          <div className={styles.stripHeader}>
-            <span>선택된 캐릭터</span>
-            <span>{formatLegendaryValue(selectedLegendaryValue)} 전설</span>
-          </div>
-          <div className={styles.selectedGrid} role="list" aria-label="선택한 캐릭터">
-            {sortedSelectedCharacters.map((character) => (
-              <div
-                key={character.id}
-                className={styles.mini}
-                role="listitem"
-                aria-label={character.nameKo}
-                data-grade={character.grade}
-              >
-                <span className={styles.miniThumb}>
-                  <span>{character.nameKo.slice(0, 1)}</span>
-                  <img
-                    src={resolveCharacterImageUrl(character)}
-                    alt=""
-                    onError={(event) => {
-                      event.currentTarget.style.display = "none";
-                    }}
-                  />
-                </span>
-                <span className={styles.miniName}>{character.nameKo}</span>
-                <span className={styles.miniLegendary}>{formatLegendaryValue(character.legendaryValue)}전설</span>
-              </div>
-            ))}
-          </div>
-        </div>
         <div className={styles.stats}>
           <div className={styles.statsHeader}>
             <div className={styles.label}>보유 스탯</div>
