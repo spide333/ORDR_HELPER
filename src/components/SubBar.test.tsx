@@ -17,7 +17,8 @@ describe("SubBar", () => {
       />,
     );
 
-    expect(screen.getByText("선택 1.7 전설")).toBeInTheDocument();
+    expect(screen.getByText("1.7 전설")).toBeInTheDocument();
+    expect(screen.queryByText("선택 1.7 전설")).not.toBeInTheDocument();
     expect(screen.queryByText(/명/)).not.toBeInTheDocument();
   });
 
@@ -71,11 +72,14 @@ describe("SubBar", () => {
       />,
     );
 
-    const selectedList = screen.getByRole("list", { name: "선택한 캐릭터" });
+    const selectedRow = screen.getByTestId("selected-inline-row");
+    const selectedList = within(selectedRow).getByRole("list", { name: "선택한 캐릭터" });
     const selectedItems = within(selectedList).getAllByRole("listitem");
 
     expect(screen.getByTestId("selected-summary-bar")).toHaveAttribute("data-has-selection", "true");
-    expect(screen.getByText("선택 4.1 전설")).toBeInTheDocument();
+    expect(within(selectedRow).getByText("4.1 전설")).toBeInTheDocument();
+    expect(within(selectedRow).getByRole("button", { name: "선택 초기화" })).toBeInTheDocument();
+    expect(screen.queryByText("선택 4.1 전설")).not.toBeInTheDocument();
     expect(selectedItems.map((item) => item.getAttribute("aria-label"))).toEqual(["로져", "샹크스", "나미"]);
     expect(selectedItems.map((item) => item.getAttribute("data-grade"))).toEqual([
       "immortal",

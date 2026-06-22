@@ -52,37 +52,41 @@ export function SubBar({
 
   return (
     <div className={styles.subBar} data-has-selection={hasSelection} data-testid="selected-summary-bar">
-      {hasSelection ? (
-        <div className={styles.selectedGrid} role="list" aria-label="선택한 캐릭터">
-          {sortedSelectedCharacters.map((character) => (
-            <div
-              key={character.id}
-              className={styles.mini}
-              role="listitem"
-              aria-label={character.nameKo}
-              data-grade={character.grade}
-            >
-              <span className={styles.miniThumb}>
-                <span>{character.nameKo.slice(0, 1)}</span>
-                <img
-                  src={resolveCharacterImageUrl(character)}
-                  alt=""
-                  onError={(event) => {
-                    event.currentTarget.style.display = "none";
-                  }}
-                />
-              </span>
-              <span className={styles.miniName}>{character.nameKo}</span>
-              <span className={styles.miniLegendary}>{formatLegendaryValue(character.legendaryValue)}전설</span>
-            </div>
-          ))}
+      <div className={styles.selectedInlineRow} data-testid="selected-inline-row">
+        {hasSelection ? (
+          <div className={styles.selectedGrid} role="list" aria-label="선택한 캐릭터">
+            {sortedSelectedCharacters.map((character) => (
+              <div
+                key={character.id}
+                className={styles.mini}
+                role="listitem"
+                aria-label={character.nameKo}
+                data-grade={character.grade}
+              >
+                <span className={styles.miniThumb}>
+                  <span>{character.nameKo.slice(0, 1)}</span>
+                  <img
+                    src={resolveCharacterImageUrl(character)}
+                    alt=""
+                    onError={(event) => {
+                      event.currentTarget.style.display = "none";
+                    }}
+                  />
+                </span>
+                <span className={styles.miniName}>{character.nameKo}</span>
+                <span className={styles.miniLegendary}>{formatLegendaryValue(character.legendaryValue)}전설</span>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <span className={styles.emptySelection} aria-hidden="true" />
+        )}
+        <div className={styles.summaryRow}>
+          <span>{formatLegendaryValue(selectedLegendaryValue)} 전설</span>
+          <button type="button" aria-label="선택 초기화" disabled={isResetDisabled} onClick={handleReset}>
+            ↻
+          </button>
         </div>
-      ) : null}
-      <div className={styles.summaryRow}>
-        <span>선택 {formatLegendaryValue(selectedLegendaryValue)} 전설</span>
-        <button type="button" aria-label="선택 초기화" disabled={isResetDisabled} onClick={handleReset}>
-          ↻
-        </button>
       </div>
     </div>
   );
